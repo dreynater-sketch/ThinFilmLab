@@ -1,0 +1,20 @@
+filters:
+  and:
+    - note["base"] == link("Andre Q — Training Matrix.base")
+properties:
+  file.name:
+    displayName: Skill
+  Area:
+    displayName: Area
+  Level:
+    displayName: Level
+  Notes:
+    displayName: Notes
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Area
+      - Level
+      - Notes

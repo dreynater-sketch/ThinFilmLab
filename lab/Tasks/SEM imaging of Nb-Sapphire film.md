@@ -1,0 +1,11 @@
+---
+base: "[[Task Board.base]]"
+Status: Backlog
+Sprint: Sprint 1 - Mar 2026
+Assignee: []
+Blocked By: DC Sputter 300nm Nb on Sapphire
+Notes: Kegan task. Image film morphology and grain structure.
+Category: Characterization
+Priority: P2 - Medium
+tags: [task]
+---

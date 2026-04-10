@@ -1,0 +1,61 @@
+# Experiments Tracker
+
+filters:
+  and:
+    - note["base"] == link("Experiments Tracker.base")
+properties:
+  file.name:
+    displayName: Experiment
+  Delta Tc (K):
+    displayName: Delta Tc (K)
+  Thickness (nm):
+    displayName: Thickness (nm)
+  Tc (K):
+    displayName: Tc (K)
+  Deposition Method:
+    displayName: Deposition Method
+  Heat Treatment:
+    displayName: Heat Treatment
+  Substrate:
+    displayName: Substrate
+  Characterization:
+    displayName: Characterization
+  Layers:
+    displayName: Layers
+  Phase:
+    displayName: Phase
+  Lead:
+    displayName: Lead
+  Date Started:
+    displayName: Date Started
+  Status:
+    displayName: Status
+  Notes:
+    displayName: Notes
+  Sn Content (%):
+    displayName: Sn Content (%)
+  Q Factor:
+    displayName: Q Factor
+  Recipe:
+    displayName: Recipe
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Delta Tc (K)
+      - Thickness (nm)
+      - Tc (K)
+      - Deposition Method
+      - Heat Treatment
+      - Substrate
+      - Characterization
+      - Layers
+      - Phase
+      - Lead
+      - Date Started
+      - Status
+      - Notes
+      - Sn Content (%)
+      - Q Factor
+      - Recipe

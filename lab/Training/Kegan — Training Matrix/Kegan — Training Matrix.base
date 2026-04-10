@@ -1,0 +1,22 @@
+# Kegan — Training Matrix
+
+filters:
+  and:
+    - note["base"] == link("Kegan — Training Matrix.base")
+properties:
+  file.name:
+    displayName: Skill
+  Notes:
+    displayName: Notes
+  Level:
+    displayName: Level
+  Area:
+    displayName: Area
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Notes
+      - Level
+      - Area

@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian cache (regenerated automatically)
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code session files
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large binary exports (PDFs live in Zotero storage, not here)
+*.pdf
+*.docx
+*.xlsx

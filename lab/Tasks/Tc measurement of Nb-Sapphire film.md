@@ -1,0 +1,11 @@
+---
+base: "[[Task Board.base]]"
+Status: Backlog
+Sprint: Sprint 1 - Mar 2026
+Assignee: []
+Blocked By: DC Sputter 300nm Nb on Sapphire
+Notes: Kegan task. SQUID magnetometry. Expect Tc ~9.2K for clean Nb.
+Category: Characterization
+Priority: P1 - High
+tags: [task]
+---

@@ -1,0 +1,37 @@
+# Task Board
+
+filters:
+  and:
+    - note["base"] == link("Task Board.base")
+properties:
+  file.name:
+    displayName: Task
+  Status:
+    displayName: Status
+  Sprint:
+    displayName: Sprint
+  Assignee:
+    displayName: Assignee
+  Blocked By:
+    displayName: Blocked By
+  Notes:
+    displayName: Notes
+  Due Date:
+    displayName: Due Date
+  Category:
+    displayName: Category
+  Priority:
+    displayName: Priority
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Status
+      - Sprint
+      - Assignee
+      - Blocked By
+      - Notes
+      - Due Date
+      - Category
+      - Priority
