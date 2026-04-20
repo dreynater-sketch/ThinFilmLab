@@ -1,0 +1,232 @@
+\section{Superconductors}\label{sec:superconductor}
+
+    Superconductivity is a phenomenon that occurs in many metals, alloys, and compounds where DC electrical resistance falls to zero below a characteristic temperature, called the critical temperature $T_c$, and a limiting magnetic field, usually the upper critical field $\mu_0 H_{c2}$~T. For RF cavity applications, superconductors are not limited by the anomalous skin depth and exhibit fundamentally different loss mechanisms in AC fields. This leads to much higher quality factors, $Q\sim10^{11}$~\cite{bafiaSignaturesEnhancedSuperconducting2025}, orders of magnitude higher than those of the best normal conductors. 
+    
+    However, for superconducting cavities made from pure metals (e.g., Pb, Nb), superconductivity breaks down well below the multi-tesla fields of interest for axion searches. Niobium possesses the highest upper critical field of any elemental superconductor, with $\mu_0 H_{c2} \approx 0.4$~T at 0~K. While this enables excellent performance in zero-field RF applications with ductile pure metals~\cite{padamseeRFSuperconductivity2009}, it is insufficient for the 9~T operating conditions of an axion detector. To maintain superconductivity in these high-field regimes, it is necessary to move beyond elements and explore superconducting compounds. These materials exhibit upper critical fields that are orders of magnitude higher than those of Niobium, though they introduce significant fabrication challenges.
+
+    
+
+\begin{comment}
+
+    \subsection{Introduction of Superconductivity}
+   
+    The penetration of the magnetic field is determined by the penetration depth $\lambda$, and is set by the superconducting electron (cooper pair) density $n_s$:
+    
+    \begin{align}
+    \lambda^2 = \frac{m}{\mu_0 e^2 n_s}
+    \end{align}
+    
+    \noindent not by mean free path or scattering rate. The surface resistance comes from a small population of thermally excited normal electrons ($R_{\text{BCS}} \propto e^{-\Delta/k_BT}$~\cite{padamseeRFSuperconductivity2009}) and residual resistance ($R_0$), not from incomplete screening due to ballistic electrons. Therefore, superconductors do not experience the $\ell$ versus $\delta$ competition that limits normal metals. They can maintain $Q > 10^6$ even at frequencies where copper $Q$ drops below $10^5$, and avoid the systematic frequency-dependent degradation inherent to the anomalous skin effect.
+    
+    Additionally, near the superconducting critical temperature $T_c$, the Cooper pair density $n_s \to 0$, causing $\lambda \to \infty$. This divergence creates dramatic cavity frequency shifts ($\Delta f/f_0 \sim 10^{-4}$-$10^{-3}$) that directly track the superfluid density, in stark contrast to normal metals where $\Delta f/f_0 \sim 10^{-5}$ arises only from thermal expansion. This makes superconducting cavities useful not only for high-$Q$ applications but also as sensitive probes of superconducting material properties. However, for our applications, we want to keep the Cooper pair density to a maximum and the lambda to a minimum, so we operate at $T<<T_c$.
+    
+\end{comment}
+
+    \subsection{Fundamentals of Superconductivity}
+
+    Superconductivity was first discovered in 1911 by Kamerlingh Onnes, who cooled down mercury to cryogenic temperatures and observed zero resistance~\cite{onnesLiquefactionHelium1991}. Since this discovery, scientists have sought to harness this zero-resistance state for practical applications. The primary commercial application of superconductors has been in high-field magnets for Magnetic Resonance Imaging (MRI)~\cite{cooleyBusinessModelsAssure2023}. The number of superconducting applications is too large to be exhaustively reviewed in this dissertation. However, the emergence of quantum sensors and detectors based on superconducting thin films~\cite{irwinTransitionEdgeSensors2005, mazinSuperconductingMaterialsMicrowave2021} is a topical area relevant to dark-matter detectors.
+    
+    The first theory of superconductivity was introduced in the 1930s by the London brothers~\cite{londonProblemMolecularTheory1948}. Their equations were derived from classical electrodynamics, assuming that in the superconducting state, electrons move with zero resistance and minimize their free energy. These equations explained the Meissner effect, an experimentally observed phenomenon in which the magnetic field is expelled from the bulk of the superconductor. The screening currents that expel this magnetic field are arranged on the surface of the superconductor to a depth called the London penetration depth $\lambda$, given by~\cite{tinkhamIntroductionSuperconductivity2004}:
+    
+    \begin{equation}
+        \lambda = \sqrt{\frac{m}{\mu_0 ne^2}} \,,
+        \label{eq:lambda}
+    \end{equation}
+
+    \noindent where $m$, $e$, and $n$ are the electron mass, elementary charge, and number density of superconducting carriers, respectively. Quantitatively, this length scale defines where the magnetic field amplitude drops to $1/\text{e}$ intensity relative to a parallel magnetic field at the surface (surface along z-direction, and x-direction going into the bulk of the superconductor):
+
+    \begin{equation}
+            B_{z}(x)=B_{0}\text{e}^{-x/\lambda} \,.
+        \label{eq:MagneticFieldPen}
+    \end{equation}  
+    
+    \noindent The screening currents at this depth are described by classical Ampere's law:
+    
+    \begin{equation}
+        {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\mathbf {j_s} }
+        \label{eq:ampereslaw}
+    \end{equation}
+
+    \noindent where $j_s$ is the surface current. 
+    
+    To help explain the transition from the normal state to the superconducting state, a more complex theory of phase transitions was needed. The subsequent significant theoretical development came in 1950, when Ginzburg and Landau introduced a phenomenological description of superconductivity~\cite{ginzburgTheorySuperconductivity1950}. In this framework, the superconducting state is characterized by a complex order parameter $\psi(\mathbf{r}, t)$, whose magnitude $|\psi|^2$ represents the local density of superconducting carriers (superconducting electrons). When $\psi = 0$, the electrons behave normally as in common metals (the ``normal state"), when $\psi$ is finite, superconductivity exists. This model defines critical variables associated with the breakdown of the superconducting order parameter beyond a critical magnetic field ($H_c$) and critical temperature ($T_c$). This theory introduces the Ginzburg-Landau coherence length $\xi_{GL}$, which governs the spatial variation of the order parameter. Near surfaces, grain boundaries, and impurities at this length scale ($\sim3$~nm for Nb$_3$Sn), the order parameter can drop to zero, locally breaking superconductivity.
+    
+    In 1957, the Bardeen–Cooper–Schrieffer (BCS) theory~\cite{Bardeen:1957mv} was proposed; it was the first microscopic theory of superconductivity and successfully predicted superconducting phenomena down to low temperatures ($T \ll T_c$). This theory describes how a small attraction between electrons can arise from interactions between conduction electrons and phonons, creating a 2-electron bound state called a Cooper pair. BCS theory accurately predicts the superconducting gap $\Delta \approx 1.76 k_B Tc$, equivalent to the binding energy of the Cooper pair~\cite{bardeenTheoryMeissnerEffect1955}. 
+    
+    At $T > 0$, thermal excitations break Cooper pairs, leading to a two-fluid model, where the total electron density $n_{\text{total}}$ is divided into superconducting carriers ($n_s$) and normal electrons ($n_n$), where $n_s + n_n = n_{\text{total}}$. Normal electrons that arise from thermally excited Cooper pairs follow a Boltzmann distribution~\cite{landauTheorySuperfluidity1949, tinkhamIntroductionSuperconductivity2004}:
+
+    \begin{align}
+        n_{n} \propto \exp \left( -\frac{\Delta}{k_B T}   \right )\,, \label{eq:normalelectrons}
+    \end{align}
+
+
+    \noindent where $k_B$ is the Boltzmann constant. The number of normal electrons increases exponentially with an increase in temperature until $T=T_c$, where superconductivity breaks down, and all electrons move to the normal state. This motivates operating an RF cavity at $T<<T_c$. BCS theory defines the clean coherence length ($\xi_0$), related to the expected separation of the bound electrons in a Cooper pair in the limit of no impurity scattering~\cite{tinkhamIntroductionSuperconductivity2004}:
+
+%While the condition $n_s > 0$ implies that the superconducting electron component short-circuits the normal-conducting electron component, in the AC regime, both fluids contribute to the AC resistance, which depends exponentially on temperature. 
+
+    \begin{align}
+        \xi_0 \equiv \frac{\hbar v_F}{\pi \Delta(0)} \propto \frac{\hbar v_F}{k_B T_c}  .\label{eq:coherencelengthpure}
+    \end{align}
+
+    \noindent $\xi_0 \rightarrow\infty$ at $T = T_c$. 
+
+    Before BCS theory, Pippard~\cite{pippardCoherenceConceptSuperconductivity1953} introduced the concept of the effective coherence length ($\xi$) to explain how the London equations could be generalized in a non-local way, in particular under microwave irradiation. The expression:
+    
+    \begin{equation}
+        \frac{1}{\xi} = \frac{1}{\xi_0} + \frac{1}{\ell} .\label{eq:coherencelength}
+    \end{equation} 
+    
+    \noindent is Pippard's equation to explain what was observed when Bi was added to Pb to make an alloy, while follows from the solution of Chambers' non-local derivation of Ohm's law~\cite{chambersAnomalousSkinEffect1952}. This Eq.~\ref{eq:coherencelength} allows for a description in the dirty limit of superconductivity where $\ell << \xi_0$ (BCS is naturally in the clean limit $\ell >> \xi_0$). Increased impurity scattering shortens the mean free path $\ell$, which reduces the coherence length $\xi$ according to Eq.~\ref{eq:coherencelength}~\cite{tinkhamIntroductionSuperconductivity2004}. 
+    
+    %\citeauthor{gorkovMICROSCOPICDERIVATIONGINZBURGLANDAU1959}~\cite{gorkovMICROSCOPICDERIVATIONGINZBURGLANDAU1959} unified BCS theory and Ginzburg Landau by developing Green's functions to extend the small-perturbation limit of GL and derive the BCS results.
+
+    The intrinsic material properties set upper bounds on $v_F$, $n$, $T_c$, and $\ell$, while processing quality determines how closely these optimal values are achieved. Poor processing can dramatically degrade all parameters, while optimized processing approaches the material's intrinsic limits.
+
+    \subsection{Type~II Superconductors in DC Fields}
+
+    Superconductors can be classified into type~I or type~II, depending on the ratio between the magnetic penetration depth $\lambda$ and the coherence length $\xi$, where the Ginzburg-Landau parameter $\kappa = \lambda / \xi$ can be used to define the separation between types. When $\kappa < 1/\sqrt{2}$, the superconductor is type~I, and when $\kappa > 1/\sqrt{2}$, the superconductor is type~II~\cite{tinkhamIntroductionSuperconductivity2004}. Type~I superconductors expel all magnetic field below the critical field $H_c$, and lose superconductivity above $H_c$. As discussed briefly earlier, most pure metals are type-I superconductors and are not suitable for use as axion detector cavities. Type~II superconductors have a lower ($H_{c1}$) and an upper ($H_{c2}$) critical field, where $H_{c1} \sim H_c/ \sqrt{2} \kappa$ and $H_{c2} = \sqrt{2} \kappa H_c$. While bulk superconductivity is lost for fields above $H_{c2}$, a mixed state of normal and superconducting electron phases allows superconductivity to persist at high magnetic fields. All useful superconductors for high-field applications are strongly type~II.
+    
+    Below the lower critical field $H_{c1}$ ($38$~mT for Nb$_3$Sn~\cite{godekeNb3SnRadioFrequency2006}), a type~II superconductor is in the Meissner state. It behaves like a type-I superconductor, where all magnetic field is expelled from the bulk of the material. Above the lower critical field:
+
+    \begin{equation}
+        \mu_0 H_{c1} = \frac{\Phi_0}{4\pi \lambda^2}\ln\kappa \,,
+        ~\label{eq:FirstCriticalField}
+    \end{equation} 
+
+    \noindent vortices penetrate the superconductor in the form of magnetic flux quanta $\Phi_0 = h/2e \approx2.07\times 10^{-15}$~T\,m$^2$. These vortices enter at the edge of the sample and move into the material's interior. 
+
+    The structure of the vortex core follows from incorporating Abrikosov's solutions~\cite{abrikosovMagneticPropertiesSuperconducting1957} for the Ginzburg-Landau equations and later studies from Brandt~\cite{brandtFluxlineLatticeSuperconductors1995}. The order parameter ($\psi$) falls to 0 at the vortex core, implying that all electrons are in the normal state within the core. Outside the core, the superconducting order parameter rises to its equilibrium value. A thread of magnetic flux (a flux quantum $\phi_0$) is contained within the vortex core, and screening currents circulate the core producing a magnetic field described by a modified Bessel function (similar to Eq~\ref{eq:MagneticFieldPen}), decaying on the characteristic length scale $\lambda$.
+    
+    The number density of vortices is dependent on the magnetic field:
+
+    \begin{equation}
+        n_\text{v} = \frac{\text{B}}{\Phi_0}
+        \,.\label{eq:numberofvortices}
+    \end{equation} 
+
+
+    \noindent As the number density of vortices increases with magnetic field, the screening current around vortices overlaps with currents from nearby vortices. This causes the vortex lattice to stiffen at a magnetic field around~\cite{larkinPinningTypeII1979, blatterVorticesHightemperatureSuperconductors1994}:
+
+    \begin{equation}
+        \mu_0 H \approx \frac{\Phi_0}{\lambda^2}
+        \,.\label{eq:Hstiff}
+    \end{equation} 
+
+    \noindent Once the magnetic field exceeds this value ($\approx200$~mT for Nb$_3$Sn), vortices begin to arrange in a triangular lattice with regular spacing throughout the material~\cite{traubleFluxLineArrangementSuperconductors1968, abrikosovMagneticPropertiesSuperconducting1957, brandtFluxlineLatticeSuperconductors1995}. The vortex lattice can be distorted due to vortex-vortex repulsion, interactions with impurities, vortex pinning~\cite{campbellPinningFluxVortices1968}.
+    
+    Since axion cavities operate at 9~T, many vortices exist within the cavity body, with separation $a_\text{vortex} \approx \sqrt{\frac{\phi_0}{\text{B}}} \approx 15$~nm~\cite{blatterVorticesHightemperatureSuperconductors1994}. More vortices enter the material as the magnetic field increases, until the cores are separated by a coherence length. The whole superconducting state breaks down beyond this field, and is termed the upper critical field:
+
+    %Vortex-vortex interactions are always present in type-II superconductors, whereas pinning interactions depend on the number and types of defects in the material. 
+
+   
+
+     \begin{equation}
+        \mu_0 H_{c2} = \frac{\phi_0}{2\pi\xi^2} \,.
+        \label{eq:Hc2andCoherence}
+    \end{equation}
+    
+    \noindent From the above equation, it is found that there is a relation between a small coherence length and a high $H_c2$. However, a small coherence length implies a short electron mean free path (Eq.~\ref{eq:coherencelength}), therefore there is a correlation between materials that have many impurities and therefore a high normal state resistivity, and materials with a high $H_c2$. Therefore, optimizing superconducting materials for high-field applications requires balancing disorder-enhanced $H_c2$ against disorder-induced increases in surface resistance.
+    
+    When these superconductors are used to generate large magnetic fields, as in superconducting solenoid magnets, a large transport current is injected into a superconducting wire. There is zero resistance as long as the vortices in the bulk remain stationary. These vortices remain pinned if the pinning force $F_P$ (pinning force per unit length of vortex) is stronger than the Lorentz force $F_L$ induced by the transport current:
+
+    \begin{equation}
+        \mathbf{F}_L = \mathbf{J} \times \mathbf{B}\,.
+        \label{eq:lorentzforce}
+    \end{equation}
+    
+    \noindent If the Lorentz force exceeds the pinning force (transport current exceeds critical current $J>J_c$), the normal electrons in the vortex cores flow through the bulk, causing ohmic loss ($V=IR$) described by Bardeen-Stephen Theory~\cite{Bardeen:1965zz}:
+
+    \begin{equation}
+        \rho_{\text{eff}} = \rho_n \frac{\text{B}}{B_{c2}}\,.
+        \label{eq:rhoeffective}
+    \end{equation}
+
+     \noindent This free flux flow limit describes an equivalence between moving vortices and electrical resistance analogous to an ohmic wire. Flux-flow losses constitute a significant concern in RF cavities used for particle acceleration~\cite{padamseeRFSuperconductivity2009}. In axion detector applications, however, AC currents should be small, so vortices remain pinned by vortex-vortex interactions and mild interactions with material defects.
+
+    \subsection{Type~II Superconductivity in Weak RF Fields}
+    
+    %The follow discussion comes from \citeauthor{padamseeRFSuperconductivity2009}~\cite{padamseeRFSuperconductivity2009}. 
+    
+    %Superconductors exposed to alternating currents (AC), no matter how weak, lead to surface resistance. 
+    
+    When an AC magnetic field is present, screening currents arise within the penetration depth, just as in the DC case. However, the dynamic magnetic field generates an electric field within the penetration depth. The E-field interacts with the Boltzmann distribution of normal electrons in the bulk (Eq.~\ref{eq:normalelectrons}), leading to surface resistance that scales with normal state resistivity and temperature~\cite{padamseeRFSuperconductivity2009}: 
+
+    \begin{align}
+        R_{\text{BCS}}(T) = \frac{2 \pi^2 \mu_0^2 f^2 \lambda^3 \Delta}{ k_B T \sigma_n} \exp\left(-\frac{\Delta}{k_B T}\right)\,,
+        \label{eq:RBCS}
+    \end{align}  
+
+    \noindent where $\sigma_n$ is the normal state conductivity. This equation is valid for type~II superconductors when $f << \Delta$ and $T<<T_c$. However, at very low temperatures, when $T \rightarrow 0$~K (mK temperatures), the Boltzmann population of electrons $n_\text{n} \rightarrow 0$ which leads to $R_{\text{BCS}}\rightarrow 0$, the total surface resistance still does not go to zero, but saturates to a residual resistance $R_0$. 
+    
+    The residual resistance component combines dissipative phenomena from multiple sources, including flux trapping~\cite{ciovatiHighFieldSlope2010}, surface roughness~\cite{padamseeRFSuperconductivity2009}, and non-superconducting impurities~\cite{alexgurevich33ThermalRF2006}. For clean and uniform films under optimal experimental conditions, $R_0 \approx 1~\text{n}\Omega$ has been reached for pure Nb cavities in accelerators~\cite{romanenkoUltrahighQualityFactors2014}. For compound superconductors like Nb$_3$Sn, achieving similarly low residual resistance is much more challenging; $R_0 \sim 10~\text{n}\Omega$ represents excellent performance~\cite{Posen:2020kei}.
+    
+    \subsection{Type~II Superconductivity in Weak RF Fields and High DC Fields}\label{sec:campbell}
+    
+    For axion detector applications, cavity haloscopes are immersed in a strong DC magnetic field and excited with a weak AC signal. The external DC field pushes vortices into the cavity, while an AC field can oscillate these vortices. The AC field exerts a Lorentz force (Eq.~\ref{eq:lorentzforce}) on the vortices within a few penetration depths ($\lambda$) from the surface~\cite{campbellResponsePinnedFlux1969, brandtFluxlineLatticeSuperconductors1995}. For a cylindrical cavity aligned with the solenoid axis (z-direction) operating in TM$_{010}$ mode:
+    
+    \noindent Field orientation relative to the surface determines vortex response:
+    
+    \begin{enumerate}
+        \item \textbf{Endcaps ($\mathbf{B}_{\text{DC}} \perp$ surface):} 
+        Surface currents flow radially $\mathbf{J}_{\text{endcap}} = J_{\text{AC}} \hat{r}$, producing azimuthal Lorentz force:
+        \begin{equation}
+            \mathbf{F}_L = (J_{\text{AC}} \hat{r}) \times (B_0 \hat{z}) = -J_{\text{AC}} B_0 \hat{\phi}
+        \end{equation}
+        This perpendicular force maximizes vortex oscillation amplitude.
+        
+        \item \textbf{Walls ($\mathbf{B}_{\text{DC}} \parallel$ surface):} 
+        Surface currents flow axially $\mathbf{J}_{\text{wall}} = J_{\text{AC}} \hat{z}$, yielding zero Lorentz force:
+        \begin{equation}
+            \mathbf{F}_L = (J_{\text{AC}} \hat{z}) \times (B_0 \hat{z}) = 0
+        \end{equation}
+        Parallel geometry eliminates direct vortex driving.
+    \end{enumerate}
+    
+    The parallel configuration produces zero Lorentz force, minimizing vortex motion and dissipation. Additional dissipative mechanisms on the walls include vortex entry at the edges and field inhomogeneities. These contributions to surface resistance have been observed experimentally, where bulk Nb-Ti cavities exhibit higher dissipation on the endcaps than on the walls (Fig.~\ref{fig:NbTiendcapsl}). For thin films, surface roughness can tilt vortices slightly out of the field direction, creating non-zero Lorentz forces even on nominally parallel surfaces.
+    
+    \subsubsection{Surface Resistance in DC Magnetic Fields}
+    
+    Vortices that undergo small-amplitude elastic oscillations cause dissipation to depths greater than the London penetration depth, characterized by the Campbell penetration depth $\lambda_c$~\cite{campbellResponsePinnedFlux1969}:
+    
+    \begin{align}
+       \lambda_c^2 = \lambda^2 \frac{c_{11}}{\alpha_L} \label{eq:lambdaprime}
+    \end{align}  
+    
+    \noindent where $\alpha_L$ is the Labusch parameter (restoring force per unit displacement) and $c_{11} = B^2/(\mu_0\lambda^2)$ is the elastic compression modulus of the triangular vortex lattice. The Labusch parameter \cite{labuschElasticConstantsFluxoid1969, panLabuschParameterDriven2000} quantifies the restoring force for vortex displacements from pinning centers, even for small displacements where a vortex is not liberated from its pinning energy well. It is affected by the material's defect characteristics and is usually measured across different microstructures. Oscillating vortex cores dissipate energy through motion of the normal electrons in and around vortex cores, producing the Campbell resistance~\cite{markcoffeyUnifiedTheoryEffects1991}:
+    
+    \begin{align}
+        R_c(B) = \frac{\mu_0^2 \omega^2 \lambda^3 \sigma_n}{2}\left(\frac{c_{11}}{\alpha_L}\right)^{3/2}
+        \label{eq:Rcampbell}
+    \end{align}
+  
+    \noindent Further theoretical discussion of collective pinning in AC fields can be found in Clem and Coffey~\cite{markcoffeyUnifiedTheoryEffects1991} and recent work by Pompeo et al.~\cite{nicolapompeoReliableDeterminationVortex2008}.
+
+    \subsection{Total Resistance} 
+        
+    The total surface resistance $R_s$ is therefore a sum of three components when a superconductor operates in the axion detector parameter space: BCS resistance (Eq.~\ref{eq:RBCS}), residual resistance, and Campbell resistance (Eq.~\ref{eq:Rcampbell}):
+    
+    \begin{align}
+        R_{s,sc} = R_{\text{BCS}}(T) + R_0 + R_C(B)  \label{eq:Rs} .
+    \end{align}
+    
+    These components can be isolated experimentally through systematic measurements. At millikelvin temperatures in zero field, $R_{\text{BCS}}$ becomes negligible, and $R_0$ dominates, representing residual losses from non-superconducting impurities, defects, and surface quality~\cite{alexgurevich33ThermalRF2006}. When high DC fields are applied at low temperature, the field-dependent Campbell resistance $R_C$ also has a strong effect. A goal for axion detector development is to reduce the total surface resistance below that of high-purity Cu (RRR~=~300) at 1~GHz and 4~K, for which values from table \ref{tab:Rs_Q_anomalous} give an estimation of $R_{s,nc} \sim 5~\text{m}\Omega$.
+    
+    Different superconductors exhibit distinct field-dependent behavior in measurements. NbTi cavities show significant resistance $R_s>~1 \text{m}\Omega$ with increasing magnetic field, indicating Campbell resistance becomes the limiting factor~\cite{Braine:2024nzi}. In contrast, REBCO films maintain low surface resistance $R_s<~1 \text{m}\Omega$ even in strong fields (Fig.~\ref{fig:axionprototypes})~\cite{posenMeasurementHighQuality2022, ahnSuperconductingCavityHigh2020}, suggesting instead that residual resistance is dominant.
+    
+    %\section{High Thermal Conductivity Substrates} \label{sec:Cusubstrate}
+    
+    %Thermal fluctuations can cause thermal gradients that cannot be statistically averaged away, resulting in a higher noise floor~\cite{ADMX:2018gho}. Materials with high thermal conductivity can remove heat quickly, reducing the impact of this non-stochastic noise. 
+    
+   % It is standard fabrication procedure for the superconducting magnet industry to add Cu as a thermal stabilizer to superconductors. This enables the material to be more resistant to hot-spot formation and adds mechanical stability. Thermal stability is especially problematic when using high-$T_c$ superconductors, as they generally have very poor thermal conductivity~\cite{tewordtTheoryThermalConductivity1989, stilinRFThermalStudies2023}. From thermal considerations, we choose to coat a superconducting thin film on a high-thermal-conductivity substrate rather than use a bulk superconductor with low thermal conductivity.
+   
+    
+    %The accelerator industry has found that Cu substrates reduce magnetic flux trapping, necessary for high accelerating gradient $E_{\text{acc}}$ applications. 
+
+
+    %: significant thermal electric effects are found at the Cu/superconducting interface (can be mitigated with slow cool down)~\cite{palmieriThermalContactResistance2015}, 
+        
+    %Even at T = 0 and B = 0, pair breaking doesn't go to zero, due to quantum fluctuations~\cite{fisherDissipationQuantumFluctuations1987}, surface impedance effects~\cite{halbritterRfResidualLosses1990}, spin-orbit coupling~\cite{cavanaghPairBreakingSuperconductors2023}, paramagnetic pair breaking~\cite{bandtePairbreakingEffectsHightemperature1992}, etc.
+
+
+    
+%The material properties of the superconductor, coherence length $\xi$ and penetration depth $\lambda$, predict how strongly the superconductor can resist the magnetic field before breaking down. 

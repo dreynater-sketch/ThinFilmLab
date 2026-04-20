@@ -46,3 +46,5 @@ Parse last 5 entries: `grep "^## \[" log.md | tail -5`
 
 ## [2026-04-10] synthesis-update | Axion Detector Research Roadmap | Fonnesu 23 nΩ corrected to Nb-substrate QPR only; Lu 2026 Hentry=11.4 mT added to Gap 1; all 4 papers linked; "Papers not yet in Zotero" section cleared
 
+## [2026-04-14] sprint-plan | Andre Q week plan created | lab/Notes/Andre Q — Week of 2026-04-14 Sprint Plan.md | coupon → cavity hot bronze sequence; CP4+CP5 target by Thu; CP6 cavity run Friday if GO
+

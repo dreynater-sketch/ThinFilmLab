@@ -1,0 +1,141 @@
+\chapter{Quality Factor Correction for Hybrid Material Cavities} \label{app:Qcorrection}
+
+This appendix presents a method for extracting the intrinsic surface resistance of a superconducting material when measured in a cavity containing multiple materials and with imperfect seam contacts. These correction factors enable estimation of the quality factor for idealized scenarios: (1) a fully coated cavity with the superconducting material on all surfaces, and (2) a perfectly sealed cavity with no RF leakage at seams. Together, these corrections isolate the quality factor limited solely by the intrinsic properties of the superconducting coating.
+
+\section{General Framework}
+
+For a resonant cavity, the quality factor relates surface resistance to geometric properties:
+
+\begin{equation}
+Q_0 = \frac{G}{R_s}
+\label{eq:Q_basic}
+\end{equation}
+
+where $Q_0$ is the unloaded quality factor, $G$ is the geometric factor (units of $\Omega$), and $R_s$ is the surface resistance (units of $\Omega$).
+
+For a cavity with multiple surfaces, the total loss is the sum of losses from each surface:
+
+\begin{equation}
+\frac{1}{Q_\text{total}} = \sum_{i} \frac{R_{s,i}}{G_i}
+\label{eq:Q_multisurf}
+\end{equation}
+
+where $R_{s,i}$ is the surface resistance of surface $i$ and $G_i$ is its geometric factor.
+
+\section{Surface-Specific Geometric Factors}
+
+The geometric factor for each surface is defined as:
+
+\begin{equation}
+G_i = \frac{\int_V |\mu \vec{H}|^2 dV}{\int_{S_i} |\vec{H}_\text{tan}|^2 dS}
+\label{eq:G_definition}
+\end{equation}
+
+\noindnet where the numerator is the magnetic energy stored in the cavity volume and the denominator is the integral of tangential magnetic field squared over the surface $i$. 
+
+For real cavity geometries with arbitrary shapes and boundary conditions, analytical solutions are impractical. Instead, $G_i$ is determined numerically using finite element electromagnetic simulation software (e.g., COMSOL Multiphysics):
+
+\begin{enumerate}
+    \item Model the cavity geometry with perfectly conducting walls
+    \item Solve for the resonant mode of interest
+    \item Extract magnetic energy: $U_m = \int_V \frac{1}{2}\mu|\vec{H}|^2 dV$
+    \item For each surface, integrate tangential field: $I_i = \int_{S_i} |\vec{H}_\text{tan}|^2 dS$
+    \item Calculate: $G_i = 2U_m / I_i$
+\end{enumerate}
+
+Surfaces can be grouped by material. For example, if all six walls share the same material (group A) and both endcaps share another material (group B), the effective geometric factors are:
+
+\begin{equation}
+\frac{1}{G_\text{A}} = \sum_{i \in A} \frac{1}{G_i}, \quad \frac{1}{G_\text{B}} = \sum_{i \in B} \frac{1}{G_i}
+\label{eq:G_grouped}
+\end{equation}
+
+\section{Correction 1: Accounting for Multiple Materials}
+
+Consider a cavity with known reference material (Cu) on some surfaces with $R_{s,\text{Cu}}$ and unknown material (Nb$_3$Sn) on other surfaces with $R_{s,\text{Nb}_3\text{Sn}}$. The measured quality factor is:
+
+\begin{equation}
+    \frac{1}{Q_\text{measured}} = \frac{R_{s,\text{Cu}}}{G_\text{Cu}} + \frac{R_{s,\text{Nb}_3\text{Sn}}}{G_{\text{Nb}_3\text{Sn}}}
+    \label{eq:Q_hybrid}
+\end{equation}
+
+where $G_\text{Cu}$ and $G_{\text{Nb}_3\text{Sn}}$ are the effective geometric factors for Cu and Nb$_3$Sn surfaces respectively.
+
+The Cu surface resistance is determined from a separate all-Cu cavity measurement:
+
+\begin{equation}
+R_{s,\text{Cu}} = \frac{G_\text{total}}{Q_\text{Cu,measured}}
+\label{eq:Rs_Cu}
+\end{equation}
+
+\noindent where $G_\text{total}$ is the geometric factor for uniform material throughout the cavity.
+
+Solving for the Nb$_3$Sn surface resistance:
+
+\begin{equation}
+R_{s,\text{Nb}_3\text{Sn}} = G_{\text{Nb}_3\text{Sn}} \left(\frac{1}{Q_\text{measured}} - \frac{R_{s,\text{Cu}}}{G_\text{Cu}}\right)
+\label{eq:Rs_Nb3Sn}
+\end{equation}
+
+The quality factor for a fully coated Nb$_3$Sn cavity is:
+
+\begin{equation}
+Q_{\text{Nb}_3\text{Sn,full}} = \frac{G_\text{total}}{R_{s,\text{Nb}_3\text{Sn}}}
+\label{eq:Q_full}
+\end{equation}
+
+\section{Correction 2: Accounting for RF Leakage}\label{sec:RFleakage}
+
+Multi-piece cavities exhibit RF leakage at mechanical seams, reducing measured quality factor below intrinsic material limits. The leakage correction factor is:
+
+\begin{equation}
+\alpha = \frac{Q_\text{ideal}}{Q_\text{measured}}
+\label{eq:alpha_def}
+\end{equation}
+
+where $Q_\text{ideal}$ is from simulation assuming perfect contact and $Q_\text{measured}$ is the actual value with seam losses.
+
+\noindent This factor is determined using a reference material:
+
+\begin{equation}
+\alpha = \frac{Q_\text{Cu,ideal}}{Q_\text{Cu,measured}}
+\label{eq:alpha_Cu}
+\end{equation}
+
+\noindent Assuming the same fractional leakage for all measurements (same assembly procedure), the corrected Nb$_3$Sn quality factor is:
+
+\begin{equation}
+Q_\text{Nb}_3\text{Sn,corrected} = \alpha \times Q_\text{Nb}_3\text{Sn,full}
+\label{eq:Q_corrected}
+\end{equation}
+
+\section{Combined Correction Procedure}
+
+For a hybrid cavity with multiple materials and RF leakage:
+
+\begin{enumerate}
+    \item Determine $G_i$ for each surface via finite element simulation
+    \item Calculate effective geometric factors $G_\text{Cu}$, $G_\text{Nb}_3\text{Sn}$, and $G_\text{total}$ using Eq.~\ref{eq:G_grouped}
+    \item Measure $Q_\text{Cu,measured}$ for all-Cu reference cavity
+    \item Calculate $R_{s,\text{Cu}}$ using Eq.~\ref{eq:Rs_Cu}
+    \item Measure $Q_\text{measured}$ for hybrid cavity
+    \item Extract $R_{s,\text{Nb}_3\text{Sn}}$ using Eq.~\ref{eq:Rs_Nb3Sn}
+    \item Calculate $Q_\text{Nb}_3\text{Sn,full}$ using Eq.~\ref{eq:Q_full}
+    \item Determine leakage factor $\alpha$ from Eq.~\ref{eq:alpha_Cu}
+    \item Apply final correction using Eq.~\ref{eq:Q_corrected}
+\end{enumerate}
+
+The result represents expected performance for an ideal cavity: fully coated with Nb$_3$Sn and no seam losses.
+
+\section{Limitations}
+
+This methodology assumes:
+\begin{itemize}
+    \item Geometric factors are accurately determined from simulation
+    \item Surface coverage and material boundaries are known
+    \item Reference material surface resistance is accurately measured
+    \item Leakage factor is the same for different materials (same assembly)
+    \item Current distributions are similar between materials
+\end{itemize}
+
+Uncertainties in these assumptions propagate to the final corrected quality factor.
