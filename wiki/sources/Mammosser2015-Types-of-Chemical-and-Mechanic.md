@@ -1,5 +1,6 @@
 ---
 title: "Types of Chemical and Mechanical Surface Processing for SRF Cavities"
+aliases: ["Mammosser 2015"]
 type: source
 authors: ["Mammosser"]
 year: 2015

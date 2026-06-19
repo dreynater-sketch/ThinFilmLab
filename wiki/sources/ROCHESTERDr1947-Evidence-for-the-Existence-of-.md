@@ -1,5 +1,6 @@
 ---
 title: "Evidence for the Existence of New Unstable Elementary Particles"
+aliases: ["ROCHESTERDr. 1947"]
 type: source
 authors: ["ROCHESTERDr. and BUTLERDr."]
 year: 1947

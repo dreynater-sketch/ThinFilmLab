@@ -1,5 +1,6 @@
 ---
 title: "An Investigation of the Magnetic Field of Full Flux Penetration of Superconducting Materials for Radio-Frequency Cavities"
+aliases: ["Turner 2026"]
 type: source
 authors: ["Turner"]
 year: 2026

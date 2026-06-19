@@ -1,5 +1,6 @@
 ---
 title: "Irreversible degradation of Nb<sub>3</sub>Sn Rutherford cables due to transverse compressive stress at room temperature"
+aliases: ["Ebermann 2018"]
 type: source
 authors: ["Ebermann et al."]
 year: 2018

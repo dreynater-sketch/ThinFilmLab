@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn FOR SUPERCONDUCTING ACCELERATORS AT 4.2 K"
+aliases: ["Peiniger 1989"]
 type: source
 authors: ["Peiniger and Mu"]
 year: 1989

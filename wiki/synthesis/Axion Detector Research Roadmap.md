@@ -1,5 +1,6 @@
 ---
 title: "Axion Detector Research Roadmap"
+aliases: ["axion roadmap", "axion detector roadmap", "haloscope roadmap"]
 type: synthesis
 tags: [axion, nb3sn, copper-substrate, srf, experimental-roadmap, competitive-landscape, haloscope]
 sources_consulted: 10

@@ -1,5 +1,6 @@
 ---
 title: "Microstructural factors important for the development of high critical current density Nb3Sn strand"
+aliases: ["Lee 2008"]
 type: source
 authors: ["Lee and Larbalestier"]
 year: 2008

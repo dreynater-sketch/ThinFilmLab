@@ -1,5 +1,6 @@
 ---
 title: "INVESTIGATION OF THE RELATIONSHIPS BETWEEN SUPERCONDUCTING PROPERTIES AND NB3SN REACTION"
+aliases: ["Chad 2002"]
 type: source
 authors: ["Chad Matthew Fischer"]
 year: 2002

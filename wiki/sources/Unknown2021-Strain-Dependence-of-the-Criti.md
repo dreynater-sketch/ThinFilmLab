@@ -1,5 +1,6 @@
 ---
 title: "Strain Dependence of the Critical Temperature $T: Find It @ FSU Results"
+aliases: ["strain dependence critical current 2021", "strain dependence Jc Nb3Sn"]
 type: source
 authors: ["Unknown"]
 year: 2021

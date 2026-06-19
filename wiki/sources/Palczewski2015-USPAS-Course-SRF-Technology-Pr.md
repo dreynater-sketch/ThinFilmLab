@@ -1,5 +1,6 @@
 ---
 title: "USPAS Course: SRF Technology: Practices and Hands-On Measurements January 2015"
+aliases: ["Palczewski 2015"]
 type: source
 authors: ["Palczewski"]
 year: 2015

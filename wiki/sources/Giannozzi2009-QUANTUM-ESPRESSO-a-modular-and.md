@@ -1,5 +1,6 @@
 ---
 title: "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials"
+aliases: ["Giannozzi 2009"]
 type: source
 authors: ["Giannozzi et al."]
 year: 2009

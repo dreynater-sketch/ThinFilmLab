@@ -1,5 +1,6 @@
 ---
 title: "Formation of columnar grains during diffusional growth of Nb3Sn layer and its suppression"
+aliases: ["Oh 2024"]
 type: source
 authors: ["Oh et al."]
 year: 2024

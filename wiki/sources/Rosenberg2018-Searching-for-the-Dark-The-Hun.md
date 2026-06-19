@@ -1,5 +1,6 @@
 ---
 title: "Searching for the Dark: The Hunt for Axions | Scientific American"
+aliases: ["Rosenberg 2018"]
 type: source
 authors: ["Rosenberg"]
 year: 2018

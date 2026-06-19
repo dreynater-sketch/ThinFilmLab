@@ -1,5 +1,6 @@
 ---
 title: "Extrapolative Scaling Expression: A Fitting Equation for Extrapolating Full Ic (B,T,ϵ) Data Matrixes From Limited Data"
+aliases: ["Ekin 2017"]
 type: source
 authors: ["Ekin et al."]
 year: 2017

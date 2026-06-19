@@ -1,5 +1,6 @@
 ---
 title: "Optimisation, Characterisation and Synthesis of Low Temperature Superconductors by Current-Voltage Techniques"
+aliases: ["Hopkins 2007"]
 type: source
 authors: ["Hopkins"]
 year: 2007

@@ -1,5 +1,6 @@
 ---
 title: "The observation of tin islands in Nb3Sn thin films deposited by magnetron sputtering"
+aliases: ["Tan 2020"]
 type: source
 authors: ["Tan et al."]
 year: 2020

@@ -1,5 +1,6 @@
 ---
 title: "A multi-scale point of view on the structure–property relationships of A15 superconductors"
+aliases: ["Ding 2014"]
 type: source
 authors: ["Ding et al."]
 year: 2014

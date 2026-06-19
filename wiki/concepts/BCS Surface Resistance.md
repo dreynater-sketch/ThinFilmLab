@@ -1,6 +1,7 @@
 ---
 title: "BCS Surface Resistance"
 type: concept
+aliases: ["BCS Rs", "R_BCS", "BCS resistance", "BCS surface resistance"]
 tags: [bcs, surface-resistance, rbcs, nb3sn, nb, quasiparticles, gap-energy, srf, milli-kelvin]
 source_count: 6
 last_updated: 2026-04-10

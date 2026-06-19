@@ -1,5 +1,6 @@
 ---
 title: "Analysis of Strain Distribution in A15-Type Superconducting Coils Under Compressive Stress"
+aliases: ["Xu 2014"]
 type: source
 authors: ["Xu et al."]
 year: 2014

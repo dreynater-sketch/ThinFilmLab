@@ -1,5 +1,6 @@
 ---
 title: "Tcs degradation of ITER TF samples due to fast current discharges"
+aliases: ["Sedlak 2020"]
 type: source
 authors: ["Sedlak et al."]
 year: 2020

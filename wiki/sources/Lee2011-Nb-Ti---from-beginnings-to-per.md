@@ -1,5 +1,6 @@
 ---
 title: "Nb-Ti - from beginnings to perfection"
+aliases: ["Lee 2011"]
 type: source
 authors: ["Lee et al."]
 year: 2011

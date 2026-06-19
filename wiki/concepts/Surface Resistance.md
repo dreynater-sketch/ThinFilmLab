@@ -1,6 +1,7 @@
 ---
 title: "Surface Resistance"
 type: concept
+aliases: ["Rs", "RF surface resistance", "surface impedance"]
 tags: [surface-resistance, rs, srf, bcs, vortex, residual-resistance, quality-factor, nb3sn, axion]
 source_count: 8
 last_updated: 2026-04-10

@@ -1,5 +1,6 @@
 ---
 title: "CERAMIC SCINTILLATORS"
+aliases: ["Greskovich 1997"]
 type: source
 authors: ["Greskovich and Duclos"]
 year: 1997

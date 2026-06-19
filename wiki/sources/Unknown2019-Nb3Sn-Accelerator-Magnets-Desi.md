@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn Accelerator Magnets: Designs, Technologies and Performance"
+aliases: ["Nb3Sn accelerator magnets design", "Nb3Sn magnets design"]
 type: source
 authors: ["Unknown"]
 year: 2019

@@ -1,5 +1,6 @@
 ---
 title: "Analytical and Numerical Methods to Estimate the Effective Mechanical Properties of Rutherford Cables"
+aliases: ["Zhao 2020"]
 type: source
 authors: ["Zhao et al."]
 year: 2020

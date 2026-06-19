@@ -1,5 +1,6 @@
 ---
 title: "Solid state physics"
+aliases: ["Ashcroft 1976"]
 type: source
 authors: ["Ashcroft and David N. Mermin"]
 year: 1976

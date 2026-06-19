@@ -1,5 +1,6 @@
 ---
 title: "Superconducting properties variation with A15 composition in Nb<sub>3</sub>Sn"
+aliases: ["Li 2014"]
 type: source
 authors: ["Li and Gao"]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "Refinement of the standard halo model for dark matter searches in light of the Gaia Sausage"
+aliases: ["Evans 2019"]
 type: source
 authors: ["Evans et al."]
 year: 2019

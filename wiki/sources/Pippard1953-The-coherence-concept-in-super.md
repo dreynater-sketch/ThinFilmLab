@@ -1,5 +1,6 @@
 ---
 title: "The coherence concept in superconductivity"
+aliases: ["Pippard 1953"]
 type: source
 authors: ["Pippard"]
 year: 1953

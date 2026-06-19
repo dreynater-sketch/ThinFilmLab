@@ -1,5 +1,6 @@
 ---
 title: "Experimental and Theoretical Analysis of Transverse Resistances in a Nb<sub>3</sub>Sn LMI-EM Strand"
+aliases: ["Breschi 2013"]
 type: source
 authors: ["Breschi et al."]
 year: 2013

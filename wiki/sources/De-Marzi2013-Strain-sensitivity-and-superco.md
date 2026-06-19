@@ -1,5 +1,6 @@
 ---
 title: "Strain sensitivity and superconducting properties of Nb <sub>3</sub> Sn from first principles calculations"
+aliases: ["De 2013"]
 type: source
 authors: ["De Marzi et al."]
 year: 2013

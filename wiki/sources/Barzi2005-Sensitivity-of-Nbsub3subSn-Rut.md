@@ -1,5 +1,6 @@
 ---
 title: "Sensitivity of Nb<sub>3</sub>Sn Rutherford-type cables to transverse pressure"
+aliases: ["Barzi 2005"]
 type: source
 authors: ["Barzi et al."]
 year: 2005

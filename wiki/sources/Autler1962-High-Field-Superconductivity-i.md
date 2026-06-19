@@ -1,5 +1,6 @@
 ---
 title: "High-Field Superconductivity in Niobium"
+aliases: ["Autler 1962"]
 type: source
 authors: ["Autler et al."]
 year: 1962

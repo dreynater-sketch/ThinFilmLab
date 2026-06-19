@@ -1,5 +1,6 @@
 ---
 title: "The Effect of Ta and Ti Additions on the Strain Sensitivity of Bulk Niobium-Tin"
+aliases: ["Mentink 2012 Ta Ti additions", "Ta Ti additions Nb3Sn Mentink"]
 type: source
 authors: ["Mentink et al."]
 year: 2012

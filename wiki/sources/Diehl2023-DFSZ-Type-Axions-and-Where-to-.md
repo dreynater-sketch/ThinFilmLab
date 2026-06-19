@@ -1,5 +1,6 @@
 ---
 title: "DFSZ-Type Axions and Where to Find Them"
+aliases: ["Diehl 2023"]
 type: source
 authors: ["Diehl and Koutsangelas"]
 year: 2023

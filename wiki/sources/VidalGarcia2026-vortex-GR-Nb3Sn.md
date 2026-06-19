@@ -1,5 +1,6 @@
 ---
 title: "Vortex dynamics in Nb3Sn thin films: Gittleman-Rosenblum analysis up to 12 T"
+aliases: ["Vidal García 2026"]
 type: source
 authors: ["Vidal García, Pablo", "Keckert, Sebastian", "Kugeler, Oliver", "Knobloch, Jens", "Posen, Sam", "Romanenko, Alexander"]
 year: 2026

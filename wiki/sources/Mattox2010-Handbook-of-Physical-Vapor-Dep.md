@@ -1,5 +1,6 @@
 ---
 title: "Handbook of Physical Vapor Deposition (PVD) Processing"
+aliases: ["Mattox 2010"]
 type: source
 authors: ["Mattox"]
 year: 2010

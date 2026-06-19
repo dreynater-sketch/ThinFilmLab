@@ -1,5 +1,6 @@
 ---
 title: "SYNTHESIS OF Nb-Sn COATINGS BY ELECTROCHEMICAL DEPOSITION"
+aliases: ["Franz 2017"]
 type: source
 authors: ["Franz et al."]
 year: 2017

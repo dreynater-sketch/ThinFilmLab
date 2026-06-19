@@ -1,5 +1,6 @@
 ---
 title: "Double beta decay"
+aliases: ["Primakoff 1959"]
 type: source
 authors: ["Primakoff and Rosen"]
 year: 1959

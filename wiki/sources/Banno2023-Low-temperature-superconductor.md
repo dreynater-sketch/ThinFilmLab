@@ -1,5 +1,6 @@
 ---
 title: "Low-temperature superconductors: Nb3Sn, Nb3Al, and NbTi"
+aliases: ["Banno 2023 low-temp SC", "low-temperature superconductor Banno"]
 type: source
 authors: ["Banno"]
 year: 2023

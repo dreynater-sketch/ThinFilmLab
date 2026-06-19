@@ -1,5 +1,6 @@
 ---
 title: "Superconductivity in ${\mathrm{Nb}}_{3}$Sn at High Current Density in a Magnetic Field of 88 kgauss"
+aliases: ["Kunzler 1961"]
 type: source
 authors: ["Kunzler et al."]
 year: 1961

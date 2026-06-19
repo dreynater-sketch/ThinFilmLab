@@ -1,5 +1,6 @@
 ---
 title: "DREAM.3D: A Digital Representation Environment for the Analysis of Microstructure in 3D"
+aliases: ["Groeber 2014"]
 type: source
 authors: ["Groeber and Jackson"]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "Axion Dark Matter eXperiment: Run 1A Analysis Details"
+aliases: ["Boutan 2024"]
 type: source
 authors: ["Boutan et al."]
 year: 2024

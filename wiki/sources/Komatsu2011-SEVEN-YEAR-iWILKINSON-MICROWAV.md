@@ -1,5 +1,6 @@
 ---
 title: "SEVEN-YEAR <i>WILKINSON MICROWAVE ANISOTROPY PROBE</i> ( <i>WMAP</i> ) OBSERVATIONS: COSMOLOGICAL INTERPRETATION"
+aliases: ["Komatsu 2011 WMAP7", "seven-year WMAP"]
 type: source
 authors: ["Komatsu et al."]
 year: 2011

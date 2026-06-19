@@ -1,5 +1,6 @@
 ---
 title: "USPAS | Materials | by Year | 14UNM | Fundamentals"
+aliases: ["USPAS UNM 2014 materials"]
 type: source
 authors: ["Unknown"]
 year: 2021

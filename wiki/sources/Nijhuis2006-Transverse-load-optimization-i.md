@@ -1,5 +1,6 @@
 ---
 title: "Transverse load optimization in Nb3Sn CICC design; influence of cabling, void fraction and strand stiffness"
+aliases: ["Nijhuis 2006 transverse load", "transverse load optimization Nijhuis"]
 type: source
 authors: ["Nijhuis and Ilyin"]
 year: 2006

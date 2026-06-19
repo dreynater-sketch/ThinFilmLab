@@ -1,5 +1,6 @@
 ---
 title: "The anomalous skin effect"
+aliases: ["Chambers 1952"]
 type: source
 authors: ["Chambers"]
 year: 1952

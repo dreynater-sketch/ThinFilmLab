@@ -1,5 +1,6 @@
 ---
 title: "Effect of the Sub-Elements Layout on the Electro-Mechanical Properties of High Jc Nb3Sn Wires Under Transverse Load: Numerical Simulations"
+aliases: ["Baffari 2022"]
 type: source
 authors: ["Baffari and Bordini"]
 year: 2022

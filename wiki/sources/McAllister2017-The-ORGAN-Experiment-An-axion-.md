@@ -1,5 +1,6 @@
 ---
 title: "The ORGAN Experiment: An axion haloscope above 15 GHz"
+aliases: ["McAllister 2017"]
 type: source
 authors: ["McAllister et al."]
 year: 2017

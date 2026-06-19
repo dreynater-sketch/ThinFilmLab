@@ -1,5 +1,6 @@
 ---
 title: "Materials Science of Thin Films: Depositon and Structure"
+aliases: ["Ohring 2002"]
 type: source
 authors: ["Ohring"]
 year: 2002

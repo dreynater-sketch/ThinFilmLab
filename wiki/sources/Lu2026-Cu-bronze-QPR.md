@@ -1,5 +1,6 @@
 ---
 title: "Preparation of the Cu-based Nb3Sn sample via bronze route for quadrupole resonator testing"
+aliases: ["Lu 2026 Cu bronze QPR", "Cu bronze QPR Lu"]
 type: source
 authors: ["Lu, Ming", "Keckert, Sebastian", "Kramer, Felix", "Prudnikava, Alena", "Knobloch, Jens", "Zubtsovskii, Aleksandr", "Kugeler, Oliver"]
 year: 2026

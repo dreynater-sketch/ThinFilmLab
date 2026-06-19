@@ -1,5 +1,6 @@
 ---
 title: "Direct observation of Nb<sub>3</sub>Sn lattice deformation by high-energy x-ray diffraction in internal-tin wires subject to mechanical loads at 4.2 K"
+aliases: ["Muzzi 2012"]
 type: source
 authors: ["Muzzi et al."]
 year: 2012

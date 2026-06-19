@@ -1,5 +1,6 @@
 ---
 title: "Design of a cw, low-energy, high-power superconducting linac for environmental applications"
+aliases: ["Ciovati 2018"]
 type: source
 authors: ["Ciovati et al."]
 year: 2018

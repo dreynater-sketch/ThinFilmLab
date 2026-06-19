@@ -1,5 +1,6 @@
 ---
 title: "A review and prospects for Nb3Sn superconductor development."
+aliases: ["Xu 2017"]
 type: source
 authors: ["Xu, Xingchen"]
 year: 2017

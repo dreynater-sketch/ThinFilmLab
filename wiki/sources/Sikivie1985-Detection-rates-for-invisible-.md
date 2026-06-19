@@ -1,5 +1,6 @@
 ---
 title: "Detection rates for ``invisible''-axion searches"
+aliases: ["Sikivie 1985"]
 type: source
 authors: ["Sikivie"]
 year: 1985

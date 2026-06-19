@@ -1,5 +1,6 @@
 ---
 title: "Pair-breaking effects in high-temperature superconductors"
+aliases: ["Bandte 1992"]
 type: source
 authors: ["Bandte et al."]
 year: 1992

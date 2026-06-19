@@ -1,5 +1,6 @@
 ---
 title: "The Positive Electron"
+aliases: ["Anderson 1933"]
 type: source
 authors: ["Anderson"]
 year: 1933

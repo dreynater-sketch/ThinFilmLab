@@ -1,5 +1,6 @@
 ---
 title: "Corrections to “Worldwide Benchmarking of ITER Internal Tin $\hboxNb_3\hboxSn$ and NbTi Strands Test Facilities”"
+aliases: ["Pong 2012 benchmarking corrections", "ITER benchmarking corrections"]
 type: source
 authors: ["Pong et al."]
 year: 2012

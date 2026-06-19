@@ -1,5 +1,6 @@
 ---
 title: "Planar deposition of Nb thin films by HiPIMS for superconducting radiofrequency applications"
+aliases: ["Carlos 2024"]
 type: source
 authors: ["Carlos et al."]
 year: 2024

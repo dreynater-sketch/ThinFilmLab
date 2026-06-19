@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Properties from First Principles Calculations: An Ab-Initio Study of the properties of Superconductors under Perturbations"
+aliases: ["Byrne 2017"]
 type: source
 authors: ["Byrne"]
 year: 2017

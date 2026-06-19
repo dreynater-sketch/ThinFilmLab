@@ -1,5 +1,6 @@
 ---
 title: "Comparison of superconducting properties and residual resistivities of bronze processed Nb&lt;inf&gt;3&lt;/inf&gt;Sn wires with Ta, Ti and Ni+Zn additives"
+aliases: ["Drost 1985"]
 type: source
 authors: ["Drost et al."]
 year: 1985

@@ -1,5 +1,6 @@
 ---
 title: "On the mechanisms governing the critical current reduction in Nb<sub>3</sub>Sn Rutherford cables under transverse stress"
+aliases: ["Marzi 2021"]
 type: source
 authors: ["Marzi et al."]
 year: 2021

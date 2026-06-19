@@ -1,5 +1,6 @@
 ---
 title: "A15 superconductors: An alternative to niobium for RF cavities"
+aliases: ["Deambrosis 2006"]
 type: source
 authors: ["Deambrosis et al."]
 year: 2006

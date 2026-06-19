@@ -1,5 +1,6 @@
 ---
 title: "Analysis of Transverse Resistance Measurements in Nb<sub>3</sub>Sn Superconducting Wires"
+aliases: ["Breschi 2011"]
 type: source
 authors: ["Breschi et al."]
 year: 2011

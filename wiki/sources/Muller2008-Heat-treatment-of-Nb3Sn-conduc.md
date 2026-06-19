@@ -1,5 +1,6 @@
 ---
 title: "Heat treatment of Nb3Sn conductors"
+aliases: ["Müller 2008"]
 type: source
 authors: ["Müller and Schneider"]
 year: 2008

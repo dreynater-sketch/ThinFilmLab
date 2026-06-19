@@ -1,5 +1,6 @@
 ---
 title: "A Direct Empirical Proof of the Existence of Dark Matter*"
+aliases: ["Clowe 2006"]
 type: source
 authors: ["Clowe et al."]
 year: 2006

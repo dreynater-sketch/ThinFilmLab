@@ -1,5 +1,6 @@
 ---
 title: "Vortices in high-temperature superconductors"
+aliases: ["Blatter 1994"]
 type: source
 authors: ["Blatter et al."]
 year: 1994

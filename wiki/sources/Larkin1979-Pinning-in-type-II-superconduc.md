@@ -1,5 +1,6 @@
 ---
 title: "Pinning in type II superconductors"
+aliases: ["Larkin 1979"]
 type: source
 authors: ["Larkin and Ovchinnikov"]
 year: 1979

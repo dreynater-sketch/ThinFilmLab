@@ -1,5 +1,6 @@
 ---
 title: "Feasibility Study on SRF Cavity Improvement by Doping Method"
+aliases: ["Jiang 2013"]
 type: source
 authors: ["Jiang et al."]
 year: 2013

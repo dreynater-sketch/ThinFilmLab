@@ -1,5 +1,6 @@
 ---
 title: "Characterization of High <sub>c</sub> $rm Nb_3rm Sn$ Strands for the Series-Connected Hybrid Magnet"
+aliases: ["Lu 2009"]
 type: source
 authors: ["Lu et al."]
 year: 2009

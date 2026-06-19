@@ -1,5 +1,6 @@
 ---
 title: "The Ternary System Nb - Sn - Cu at 675 °C"
+aliases: ["Neijmeijer 1987"]
 type: source
 authors: ["Neijmeijer and Kolster"]
 year: 1987

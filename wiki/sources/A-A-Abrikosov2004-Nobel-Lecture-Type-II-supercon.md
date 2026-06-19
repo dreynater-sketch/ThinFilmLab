@@ -1,5 +1,6 @@
 ---
 title: "Nobel Lecture: Type-II superconductors and the vortex lattice | Rev. Mod. Phys."
+aliases: ["A. 2004"]
 type: source
 authors: ["A. A. Abrikosov"]
 year: 2004

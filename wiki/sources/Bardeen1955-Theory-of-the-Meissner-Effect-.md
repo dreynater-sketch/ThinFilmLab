@@ -1,5 +1,6 @@
 ---
 title: "Theory of the Meissner Effect in Superconductors"
+aliases: ["Bardeen 1955"]
 type: source
 authors: ["Bardeen"]
 year: 1955

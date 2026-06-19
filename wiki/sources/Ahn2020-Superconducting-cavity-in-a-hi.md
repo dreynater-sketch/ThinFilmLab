@@ -1,5 +1,6 @@
 ---
 title: "Superconducting cavity in a high magnetic field"
+aliases: ["Ahn 2020"]
 type: source
 authors: ["Ahn et al."]
 year: 2020

@@ -1,5 +1,6 @@
 ---
 title: "Proposal for Axion Dark Matter Detection Using an L C Circuit"
+aliases: ["Sikivie 2014"]
 type: source
 authors: ["Sikivie et al."]
 year: 2014

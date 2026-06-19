@@ -1,5 +1,6 @@
 ---
 title: "Improving Nb3Sn Cavity Performance Using Centrifugal Barrel Polishing"
+aliases: ["Viklund 2024 improving cavity", "improving Nb3Sn cavity performance"]
 type: source
 authors: ["Viklund et al."]
 year: 2024

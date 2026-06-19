@@ -1,5 +1,6 @@
 ---
 title: "Progress in European Thin Film Activities"
+aliases: ["Pira 2023"]
 type: source
 authors: ["Pira et al."]
 year: 2023

@@ -1,5 +1,6 @@
 ---
 title: "BIdirectional homogenization method for accurate analysis of mechanical behaviors of Nb<sub>3</sub>Sn superconducting coils"
+aliases: ["An 2022"]
 type: source
 authors: ["An et al."]
 year: 2022

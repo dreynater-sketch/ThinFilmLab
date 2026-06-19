@@ -1,5 +1,6 @@
 ---
 title: "PULSED-MAGNETIC-FIELD STUDIES OF SUPERCONDUCTING TRANSITION METAL ALLOYS AT HIGH AND LOW CURRENT DENSITIES"
+aliases: ["Berlincourt 1962"]
 type: source
 authors: ["Berlincourt"]
 year: 1962

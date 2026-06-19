@@ -1,5 +1,6 @@
 ---
 title: "Experimental Test of Parity Conservation in Beta Decay"
+aliases: ["Wu 1957"]
 type: source
 authors: ["Wu et al."]
 year: 1957

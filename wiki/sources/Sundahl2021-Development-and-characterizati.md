@@ -1,5 +1,6 @@
 ---
 title: "Development and characterization of Nb3Sn/Al2O3 superconducting multilayers for particle accelerators"
+aliases: ["Sundahl 2021", "Nb3Sn Al2O3 multilayers", "SIS multilayer Nb3Sn"]
 type: source
 authors: ["Sundahl, C.", "Makita, J.", "Welander, P.B.", "Su, Y.F.", "Kametani, F.", "Xie, L.", "Zhang, H.", "Li, L.", "Gurevich, A.", "Eom, C.B."]
 year: 2021

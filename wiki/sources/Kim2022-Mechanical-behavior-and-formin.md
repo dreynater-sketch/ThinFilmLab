@@ -1,5 +1,6 @@
 ---
 title: "Mechanical behavior and forming of commercially-pure niobium sheet"
+aliases: ["Kim 2022"]
 type: source
 authors: ["Kim et al."]
 year: 2022

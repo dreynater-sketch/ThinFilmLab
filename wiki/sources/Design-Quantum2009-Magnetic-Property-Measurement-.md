@@ -1,5 +1,6 @@
 ---
 title: "Magnetic Property Measurement System: SQUID VSM User’s Manual"
+aliases: ["Design 2009"]
 type: source
 authors: ["Design, Quantum"]
 year: 2009

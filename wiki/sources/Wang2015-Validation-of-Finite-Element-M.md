@@ -1,5 +1,6 @@
 ---
 title: "Validation of Finite-Element Models of Persistent-Current Effects in Nb3Sn Accelerator Magnets"
+aliases: ["Wang 2015"]
 type: source
 authors: ["Wang et al."]
 year: 2015

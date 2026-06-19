@@ -1,5 +1,6 @@
 ---
 title: "AC/RF Superconductivity"
+aliases: ["Ciovat 2014"]
 type: source
 authors: ["Ciovat"]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "Representation of orientation and disorientation data for cubic, hexagonal, tetragonal and orthorhombic crystals"
+aliases: ["Heinz 1991"]
 type: source
 authors: ["Heinz and Neumann"]
 year: 1991

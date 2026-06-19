@@ -1,5 +1,6 @@
 ---
 title: "Metallographic analysis of 11 T dipole coils for High Luminosity-Large Hadron Collider (HL-LHC)"
+aliases: ["Balachandran 2021", "11 T dipole metallography", "HL-LHC dipole coils"]
 type: source
 authors: ["Balachandran, S.", "Cooper, J.", "Van Oss, O.B.", "Lee, P.J.", "Botttura, L.", "Devred, A.", "Savary, F.", "Scheuerlein, C.", "Wolf, F."]
 year: 2021

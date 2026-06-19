@@ -1,5 +1,6 @@
 ---
 title: "Critical current and strand stiffness of three types of Nb<sub>3</sub>Sn Sn strand subjected to spatial periodic bending"
+aliases: ["Nijhuis 2006 critical current strand", "critical current strand Nijhuis"]
 type: source
 authors: ["Nijhuis et al."]
 year: 2006

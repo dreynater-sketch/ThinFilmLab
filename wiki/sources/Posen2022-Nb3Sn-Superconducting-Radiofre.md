@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn Superconducting Radiofrequency Cavities: a Maturing Technology for Particle Accelerators and Detectors"
+aliases: ["Posen 2022", "Nb3Sn SRF maturing technology", "Posen 2022 review"]
 type: source
 authors: ["Posen, S.", "Liepe, M.", "Eremeev, G.", "Pudasaini, U.", "Reece, C.E."]
 year: 2022

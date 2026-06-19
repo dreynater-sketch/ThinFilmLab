@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn Wires and Cables for High-Field Accelerator Magnets"
+aliases: ["Barzi 2019"]
 type: source
 authors: ["Barzi and Zlobin"]
 year: 2019

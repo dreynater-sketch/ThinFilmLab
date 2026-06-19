@@ -1,5 +1,6 @@
 ---
 title: "Quantitative strain measurement in Nb<sub>3</sub>Sn wire and cable conductors using high-energy x-ray and neutron beams"
+aliases: ["Awaji 2013"]
 type: source
 authors: ["Awaji"]
 year: 2013

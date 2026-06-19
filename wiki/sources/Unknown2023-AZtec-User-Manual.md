@@ -1,5 +1,6 @@
 ---
 title: "AZtec User Manual"
+aliases: ["Unknown 2023"]
 type: source
 authors: ["Unknown"]
 year: 2023

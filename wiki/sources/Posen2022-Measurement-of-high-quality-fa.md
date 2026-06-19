@@ -1,5 +1,6 @@
 ---
 title: "Measurement of high quality factor superconducting cavities in tesla-scale magnetic fields for dark matter searches"
+aliases: ["Posen 2022 high-Q measurement", "high quality factor measurement Posen"]
 type: source
 authors: ["Posen et al."]
 year: 2022

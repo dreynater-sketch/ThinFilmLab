@@ -1,5 +1,6 @@
 ---
 title: "Performance boundaries in Nb3Sn superconductors"
+aliases: ["Godeke 2005"]
 type: source
 authors: ["Godeke, A."]
 year: 2005

@@ -1,5 +1,6 @@
 ---
 title: "USPAS | Programs | CSU (2013)"
+aliases: ["USPAS CSU 2013 programs"]
 type: source
 authors: ["Unknown"]
 year: 2021

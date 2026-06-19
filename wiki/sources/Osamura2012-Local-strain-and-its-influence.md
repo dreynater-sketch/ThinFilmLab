@@ -1,5 +1,6 @@
 ---
 title: "Local strain and its influence on mechanical–electromagnetic properties of twisted and untwisted ITER Nb<sub>3</sub>Sn strands"
+aliases: ["Osamura 2012"]
 type: source
 authors: ["Osamura et al."]
 year: 2012

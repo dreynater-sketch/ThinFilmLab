@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Properties of Non-Superconducting Components in YBCO and Nb<sub>3</sub>Sn Composites"
+aliases: ["Han 2011"]
 type: source
 authors: ["Han et al."]
 year: 2011

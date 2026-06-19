@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Intermetallic Compounds — The A15 Story"
+aliases: ["Hein 1973"]
 type: source
 authors: ["Hein"]
 year: 1973

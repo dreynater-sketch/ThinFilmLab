@@ -1,5 +1,6 @@
 ---
 title: "Dark Matter Axion Search Using a Josephson Traveling Wave Parametric Amplifier"
+aliases: ["Bartram 2023"]
 type: source
 authors: ["Bartram et al."]
 year: 2023

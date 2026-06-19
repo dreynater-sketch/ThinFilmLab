@@ -1,5 +1,6 @@
 ---
 title: "Alteration of the Superconducting Properties of A15 Compounds and Elementary Composite Superconductors by Nonhydrostatic Elastic Strain"
+aliases: ["Welch 1980"]
 type: source
 authors: ["Welch"]
 year: 1980

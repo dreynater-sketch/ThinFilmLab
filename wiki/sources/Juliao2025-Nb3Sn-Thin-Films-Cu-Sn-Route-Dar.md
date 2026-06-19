@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn Thin Films Using a Cu-Sn Route for Dark Matter Detection"
+aliases: ["Juliao 2025", "Juliao thesis", "Cu-Sn route Nb3Sn dark matter", "FSU hexagonal cavity"]
 type: source
 authors: ["Juliao, Andre Robert"]
 year: 2025

@@ -1,5 +1,6 @@
 ---
 title: "Experimental and Theoretical Investigation of the Diffusion of Sn in Internal-Tin Nb</sub>3</sub>Sn"
+aliases: ["Dhaka 2007"]
 type: source
 authors: ["Dhaka et al."]
 year: 2007

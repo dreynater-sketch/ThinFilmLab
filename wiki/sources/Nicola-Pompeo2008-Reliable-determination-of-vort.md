@@ -1,5 +1,6 @@
 ---
 title: "Reliable determination of vortex parameters from measurements of the microwave complex resistivity | Phys. Rev. B"
+aliases: ["Nicola 2008"]
 type: source
 authors: ["Nicola Pompeo and Enrico Silva"]
 year: 2008

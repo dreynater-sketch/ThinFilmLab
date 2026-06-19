@@ -1,5 +1,6 @@
 ---
 title: "Atomic-scale study of diffusion in A15 Nb 3 Sn"
+aliases: ["Besson 2007"]
 type: source
 authors: ["Besson et al."]
 year: 2007

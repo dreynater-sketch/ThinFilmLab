@@ -1,5 +1,6 @@
 ---
 title: "Worldwide Benchmarking of ITER Internal Tin $\rm Nb_3\rm Sn$ and NbTi Strands Test Facilities"
+aliases: ["Pong 2012 ITER benchmarking", "worldwide ITER strand benchmarking"]
 type: source
 authors: ["Pong et al."]
 year: 2012

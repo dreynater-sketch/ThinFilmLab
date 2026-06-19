@@ -1,5 +1,6 @@
 ---
 title: "Handbook on Materials for Superconducting Machinery. (Mechanical, Thermal, Electrical, and Magnetic Properties of Structural Materials Including Data Sheets for the First Supplement)."
+aliases: ["Hanby 1975"]
 type: source
 authors: ["Hanby and BATTELLE COLUMBUS LABS OHIO METALS AND CERAMICS INFORMATION CENTER"]
 year: 1975

@@ -1,5 +1,6 @@
 ---
 title: "Characteristic length for pinning force density in Nb<sub>3</sub>Sn"
+aliases: ["Talantsev 2023"]
 type: source
 authors: ["Talantsev et al."]
 year: 2023

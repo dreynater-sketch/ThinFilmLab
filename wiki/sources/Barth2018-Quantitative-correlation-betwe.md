@@ -1,5 +1,6 @@
 ---
 title: "Quantitative correlation between the void morphology of niobium-tin wires and their irreversible critical current degradation upon mechanical loading"
+aliases: ["Barth 2018"]
 type: source
 authors: ["Barth et al."]
 year: 2018

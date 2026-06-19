@@ -1,5 +1,6 @@
 ---
 title: "Impact of strain and field ramp functional form on thermomagnetic instabilities in composite Nb3Sn wires with multi-filaments inside the superconducting coil"
+aliases: ["Wang 2022 strain field ramp", "strain field ramp rate Wang"]
 type: source
 authors: ["Wang et al."]
 year: 2022

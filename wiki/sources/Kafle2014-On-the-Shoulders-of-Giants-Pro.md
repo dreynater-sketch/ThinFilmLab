@@ -1,5 +1,6 @@
 ---
 title: "On the Shoulders of Giants: Properties of the Stellar Halo and the Milky Way Mass Distribution"
+aliases: ["Kafle 2014"]
 type: source
 authors: ["Kafle et al."]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "On the Theory of Superconductivity"
+aliases: ["Ginzburg 1950"]
 type: source
 authors: ["Ginzburg and Landau"]
 year: 1950

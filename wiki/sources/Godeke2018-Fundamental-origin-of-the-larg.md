@@ -1,5 +1,6 @@
 ---
 title: "Fundamental origin of the large impact of strain on superconducting Nb3Sn"
+aliases: ["Godeke 2018", "strain impact Nb3Sn", "strain DOS Nb3Sn", "Godeke strain N(0)"]
 type: source
 authors: ["Godeke, A.", "Hellman, F.", "ten Kate, H.H.J.", "Mentink, M.G.T."]
 year: 2018

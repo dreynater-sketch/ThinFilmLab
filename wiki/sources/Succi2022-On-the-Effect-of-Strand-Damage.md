@@ -1,5 +1,6 @@
 ---
 title: "On the Effect of Strand Damage on the Operating Margin of a Nb3Sn Rutherford cable"
+aliases: ["Succi 2022"]
 type: source
 authors: ["Succi et al."]
 year: 2022

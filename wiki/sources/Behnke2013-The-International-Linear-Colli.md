@@ -1,5 +1,6 @@
 ---
 title: "The International Linear Collider Technical Design Report - Volume 4: Detectors"
+aliases: ["Behnke 2013"]
 type: source
 authors: ["Behnke et al."]
 year: 2013

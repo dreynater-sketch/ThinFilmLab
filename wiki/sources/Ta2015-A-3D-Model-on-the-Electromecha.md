@@ -1,5 +1,6 @@
 ---
 title: "A 3D Model on the Electromechanical Behavior of a Multifilament Twisted Nb3Sn Superconducting Strand"
+aliases: ["Ta 2015"]
 type: source
 authors: ["Ta et al."]
 year: 2015

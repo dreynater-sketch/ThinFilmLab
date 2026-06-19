@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn for Radio Frequency Cavities"
+aliases: ["Godeke 2006 RF", "Nb3Sn for RF cavities", "Godeke SRF Nb3Sn", "Nb3Sn critical fields RF"]
 type: source
 authors: ["Godeke, A."]
 year: 2006

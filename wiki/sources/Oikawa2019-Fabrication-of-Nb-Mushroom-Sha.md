@@ -1,5 +1,6 @@
 ---
 title: "Fabrication of Nb Mushroom Shaped Cavity for Evaluation of Multi-layer Thin-film Superconductor"
+aliases: ["Oikawa 2019"]
 type: source
 authors: ["Oikawa et al."]
 year: 2019

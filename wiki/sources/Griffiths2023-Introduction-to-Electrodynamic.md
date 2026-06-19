@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Electrodynamics"
+aliases: ["Griffiths 2023"]
 type: source
 authors: ["Griffiths"]
 year: 2023

@@ -1,5 +1,6 @@
 ---
 title: "SQUID-Based Microwave Cavity Search for Dark-Matter Axions"
+aliases: ["Asztalos 2010"]
 type: source
 authors: ["Asztalos et al."]
 year: 2010

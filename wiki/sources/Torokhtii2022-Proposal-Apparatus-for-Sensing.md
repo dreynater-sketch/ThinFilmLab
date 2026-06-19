@@ -1,5 +1,6 @@
 ---
 title: "Proposal: Apparatus for Sensing the Effect of Surface Roughness on the Surface Resistance of Metals"
+aliases: ["Torokhtii 2022"]
 type: source
 authors: ["Torokhtii et al."]
 year: 2022

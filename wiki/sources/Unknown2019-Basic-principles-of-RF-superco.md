@@ -1,5 +1,6 @@
 ---
 title: "Basic principles of RF superconductivity"
+aliases: ["RF superconductivity basics", "basic principles RF superconductivity"]
 type: source
 authors: ["Unknown"]
 year: 2019

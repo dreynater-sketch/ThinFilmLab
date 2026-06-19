@@ -1,5 +1,6 @@
 ---
 title: "Test Results of Two ITER TF Conductor Short Samples Using High Current Density Nb<sub>3</sub> Sn Strands"
+aliases: ["Bruzzone 2007"]
 type: source
 authors: ["Bruzzone et al."]
 year: 2007

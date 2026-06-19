@@ -1,5 +1,6 @@
 ---
 title: "Can confinement ensure natural CP invariance of strong interactions?"
+aliases: ["Shifman 1980"]
 type: source
 authors: ["Shifman et al."]
 year: 1980

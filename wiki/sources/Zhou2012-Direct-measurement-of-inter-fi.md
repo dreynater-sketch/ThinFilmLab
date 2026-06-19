@@ -1,5 +1,6 @@
 ---
 title: "Direct measurement of inter-filament resistance in various multi-filamentary superconducting NbTi and Nb <sub>3</sub> Sn strands"
+aliases: ["Zhou 2012"]
 type: source
 authors: ["Zhou et al."]
 year: 2012

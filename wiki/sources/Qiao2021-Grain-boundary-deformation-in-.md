@@ -1,5 +1,6 @@
 ---
 title: "Grain boundary deformation in uniaxial strained Nb<sub>3</sub>Sn"
+aliases: ["Qiao 2021"]
 type: source
 authors: ["Qiao et al."]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Critical Fields of SRF Materials"
+aliases: ["Junginger 2018", "SRF critical fields", "Hc1 Hsh SRF materials"]
 type: source
 authors: ["Junginger, T.", "Prokscha, T.", "Salman, Z.", "Suter, A.", "Valente-Feliciano, A.M."]
 year: 2018

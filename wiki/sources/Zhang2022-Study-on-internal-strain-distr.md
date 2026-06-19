@@ -1,5 +1,6 @@
 ---
 title: "Study on internal strain distribution of the high-field Nb3Sn superconducting accelerator magnets with homogenization theory"
+aliases: ["Zhang 2022"]
 type: source
 authors: ["Zhang and Xu"]
 year: 2022

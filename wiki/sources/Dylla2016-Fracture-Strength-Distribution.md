@@ -1,5 +1,6 @@
 ---
 title: "Fracture Strength Distribution of Individual Nb3Sn Filaments"
+aliases: ["Dylla 2016"]
 type: source
 authors: ["Dylla et al."]
 year: 2016

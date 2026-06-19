@@ -1,5 +1,6 @@
 ---
 title: "Deep Underground Neutrino Experiment (DUNE) Near Detector Conceptual Design Report"
+aliases: ["Abud 2021"]
 type: source
 authors: ["Abud et al."]
 year: 2021

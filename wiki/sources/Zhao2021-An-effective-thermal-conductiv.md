@@ -1,5 +1,6 @@
 ---
 title: "An effective thermal conductivity and thermomechanical homogenization scheme for a multiscale Nb3Sn filaments"
+aliases: ["Zhao 2021"]
 type: source
 authors: ["Zhao et al."]
 year: 2021

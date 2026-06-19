@@ -16,4 +16,4 @@
 
 ---
 
-*For operational instructions, see CLAUDE.md. For recent activity, see log.md. For researcher details, see context/user_profile.md.*
+*For operational instructions, see AGENTS.md. For recent activity, see log.md. For researcher details, see context/user_profile.md.*

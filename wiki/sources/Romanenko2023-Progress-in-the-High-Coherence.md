@@ -1,5 +1,6 @@
 ---
 title: "Progress in the High Coherence 3D SRF Superconducting Quantum Processor Unit (QPU) Development at Fermilab | IEEETV"
+aliases: ["Romanenko 2023"]
 type: source
 authors: ["Romanenko"]
 year: 2023

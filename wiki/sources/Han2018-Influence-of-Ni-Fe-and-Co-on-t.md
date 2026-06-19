@@ -1,5 +1,6 @@
 ---
 title: "Influence of Ni, Fe and Co on the microstructure and properties of 75% Cu–25% Sn alloy in hot pressing"
+aliases: ["Han 2018"]
 type: source
 authors: ["Han et al."]
 year: 2018

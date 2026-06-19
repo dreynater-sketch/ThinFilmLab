@@ -1,5 +1,6 @@
 ---
 title: "Surface oxides, carbides, and impurities on RF superconducting Nb and Nb3Sn: A comprehensive analysis"
+aliases: ["Sun 2023 surface oxides", "surface oxides carbides Nb3Sn"]
 type: source
 authors: ["Sun et al."]
 year: 2023

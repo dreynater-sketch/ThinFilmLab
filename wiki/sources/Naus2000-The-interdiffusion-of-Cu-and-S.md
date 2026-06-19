@@ -1,5 +1,6 @@
 ---
 title: "The interdiffusion of Cu and Sn in internal Sn Nb/sub 3/Sn superconductors"
+aliases: ["Naus 2000"]
 type: source
 authors: ["Naus et al."]
 year: 2000

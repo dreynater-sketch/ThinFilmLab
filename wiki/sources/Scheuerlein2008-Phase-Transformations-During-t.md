@@ -1,5 +1,6 @@
 ---
 title: "Phase Transformations During the Reaction Heat Treatment of Internal Tin Nb $_{3}$ Sn Strands With High Sn Content"
+aliases: ["Scheuerlein 2008"]
 type: source
 authors: ["Scheuerlein et al."]
 year: 2008

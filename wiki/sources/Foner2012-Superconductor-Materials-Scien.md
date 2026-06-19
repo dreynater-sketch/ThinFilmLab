@@ -1,5 +1,6 @@
 ---
 title: "Superconductor Materials Science: Metallurgy, Fabrication, and Applications"
+aliases: ["Foner 2012"]
 type: source
 authors: ["Foner and Schwartz"]
 year: 2012

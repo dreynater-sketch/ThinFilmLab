@@ -1,5 +1,6 @@
 ---
 title: "Precipitous change of the irreversible strain limit with heat-treatment temperature in Nb3Sn wires made by the restacked-rod process"
+aliases: ["Cheggour 2018"]
 type: source
 authors: ["Cheggour et al."]
 year: 2018

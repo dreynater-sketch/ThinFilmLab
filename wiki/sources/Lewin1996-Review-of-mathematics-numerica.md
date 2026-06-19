@@ -1,5 +1,6 @@
 ---
 title: "Review of mathematics, numerical factors, and corrections for dark matter experiments based on elastic nuclear recoil"
+aliases: ["Lewin 1996"]
 type: source
 authors: ["Lewin and Smith"]
 year: 1996

@@ -1,5 +1,6 @@
 ---
 title: "Concept and preliminary design of dielectric resonator for anisotropic measurement of the surface impedance"
+aliases: ["Torokhtii 2023"]
 type: source
 authors: ["Torokhtii et al."]
 year: 2023

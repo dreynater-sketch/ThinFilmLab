@@ -1,53 +1,54 @@
 ---
 title: "Thermodynamic re-modelling of the Cu–Nb–Sn system: Integrating the nausite phase"
+aliases: ["Lachmann 2022", "Lachmann nausite CALPHAD", "Cu-Nb-Sn CALPHAD remodel", "nausite phase diagram"]
 type: source
-authors: ["Lachmann et al."]
+authors: ["Lachmann, Jonas", "Kriegel, Mario J.", "Leineweber, Andreas", "Shang, Shun-Li", "Liu, Zi-Kui"]
 year: 2022
 journal: "Calphad"
 doi: "10.1016/j.calphad.2022.102409"
 zotero_key: DAEJAB2V
-tags: [nb3sn, phase-diagram]
+tags: [nb3sn, phase-diagram, nausite, calphad, cu-nb-sn, dft, in-situ-xrd, dsc]
 source_file: "Claude Organized Zotero/Nb3Sn/DAEJAB2V-Lachmann2022-Thermodynamic-re-modelling-of-the-C.pdf"
-date_ingested: 2026-04-06
-status: stub
----
-
-# Thermodynamic re-modelling of the Cu–Nb–Sn system: Integrating the nausite phase
-
-**Lachmann et al. (2022)** — Calphad
-
-DOI: 10.1016/j.calphad.2022.102409
-
-*Zotero collections: Superconducting Materials > Nb3Sn; Materials Science & Engineering > Metallurgy & Phase Diagrams*
-
----
-
-## Abstract
-
-Currently available Cu–Nb–Sn phase diagrams lack the recently discovered nausite phase (Cu,Nb)Sn2, which is an important intermediate in the course of thermal processing of superconducting Nb3Sn wires. Processing decisively determines the resulting microstructure of Nb3Sn and, thus, its superconducting properties. Lack of suitable and complete phase diagrams, however, obstructs rational design of such thermal processing procedures. To close this gap and to obtain valid knowledge of homogeneity and stability range of nausite, various Cu–Nb–Sn samples, which are heat-treated between 300 ◦C and 500 ◦C, are investigated. By means of energy-dispersive Xray spectroscopy (EDX), a temperature-dependent homogeneity range of nausite is observed, which covers average mole fractions of Cu between 0.09 and 0.15. This is correlated with a change in the mean atomic volume and can be seen in the lattice parameters determined by X-ray diffraction (XRD). Additionally performed firstprinciples calculations on different CuSn2 and NbSn2 model structures confirm this trend. Furthermore, the peritectic decomposition of nausite to NbSn2 and liquid at 586 ◦C is determined by means of in situ XRD and differential scanning calorimetry (DSC). By using the CALPHAD (CALculation of PHase Diagrams) approach, all these findings are used to extend a previous thermodynamic description of the Cu–Nb–Sn system by including the nausite as an additional phase. With this noteworthy integration, the updated modelling of the Cu–Nb–Sn system can be used for optimizing the multistage heat-treatment steps during processing superconducting Nb3Sn wires.
-
+date_ingested: 2026-06-11
 ---
 
 ## Summary
 
-*(stub — not yet ingested)*
+First complete thermodynamic (CALPHAD) description of the Cu–Nb–Sn ternary that includes [[Nausite]], valid 200–700 °C — the equilibrium backbone for understanding internal-tin Nb3Sn wire heat treatments. Combines PVD layered samples and powder mixtures (heat treated 300–500 °C) with EDX/WDX, EBSD, in-situ XRD, DSC, and DFT to pin down nausite's homogeneity range and decomposition, then re-optimizes the Li et al. (2009) database around it. TU Freiberg + Penn State; CERN-funded (FCC context).
 
 ## Key Findings
 
-*(stub)*
+- **Nausite is (Cu,Nb)Sn₂ with a real homogeneity range** — not a fixed (Nb₀.₇₅Cu₀.₂₅)Sn₂ stoichiometry. Cu substitutes Nb on the metal sublattice: x_Cu ≈ 0.09–0.15, **temperature-dependent** (Cu content falls as T rises). Mean atomic volume shrinks linearly with Cu (−3.8 Å³ per x_Cu; XRD + DFT agree).
+- **Measured nausite compositions (WDX):** 11.5/20.0/68.5 at.% Cu/Nb/Sn at 400 °C; 6.9/25.0/68.1 at 500 °C. Measured x_Sn runs 0.64–0.69 (mostly > 2/3).
+- **Peritectic decomposition at 586 °C**: liquid + NbSn₂ ⇌ Cu₃Sn + nausite (in-situ XRD + DSC); pure-limit reaction liq + NbSn₂ ⇌ nausite at 588 °C. Matches the ~560 °C nausite disappearance seen in reacting internal-tin strands.
+- **U-type reaction at 410 °C:** NbSn₂ + Cu₃Sn ⇌ nausite + [[Nb3Sn]] — explains why only nausite forms at 300–400 °C while NbSn₂ appears alongside it at 500 °C.
+- Nausite forms more readily at **lower Cu:Sn ratios** (more Sn-rich liquid against Nb); at Cu:Sn ≥ ~1.2 (Cu₆Sn₅ stoichiometry) residual Sn-rich liquid is consumed and nausite is suppressed at low T.
+- Updated 670 °C section: U-type reaction liquid + Nb₃Sn ⇌ γ + Nb₆Sn₅ at **670 °C** (previous database: 675 °C; experiment: 680 ± 4 °C).
+- NbSn₂ and nausite are structurally related (CuMg₂- vs NiMg₂-type; the change is driven by valence-electron count as Cu substitutes Nb) and hard to tell apart by EBSD — morphology alone is unreliable.
 
 ## Methods Used
 
-*(stub)*
+- PVD (sputtered Cu + Sn layers on polycrystalline Nb plates, Cu:Sn 1.2/0.6/0.4) and powder mixtures; HTs 300–500 °C up to 336 h, sealed quartz, ice-water quench.
+- CALPHAD re-optimization (Thermo-Calc/PARROT) on a two-sublattice (Cu,Nb)₁Sn₂ model; DFT (VASP) on CuSn₂/NbSn₂ model structures.
 
 ## Materials Studied
 
-*(stub)*
+- [[Nausite]] — central subject: homogeneity range, stability limit, sublattice model.
+- [[Nb3Sn]] — appears via the 410 °C U-type reaction; databases aimed at optimizing its formation path.
+- Cu-Sn phases (Cu₆Sn₅, Cu₃Sn, liquid Sn) and NbSn₂/Nb₆Sn₅ binaries.
+
+## Characterization Techniques
+
+- EDX/WDX point analysis (homogeneity range), EBSD (nausite vs NbSn₂ distinction), in-situ XRD + DSC (586 °C decomposition), Rietveld/Pawley lattice parameters.
 
 ## Connections
 
-*(stub)*
+- Quantifies the equilibrium behind → [[Sanabria2017-A-New-Understanding-of-the-Hea]] (nausite membrane kinetics) and [[Naus2002-Optimization-of-internal-tin-n]] (discovery).
+- Cited by → [[Tietsworth2024-RIT-CuSn-mixing]] as the source of the updated ternary diagram (his Fig. 1.8).
+- Caveat for → [[FMF Nb3Sn Wires]] EDS practice: nausite's composition shifts with formation temperature (Cu 7–12 at.%), so using it as a fixed EDS benchmark carries ±2 at.% uncertainty.
+- Feeds the kinetics-vs-equilibrium framing in [[Nb3Sn Thermodynamics and Kinetics - Phase Formation, Grain Boundaries, and CuSn Segregation]].
 
 ## Open Questions
 
-*(stub)*
+- Database is equilibrium-only; nausite formation in real wires is kinetically gated (Nb₃Sn absent below ~600 °C entirely for kinetic reasons). Coupling to diffusion (DICTRA-type) is the missing piece for HT design.
+- Whether x_Sn > 2/3 deviations are real (Sn-site substitution) or systematic WDX error — authors assume the latter; ±2 at.% uncertainty on Cu/Nb contents.

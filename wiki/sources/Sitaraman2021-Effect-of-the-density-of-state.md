@@ -1,5 +1,6 @@
 ---
 title: "Effect of the density of states at the Fermi level on defect free energies and superconductivity: A case study of Nb3Sn"
+aliases: ["Sitaraman 2021", "Sitaraman antisite DFT", "DOS Fermi level Nb3Sn", "Sitaraman Nb3Sn defects"]
 type: source
 authors: ["Sitaraman, N.S.", "Arias, T.A.", "Porter, R.D.", "Liepe, M.U.", "Carlson, J.", "Pack, A.R.", "Transtrum, M.K."]
 year: 2021

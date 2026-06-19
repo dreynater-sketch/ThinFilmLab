@@ -1,5 +1,6 @@
 ---
 title: "Temperature and Purity Dependence of the Superconducting Critical Field, H c 2 . III. Electron Spin and Spin-Orbit Effects"
+aliases: ["Werthamer 1966"]
 type: source
 authors: ["Werthamer et al."]
 year: 1966

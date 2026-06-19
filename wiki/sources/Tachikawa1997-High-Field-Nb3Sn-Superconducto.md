@@ -1,5 +1,6 @@
 ---
 title: "High-Field Nb3Sn Superconductors Prepared through a New Route"
+aliases: ["Tachikawa 1997"]
 type: source
 authors: ["Tachikawa et al."]
 year: 1997

@@ -1,5 +1,6 @@
 ---
 title: "Search for Invisible Axion Dark Matter with the Axion Dark Matter Experiment"
+aliases: ["Du 2018"]
 type: source
 authors: ["Du et al."]
 year: 2018

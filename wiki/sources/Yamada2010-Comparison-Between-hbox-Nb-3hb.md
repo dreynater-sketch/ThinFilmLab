@@ -1,5 +1,6 @@
 ---
 title: "Comparison Between $\hbox Nb_3\hbox Al$ and $\hbox Nb_3\hbox Sn$ Strands and Cables for High Field Accelerator Magnets"
+aliases: ["Yamada 2010"]
 type: source
 authors: ["Yamada et al."]
 year: 2010

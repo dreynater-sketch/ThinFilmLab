@@ -1,5 +1,6 @@
 ---
 title: "The superconductivity phenomenon"
+aliases: ["Stroski 2019"]
 type: source
 authors: ["Stroski"]
 year: 2019

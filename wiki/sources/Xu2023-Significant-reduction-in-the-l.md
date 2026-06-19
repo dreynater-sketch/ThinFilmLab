@@ -1,5 +1,6 @@
 ---
 title: "Significant reduction in the low-field magnetization of Nb3Sn superconducting strands using the internal oxidation APC approach"
+aliases: ["Xu 2023"]
 type: source
 authors: ["Xu et al."]
 year: 2023

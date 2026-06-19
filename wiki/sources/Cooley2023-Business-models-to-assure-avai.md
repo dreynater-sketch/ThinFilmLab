@@ -1,5 +1,6 @@
 ---
 title: "Business models to assure availability of advanced superconductors for the accelerator sector and promote stewardship of superconducting magnet technology for the US economy"
+aliases: ["Cooley 2023"]
 type: source
 authors: ["Cooley et al."]
 year: 2023

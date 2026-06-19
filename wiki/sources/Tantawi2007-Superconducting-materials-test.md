@@ -1,5 +1,6 @@
 ---
 title: "Superconducting materials testing with a high-Q copper RF cavity"
+aliases: ["Tantawi 2007"]
 type: source
 authors: ["Tantawi et al."]
 year: 2007

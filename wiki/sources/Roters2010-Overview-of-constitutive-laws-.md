@@ -1,5 +1,6 @@
 ---
 title: "Overview of constitutive laws, kinematics, homogenization and multiscale methods in crystal plasticity finite-element modeling: Theory, experiments, applications"
+aliases: ["Roters 2010"]
 type: source
 authors: ["Roters et al."]
 year: 2010

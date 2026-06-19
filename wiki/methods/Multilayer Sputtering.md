@@ -37,6 +37,7 @@ Layer 3: Nb film (~0.3–3 µm, DC sputtering)
 - Prevents Sn (or Cu-Sn eutectic) from diffusing laterally into the Cu bulk before reacting with Nb
 - Prevents Cu substrate interdiffusion into the Nb3Sn film during high-T processing
 - Must be thin enough not to impede Sn supply to Nb, but dense enough to block Cu diffusion
+- Barrier crystallinity matters: high-T HiPIMS / post-anneal favors the dense bcc [[Ta alpha phase]] over metastable β-Ta
 - SOP: `lab/SOPs/Deposition/Multilayer — Ta barrier.md`
 
 ### CuSn Bronze Layer

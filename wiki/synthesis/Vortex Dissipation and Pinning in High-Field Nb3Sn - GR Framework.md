@@ -1,5 +1,6 @@
 ---
 title: "Vortex Dissipation and Pinning in High-Field Nb3Sn: GR Framework"
+aliases: ["vortex dissipation Nb3Sn", "GR framework Nb3Sn", "high-field vortex pinning", "vortex pinning GR Nb3Sn"]
 type: synthesis
 tags: [nb3sn, vortex-dynamics, gittleman-rosenblum, pinning, surface-resistance, high-field, srf, axion, dcms, vtd, hot-bronze]
 sources_consulted: 6

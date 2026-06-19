@@ -1,5 +1,6 @@
 ---
 title: "The role of copper in the formation of the Nb3Sn superconducting phase"
+aliases: ["Zhang 2023", "copper role Nb3Sn formation", "Cu in Nb3Sn phase formation"]
 type: source
 authors: ["Zhang, Z.", "Gao, Z.", "Wang, Y.", "Meng, J.", "Cheng, J.", "Wang, Q."]
 year: 2023

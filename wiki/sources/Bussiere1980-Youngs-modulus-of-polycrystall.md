@@ -1,5 +1,6 @@
 ---
 title: "Young’s modulus of polycrystalline Nb3Sn between 4.2 and 300 K"
+aliases: ["Bussiere 1980"]
 type: source
 authors: ["Bussiere et al."]
 year: 1980

@@ -1,5 +1,6 @@
 ---
 title: "Impact of spatial periodic bending and load cycling on the critical current of a Nb <sub>3</sub> Sn strand"
+aliases: ["Nijhuis 2005"]
 type: source
 authors: ["Nijhuis et al."]
 year: 2005

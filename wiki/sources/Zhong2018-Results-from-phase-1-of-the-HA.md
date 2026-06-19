@@ -1,5 +1,6 @@
 ---
 title: "Results from phase 1 of the HAYSTAC microwave cavity axion experiment"
+aliases: ["Zhong 2018"]
 type: source
 authors: ["Zhong et al."]
 year: 2018

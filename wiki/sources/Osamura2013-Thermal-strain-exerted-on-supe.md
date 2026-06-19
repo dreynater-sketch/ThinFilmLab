@@ -1,5 +1,6 @@
 ---
 title: "Thermal strain exerted on superconductive filaments in practical Nb<sub>3</sub>Sn and Nb<sub>3</sub>Al strands"
+aliases: ["Osamura 2013"]
 type: source
 authors: ["Osamura et al."]
 year: 2013

@@ -1,5 +1,6 @@
 ---
 title: "Andre's PhD Thesis on Nb3Sn (redirect)"
+aliases: ["Andres PhD thesis Nb3Sn", "Andre Juliao thesis"]
 type: source
 authors: ["Juliao, Andre"]
 year: 2025

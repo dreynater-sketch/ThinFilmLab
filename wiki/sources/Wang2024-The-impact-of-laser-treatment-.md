@@ -1,5 +1,6 @@
 ---
 title: "The impact of laser treatment on the microstructure and properties of bronze route Nb3Sn thin films"
+aliases: ["Wang 2024"]
 type: source
 authors: ["Wang et al."]
 year: 2024

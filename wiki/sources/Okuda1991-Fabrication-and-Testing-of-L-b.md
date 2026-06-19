@@ -1,5 +1,6 @@
 ---
 title: "Fabrication and Testing of L-band Niobium Coated Copper Cavities"
+aliases: ["Okuda 1991"]
 type: source
 authors: ["Okuda et al."]
 year: 1991

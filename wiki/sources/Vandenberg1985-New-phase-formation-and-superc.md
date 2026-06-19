@@ -1,5 +1,6 @@
 ---
 title: "New phase formation and superconductivity in reactively diffused Nb3Sn multilayer films"
+aliases: ["Vandenberg 1985", "reactively diffused Nb3Sn multilayer", "Nb3Sn phase formation 1985"]
 type: source
 authors: ["Vandenberg, J.M.", "Hamm, R.A.", "Remeika, J.P.", "Chin, G.Y."]
 year: 1985

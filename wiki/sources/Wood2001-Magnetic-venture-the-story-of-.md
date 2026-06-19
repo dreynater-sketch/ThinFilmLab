@@ -1,5 +1,6 @@
 ---
 title: "Magnetic venture: the story of Oxford Instruments"
+aliases: ["Wood 2001"]
 type: source
 authors: ["Wood"]
 year: 2001

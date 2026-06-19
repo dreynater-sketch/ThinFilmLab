@@ -1,5 +1,6 @@
 ---
 title: "A Review of the Mechanical Properties of Materials Used in Nb <sub>3</sub> Sn Magnets for Particle Accelerators"
+aliases: ["Vallone 2023"]
 type: source
 authors: ["Vallone et al."]
 year: 2023

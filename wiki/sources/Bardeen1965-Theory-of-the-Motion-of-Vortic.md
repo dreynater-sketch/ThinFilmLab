@@ -1,5 +1,6 @@
 ---
 title: "Theory of the Motion of Vortices in Superconductors"
+aliases: ["Bardeen 1965"]
 type: source
 authors: ["Bardeen and Stephen"]
 year: 1965

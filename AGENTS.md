@@ -1,6 +1,6 @@
-# CLAUDE.md — Thin Film Research Wiki Schema
+# AGENTS.md — Thin Film Research Wiki Schema
 
-This file defines the rules, structure, and workflows for this LLM-maintained research wiki. Every Claude Code session operating on this vault must read this file first. Do not deviate from these conventions without updating this file.
+This file defines the rules, structure, and workflows for this LLM-maintained research wiki. Every agent session operating on this vault (Cursor, Claude Code, or any other tool that honors `AGENTS.md`/`CLAUDE.md`) must read this file first. Do not deviate from these conventions without updating this file.
 
 ---
 
@@ -29,13 +29,14 @@ This is a personal research wiki for superconducting materials and SRF (Supercon
 ## Directory Structure
 
 ```
-CLAUDE.md           ← This file. Schema and rules. Read first every session.
+AGENTS.md           ← This file. Schema and rules. Read first every session.
 index.md            ← Master catalog of all wiki pages. Read before querying.
 log.md              ← Append-only operation log. Read for recent history.
 Welcome.md          ← Delete when ready (default Obsidian file)
 
 context/            ← Claude Code calibration context. Not research data.
   user_profile.md   ← Researcher profile, equipment, response style preferences
+  collaborator_role.md ← Agent's role + operating standards (the "post-doc" mandate)
 
 raw/                ← SOURCE DOCUMENTS. Read-only. Never modified by LLM.
   papers/           ← PDFs or markdown exports of academic papers
@@ -53,6 +54,10 @@ wiki/               ← LLM-maintained knowledge base. LLM writes; you read.
   applications/     ← Use cases (solar cells, LEDs, sensors, coatings, etc.)
   synthesis/        ← Cross-cutting analyses, comparisons, open questions
 
+brainstorms/        ← Knowledge-extraction sessions (the /grill-me skill). Raw Q&A logs of the maintainer's tacit/process knowledge, later promoted into wiki/ and lab/ pages.
+
+career/             ← PERSONAL career material (LinkedIn, applications, CV). Not research. Do NOT lint, cross-link into wiki/, or modify without explicit request.
+
 lab/                ← Lab operations (SOPs, training, experiments, tasks). Read on demand only — NOT loaded at session startup.
   SOPs/             ← Deposition (17) and Characterization (15) standard operating procedures
   Training/         ← Learning tracks for Kegan Heaney (characterization) and Andre Quintero (deposition)
@@ -62,6 +67,9 @@ lab/                ← Lab operations (SOPs, training, experiments, tasks). Rea
   Reading List/     ← Papers assigned to team members
   Electropolishing/ ← Cu EP protocol + Gamry SOP
   Reference/        ← Lab overview, team reference, Nb₃Sn reading guide
+
+projects/           ← Side projects outside the thin-film core (cross-group data compilations, collaborations). One folder per project; hub page named after the folder; per-item subpages. Read on demand only — NOT loaded at session startup. Large source binaries stay in raw/ (git-ignored) with provenance noted on the hub.
+  FMF Nb3Sn Wires/  ← ASC group FMF wire series: registry hub + per-wire pages
 ```
 
 ---
@@ -80,6 +88,7 @@ year: YYYY
 journal: "Journal Name"
 doi: "10.xxxx/xxxxx"
 zotero_key: "XXXXXXXX"   # 8-char Zotero item key, if available
+aliases: ["AuthorLastName Year", "short topic handle"]   # for natural-language calling; see Aliases section
 tags: [thin-film, method-name, material-name]
 source_file: "raw/papers/filename.pdf"
 date_ingested: YYYY-MM-DD
@@ -104,6 +113,7 @@ last_updated: YYYY-MM-DD
 ---
 title: "Concept Name"
 type: concept
+aliases: ["abbreviation", "alternative name"]
 tags: [relevant-tags]
 source_count: N
 last_updated: YYYY-MM-DD
@@ -114,6 +124,7 @@ last_updated: YYYY-MM-DD
 ```yaml
 ---
 title: "Synthesis Title"
+aliases: ["short call", "alternative phrasing"]
 type: synthesis
 tags: [relevant-tags]
 sources_consulted: N
@@ -225,6 +236,34 @@ Papers or topics worth investigating to resolve open questions.
 
 ---
 
+## Aliases (callability) — REQUIRED on every page
+
+Obsidian resolves `[[wikilinks]]` and autocomplete by **filename OR any alias** — not by folder. So aliases, not folder location, are what make a page easy to call, link, and search. **Every page must carry an `aliases` field** (3–6 entries). Add/extend aliases whenever a page is created or substantially edited.
+
+**What makes a good alias** (write the names a human would actually type or that another page would naturally link):
+- **Abbreviations / symbols:** `Rs`, `Hc1`, `Tc`, `GB`, `α-Ta`, `N(0)`.
+- **Short handles for long titles:** for a synthesis titled "Nb3Sn Thermodynamics and Kinetics: …" → `Nb3Sn thermo-kinetics`, `Nb3Sn equilibrium vs kinetics`.
+- **Source pages:** an `AuthorLastName Year` form (`Kelley 2020`) **plus** a topic phrase (`Kelley grain boundary DFT`). The author-year form is the primary way these get called in prose.
+- **Key concepts the page owns:** e.g. a page covering Nausite → `Nausite`, `Cu-Nb-Sn ternary`.
+- **Common synonyms / spelling variants:** `niobium-tin` for `Nb3Sn`; `atom probe` for `Atom-Probe Tomography`.
+
+Rules:
+- Don't alias to a name another page already owns (no collisions).
+- Aliases are lowercase-or-natural-case free text (unlike tags); pick what reads naturally in a `[[ ]]`.
+- Quality over quantity — a guessed alias on an unread stub is worse than none. For bulk-seeded source stubs, the minimum-viable alias is `AuthorLastName Year`; richer topic aliases are added when the stub is deep-read.
+
+---
+
+## Operating Autonomy (standing authorization)
+
+The maintainer wants the agent to **act as its own manager for organization and findability — do not ask permission for routine knowledge-base hygiene; just do it and report.** Bias toward action whenever it makes articles or data easier to find.
+
+This standing authorization covers: creating and updating wiki pages, cataloguing in `index.md`, adding aliases and cross-references, creating stubs for multi-page terms, fixing orphans, splitting/merging/renaming pages, refreshing stale synthesis pages, and applying LINT fixes — all without asking first.
+
+Still confirm before: deleting or overwriting non-stub content the agent did not create; `git` commits/pushes (especially any that would bundle pre-existing deletions); and anything that leaves the vault (publishing, sending, external services). When unsure about reversibility, flag it rather than ask about something trivial.
+
+---
+
 ## Operations
 
 ### INGEST
@@ -297,18 +336,19 @@ Append to `log.md`:
 | index.md | Questions and exploration direction |
 | log.md entries | Zotero library management |
 | Cross-references | Final judgments on contradictions |
-| Synthesis pages (when asked) | CLAUDE.md amendments |
+| Synthesis pages (when asked) | AGENTS.md amendments |
 
 ---
 
 ## Session Startup Checklist
 
-At the start of every session, Claude Code must:
-1. Read this file (CLAUDE.md).
+At the start of every session, the agent must:
+1. Read this file (AGENTS.md).
 2. Read `log.md` (last 5–10 entries) to understand recent history.
 3. Read `index.md` to understand current wiki scope.
 4. Read `context/user_profile.md` to load researcher profile and calibration context.
-5. Confirm ready: "Wiki loaded. [N] pages indexed. Last operation: [date | type]."
+5. Read `context/collaborator_role.md` to load the operating mandate (role, standards, output style).
+6. Confirm ready: "Wiki loaded. [N] pages indexed. Last operation: [date | type]."
 
 ---
 
@@ -340,5 +380,11 @@ Each stub can later be fleshed out by saying "deep-read [Zotero key]".
 `v1.0 — 2026-04-06 — Initial setup`
 `v1.1 — 2026-04-08 — Added context/ directory; session startup now reads context/user_profile.md`
 `v1.2 — 2026-04-09 — Added lab/ directory (merged from secondary vault); read on demand only`
+`v1.3 — 2026-04-20 — Renamed CLAUDE.md → AGENTS.md (cross-tool standard, read by Cursor + Claude Code); self-references and forward references in ABOUT.md / context/user_profile.md updated`
+`v1.4 — 2026-04-20 — Added career/ directory for personal (non-research) career material; agents must not lint or cross-reference into wiki/`
+`v1.5 — 2026-06-08 — Aliases now REQUIRED on every page type (added to source/concept/synthesis frontmatter; new "Aliases (callability)" section). Rationale: Obsidian resolves links by filename/alias, not folder.`
+`v1.6 — 2026-06-08 — Added "Operating Autonomy" section: agent self-manages organizational/findability hygiene without asking; still confirms destructive/outward/git actions. Per maintainer instruction.`
+`v1.7 — 2026-06-11 — Added projects/ directory for side projects outside the thin-film core (first: FMF Nb3Sn Wires compilation for the ASC group). Organization delegated to agent by maintainer this session; revert/rename freely if the shape is wrong.`
+`v1.8 — 2026-06-14 — Added context/collaborator_role.md (the "post-doc" operating mandate: role, domain-fluency expectations, paper standards, output style); session startup now reads it after user_profile.md. Source: POSTDOC.md supplied by maintainer.`
 
 To update: edit this file and append a new version line above.

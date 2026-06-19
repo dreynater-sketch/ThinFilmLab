@@ -1,5 +1,6 @@
 ---
 title: "Wilhelm Conrad Röntgen and the Early History of the Roentgen Rays"
+aliases: ["Glasser 1993"]
 type: source
 authors: ["Glasser"]
 year: 1993

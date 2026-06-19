@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Properties of High-Purity Niobium"
+aliases: ["Finnemore 1966"]
 type: source
 authors: ["Finnemore et al."]
 year: 1966

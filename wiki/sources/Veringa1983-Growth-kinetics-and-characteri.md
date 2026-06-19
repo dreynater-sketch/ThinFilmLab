@@ -1,5 +1,6 @@
 ---
 title: "Growth kinetics and characterization of superconducting properties of multifilament materials made by the ECN powder method"
+aliases: ["Veringa 1983"]
 type: source
 authors: ["Veringa et al."]
 year: 1983

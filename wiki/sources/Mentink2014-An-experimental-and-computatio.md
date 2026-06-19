@@ -1,5 +1,6 @@
 ---
 title: "An experimental and computational study of strain sensitivity in superconducting Nb3Sn"
+aliases: ["Mentink 2014"]
 type: source
 authors: ["Mentink"]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "Cu diffusion in Nb3Sn internal tin superconductors during heat treatment"
+aliases: ["Pong 2013"]
 type: source
 authors: ["Pong et al."]
 year: 2013

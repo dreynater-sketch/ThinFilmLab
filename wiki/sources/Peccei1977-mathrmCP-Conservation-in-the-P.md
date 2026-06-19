@@ -1,5 +1,6 @@
 ---
 title: "$\mathrm{CP}$ Conservation in the Presence of Pseudoparticles"
+aliases: ["Peccei 1977"]
 type: source
 authors: ["Peccei and Quinn"]
 year: 1977

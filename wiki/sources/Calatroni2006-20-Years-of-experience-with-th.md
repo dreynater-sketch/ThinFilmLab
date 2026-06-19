@@ -1,5 +1,6 @@
 ---
 title: "20 Years of experience with the Nb/Cu technology for superconducting cavities and perspectives for future developments"
+aliases: ["Calatroni 2006"]
 type: source
 authors: ["Calatroni"]
 year: 2006

@@ -1,5 +1,6 @@
 ---
 title: "Elastic and thermodynamical properties of A15 Nb3X (X = Al, Ga, In, Sn and Sb) compounds — First principles DFT study"
+aliases: ["Sundareswari 2010"]
 type: source
 authors: ["Sundareswari et al."]
 year: 2010

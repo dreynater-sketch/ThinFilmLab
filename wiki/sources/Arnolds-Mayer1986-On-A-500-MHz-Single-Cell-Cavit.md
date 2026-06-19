@@ -1,5 +1,6 @@
 ---
 title: "On A 500 MHz Single Cell Cavity with Nb3Sn Surface"
+aliases: ["Arnolds-Mayer 1986"]
 type: source
 authors: ["Arnolds-Mayer and Chiaveri"]
 year: 1986

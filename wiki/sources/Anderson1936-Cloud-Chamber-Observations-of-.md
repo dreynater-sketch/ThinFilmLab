@@ -1,5 +1,6 @@
 ---
 title: "Cloud Chamber Observations of Cosmic Rays at 4300 Meters Elevation and Near Sea-Level"
+aliases: ["Anderson 1936"]
 type: source
 authors: ["Anderson and Neddermeyer"]
 year: 1936

@@ -1,5 +1,6 @@
 ---
 title: "Experimental work on the niobium-tin constitution diagram and related studies"
+aliases: ["Charlesworth 1970"]
 type: source
 authors: ["Charlesworth et al."]
 year: 1970

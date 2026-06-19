@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamic Assessment of the Cu-Sn System"
+aliases: ["Shim 1996"]
 type: source
 authors: ["Shim et al."]
 year: 1996

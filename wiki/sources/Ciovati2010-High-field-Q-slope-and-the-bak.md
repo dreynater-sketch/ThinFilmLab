@@ -1,5 +1,6 @@
 ---
 title: "High field Q slope and the baking effect: Review of recent experimental results and new data on Nb heat treatments"
+aliases: ["Ciovati 2010"]
 type: source
 authors: ["Ciovati et al."]
 year: 2010

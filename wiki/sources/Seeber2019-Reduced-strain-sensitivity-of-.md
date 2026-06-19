@@ -1,5 +1,6 @@
 ---
 title: "Reduced strain sensitivity of the critical current of Nb <sub>3</sub> Sn multifilamentary wires"
+aliases: ["Seeber 2019"]
 type: source
 authors: ["Seeber et al."]
 year: 2019

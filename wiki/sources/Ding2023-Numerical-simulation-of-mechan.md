@@ -1,5 +1,6 @@
 ---
 title: "Numerical simulation of mechanical behaviors and intergranular fracture of polycrystalline Nb<sub>3</sub>Sn and superconducting filaments"
+aliases: ["Ding 2023"]
 type: source
 authors: ["Ding et al."]
 year: 2023

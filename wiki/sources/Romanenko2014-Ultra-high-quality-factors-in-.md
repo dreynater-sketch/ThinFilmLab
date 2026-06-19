@@ -1,5 +1,6 @@
 ---
 title: "Ultra-high quality factors in superconducting niobium cavities in ambient magnetic fields up to 190 mG"
+aliases: ["Romanenko 2014"]
 type: source
 authors: ["Romanenko et al."]
 year: 2014

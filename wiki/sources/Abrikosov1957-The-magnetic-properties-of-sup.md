@@ -1,5 +1,6 @@
 ---
 title: "The magnetic properties of superconducting alloys"
+aliases: ["Abrikosov 1957"]
 type: source
 authors: ["Abrikosov"]
 year: 1957

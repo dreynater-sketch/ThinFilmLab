@@ -5,3 +5,5 @@ Level: Not Started
 Notes: "Star pattern bolt tightening. Rough → turbo → ion pump. Target: 3×10⁻⁹ Torr."
 tags: [sop, deposition]
 ---
+
+See also: [[Troubleshooting — base pressure & ion pump]] if ultimate pressure stalls above ~10⁻⁷ Torr.

@@ -1,5 +1,6 @@
 ---
 title: "A structure zone diagram including plasma-based deposition and ion etching"
+aliases: ["Anders 2010"]
 type: source
 authors: ["Anders"]
 year: 2010

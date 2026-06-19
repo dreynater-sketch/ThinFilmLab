@@ -1,5 +1,6 @@
 ---
 title: "Method for determining the irreversible strain limit of Nb<sub>3</sub>Sn wires"
+aliases: ["Goodrich 2011"]
 type: source
 authors: ["Goodrich et al."]
 year: 2011

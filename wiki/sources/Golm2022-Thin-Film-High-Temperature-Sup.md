@@ -1,5 +1,6 @@
 ---
 title: "Thin Film (High Temperature) Superconducting Radiofrequency Cavities for the Search of Axion Dark Matter"
+aliases: ["Golm 2022", "RADES thin-film cavity", "Golm axion cavity", "Ta-alpha anneal Golm"]
 type: source
 authors: ["Golm, J.", "Arguedas Cuendis, S.", "Calatroni, S.", "Cogollos, C.", "Döbrich, B.", "Gallego, J.D.", "García Barceló, J.M.", "Granados, X.", "Gutierrez, J.", "Irastorza, I.G.", "Koettig, T.", "Lamas, N.", "Liberadzka-Porret, J.", "Malbrunot, C.", "Millar, W.L.", "Navarro, P.", "Pereira Carlos, C.", "Puig, T.", "Rosaz, G.J.", "Siodlaczek, M.", "Telles, G.", "Wuensch, W."]
 year: 2022
@@ -44,7 +45,7 @@ RADES (Relic Axion Detector Exploratory Setup) study testing two superconductor 
 
 **Ta diffusion barrier (HiPIMS + Positive Pulse):**
 - Parameters: 40 min, 1×10⁻³ mbar, 350 W, 750°C; main pulse 50 µs / 1 kHz with 200 µs positive pulse
-- Thickness: ~0.9 µm; then annealed at 750°C, 1×10⁻³ mbar Kr for 45 min to form Ta-α phase
+- Thickness: ~0.9 µm; then annealed at 750°C, 1×10⁻³ mbar Kr for 45 min to form the [[Ta alpha phase|Ta-α phase]]
 
 **Nb3Sn (DCMS):**
 - Parameters: 75 min, 7×10⁻⁴ mbar, 350 W, 750°C

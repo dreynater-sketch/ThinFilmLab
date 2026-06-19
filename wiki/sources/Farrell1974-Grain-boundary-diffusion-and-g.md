@@ -1,5 +1,6 @@
 ---
 title: "Grain boundary diffusion and growth of intermetallic layers: Nb3Sn"
+aliases: ["Farrell 1974"]
 type: source
 authors: ["Farrell et al."]
 year: 1974

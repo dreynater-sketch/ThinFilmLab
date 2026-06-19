@@ -1,5 +1,6 @@
 ---
 title: "The Effect of Hydrostatic Pressure on the Superconducting and Structural Properties of Nb $_3$Sn: Ab-initio Modeling and SR-XRD Investigation"
+aliases: ["Loria 2017"]
 type: source
 authors: ["Loria et al."]
 year: 2017

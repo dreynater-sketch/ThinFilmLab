@@ -1,5 +1,6 @@
 ---
 title: "The direct observation of individual flux lines in type II superconductors"
+aliases: ["Essmann 1967"]
 type: source
 authors: ["Essmann and Träuble"]
 year: 1967

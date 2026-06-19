@@ -1,5 +1,6 @@
 ---
 title: "Weak-Interaction Singlet and Strong $\mathrm{CP}$ Invariance"
+aliases: ["Kim 1979"]
 type: source
 authors: ["Kim"]
 year: 1979

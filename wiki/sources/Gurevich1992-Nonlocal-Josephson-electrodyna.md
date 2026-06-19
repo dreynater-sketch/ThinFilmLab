@@ -1,5 +1,6 @@
 ---
 title: "Nonlocal Josephson electrodynamics and pinning in superconductors"
+aliases: ["Gurevich 1992"]
 type: source
 authors: ["Gurevich"]
 year: 1992

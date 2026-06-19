@@ -1,5 +1,6 @@
 ---
 title: "MICROSCOPIC DERIVATION OF THE GINZBURG-LANDAU EQUATIONS IN THE THEORY OF SUPERCONDUCTIVITY"
+aliases: ["Gor 1959"]
 type: source
 authors: ["Gor'Kov"]
 year: 1959

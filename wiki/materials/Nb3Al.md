@@ -1,5 +1,9 @@
 ---
-tags: [lab, materials]
+title: "Nb3Al"
+type: entity
+category: material
+aliases: ["niobium-aluminum", "niobium aluminide", "A15 Nb3Al", "Nb₃Al"]
+tags: [lab, materials, nb3al, a15, superconductor]
 ---
 50nm layer thickness Nb-Al alternating
 1 micron total

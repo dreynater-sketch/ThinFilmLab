@@ -1,5 +1,6 @@
 ---
 title: "Minutes of the 1955 Annual Meeting Held at New York City, January 27-29, 1955"
+aliases: ["Anonymous 1955"]
 type: source
 authors: ["Anonymous"]
 year: 1955

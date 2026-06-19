@@ -1,5 +1,6 @@
 ---
 title: "High-strain-rate solute drag creep in a Cu-22%Sn alloy (Cu17Sn3) with near peritectic composition"
+aliases: ["Yang 2020"]
 type: source
 authors: ["Yang et al."]
 year: 2020

@@ -1,5 +1,6 @@
 ---
 title: "Superconductivity induced by field-driven proton injection"
+aliases: ["Hosono 2018"]
 type: source
 authors: ["Hosono"]
 year: 2018

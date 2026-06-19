@@ -1,5 +1,6 @@
 ---
 title: "Bound Electron Pairs in a Degenerate Fermi Gas"
+aliases: ["Cooper 1956"]
 type: source
 authors: ["Cooper"]
 year: 1956

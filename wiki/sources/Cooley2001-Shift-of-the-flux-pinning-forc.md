@@ -1,5 +1,6 @@
 ---
 title: "Shift of the flux-pinning force curve in Nb/sub 3/Sn thin films with very fine grain size"
+aliases: ["Cooley 2001"]
 type: source
 authors: ["Cooley and Lee"]
 year: 2001

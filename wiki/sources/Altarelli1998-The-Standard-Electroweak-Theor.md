@@ -1,5 +1,6 @@
 ---
 title: "The Standard Electroweak Theory and Beyond"
+aliases: ["Altarelli 1998"]
 type: source
 authors: ["Altarelli"]
 year: 1998

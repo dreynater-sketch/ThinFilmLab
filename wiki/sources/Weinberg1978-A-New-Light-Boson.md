@@ -1,5 +1,6 @@
 ---
 title: "A New Light Boson?"
+aliases: ["Weinberg 1978"]
 type: source
 authors: ["Weinberg"]
 year: 1978

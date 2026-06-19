@@ -1,5 +1,6 @@
 ---
 title: "Florida electro-mechanical cable model of Nb <sub>3</sub> Sn CICCs for high-field magnet design"
+aliases: ["Zhai 2008"]
 type: source
 authors: ["Zhai and Bird"]
 year: 2008

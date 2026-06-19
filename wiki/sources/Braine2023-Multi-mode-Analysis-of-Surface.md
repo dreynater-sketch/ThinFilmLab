@@ -1,5 +1,6 @@
 ---
 title: "Multi-mode Analysis of Surface Losses in a Superconducting Microwave Resonator in High Magnetic Fields"
+aliases: ["Braine 2023"]
 type: source
 authors: ["Braine et al."]
 year: 2023

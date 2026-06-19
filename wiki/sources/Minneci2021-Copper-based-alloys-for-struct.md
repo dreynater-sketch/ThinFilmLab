@@ -1,5 +1,6 @@
 ---
 title: "Copper-based alloys for structural high-heat-flux applications: a review of development, properties, and performance of Cu-rich Cu–Cr–Nb alloys"
+aliases: ["Minneci 2021"]
 type: source
 authors: ["Minneci et al."]
 year: 2021

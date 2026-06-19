@@ -1,5 +1,6 @@
 ---
 title: "Grain boundary segregation engineering in metallic alloys: A pathway to the design of interfaces"
+aliases: ["Raabe 2014"]
 type: source
 authors: ["Raabe et al."]
 year: 2014

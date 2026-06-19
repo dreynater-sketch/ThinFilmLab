@@ -1,5 +1,6 @@
 ---
 title: "RF Superconductivity for Accelerators"
+aliases: ["Padamsee 1998"]
 type: source
 authors: ["Padamsee et al."]
 year: 1998

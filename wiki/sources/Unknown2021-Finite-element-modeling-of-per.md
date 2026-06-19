@@ -1,5 +1,6 @@
 ---
 title: "Finite element modeling of periodic polycrystalline aggregates with intergranular cracks | Elsevier Enhanced Reader"
+aliases: ["finite element modeling Nb3Sn 2021", "FEM Nb3Sn performance"]
 type: source
 authors: ["Unknown"]
 year: 2021

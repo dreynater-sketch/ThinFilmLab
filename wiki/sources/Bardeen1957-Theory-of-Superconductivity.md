@@ -1,5 +1,6 @@
 ---
 title: "Theory of Superconductivity"
+aliases: ["Bardeen 1957"]
 type: source
 authors: ["Bardeen et al."]
 year: 1957

@@ -1,5 +1,6 @@
 ---
 title: "A New Signal Model for Axion Cavity Searches from N-body Simulations"
+aliases: ["Lentz 2017"]
 type: source
 authors: ["Lentz et al."]
 year: 2017

@@ -1,5 +1,6 @@
 ---
 title: "Novel methods for the measurement of the critical current of superconducting wires"
+aliases: ["Godeke 2012"]
 type: source
 authors: ["Godeke et al."]
 year: 2012

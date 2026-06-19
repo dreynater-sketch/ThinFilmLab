@@ -1,5 +1,6 @@
 ---
 title: "The feasibility of a superconducting proton linear accelerator"
+aliases: ["Banford 1961"]
 type: source
 authors: ["Banford and Stafford"]
 year: 1961

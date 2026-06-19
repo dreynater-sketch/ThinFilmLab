@@ -1,5 +1,6 @@
 ---
 title: "Critical current vs. Strain for LTS wires up to 21 T"
+aliases: ["Uglietti 2005"]
 type: source
 authors: ["Uglietti et al."]
 year: 2005

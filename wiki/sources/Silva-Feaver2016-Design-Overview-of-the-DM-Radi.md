@@ -1,5 +1,6 @@
 ---
 title: "Design Overview of the DM Radio Pathfinder Experiment"
+aliases: ["Silva-Feaver 2016"]
 type: source
 authors: ["Silva-Feaver et al."]
 year: 2016

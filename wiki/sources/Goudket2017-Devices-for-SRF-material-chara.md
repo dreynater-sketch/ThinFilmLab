@@ -1,5 +1,6 @@
 ---
 title: "Devices for SRF material characterization"
+aliases: ["Goudket 2017"]
 type: source
 authors: ["Goudket et al."]
 year: 2017

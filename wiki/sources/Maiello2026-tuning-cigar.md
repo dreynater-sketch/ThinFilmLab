@@ -1,5 +1,6 @@
 ---
 title: "Tunable Nb3Sn cigar cavity for axion dark matter search"
+aliases: ["Maiello 2026"]
 type: source
 authors: ["Maiello, Mattia", "Posen, Sam", "Romanenko, Alexander", "Grassellino, Anna", "Bice, Oleksandr", "Frolov, Dmitri", "Sauls, James A.", "Martinello, Martina"]
 year: 2026

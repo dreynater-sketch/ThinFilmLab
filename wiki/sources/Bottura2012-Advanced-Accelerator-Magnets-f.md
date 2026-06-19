@@ -1,5 +1,6 @@
 ---
 title: "Advanced Accelerator Magnets for Upgrading the LHC"
+aliases: ["Bottura 2012"]
 type: source
 authors: ["Bottura et al."]
 year: 2012

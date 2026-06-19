@@ -1,5 +1,6 @@
 ---
 title: "Metallographic investigation of fracture behavior in ITER-style Nb<sub>3</sub>Sn superconducting strands"
+aliases: ["Jewell 2009"]
 type: source
 authors: ["Jewell et al."]
 year: 2009

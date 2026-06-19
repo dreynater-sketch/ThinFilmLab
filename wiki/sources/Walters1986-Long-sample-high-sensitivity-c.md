@@ -1,5 +1,6 @@
 ---
 title: "Long sample high sensitivity critical current measurements under strain"
+aliases: ["Walters 1986"]
 type: source
 authors: ["Walters et al."]
 year: 1986

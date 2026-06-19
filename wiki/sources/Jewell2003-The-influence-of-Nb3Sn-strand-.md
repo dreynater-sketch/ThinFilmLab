@@ -1,5 +1,6 @@
 ---
 title: "The influence of Nb3Sn strand geometry on filament breakage under bend strain as revealed by metallography"
+aliases: ["Jewell 2003"]
 type: source
 authors: ["Jewell et al."]
 year: 2003

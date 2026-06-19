@@ -1,5 +1,6 @@
 ---
 title: "Experimental study on strain sensitivity of Internal-Tin Nb<sub>3</sub>Sn superconducting strand based on non-destructive technology"
+aliases: ["Shen 2021"]
 type: source
 authors: ["Shen et al."]
 year: 2021

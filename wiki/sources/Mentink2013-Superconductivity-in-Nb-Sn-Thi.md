@@ -1,5 +1,6 @@
 ---
 title: "Superconductivity in Nb-Sn Thin Films of Stoichiometric and Off-Stoichiometric Compositions"
+aliases: ["Mentink 2013"]
 type: source
 authors: ["Mentink et al."]
 year: 2013

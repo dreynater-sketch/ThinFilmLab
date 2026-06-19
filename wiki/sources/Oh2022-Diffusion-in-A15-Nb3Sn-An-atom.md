@@ -1,5 +1,6 @@
 ---
 title: "Diffusion in A15 Nb3Sn: An atomistic study"
+aliases: ["Oh 2022", "A15 Nb3Sn diffusion", "atomistic diffusion Nb3Sn"]
 type: source
 authors: ["Oh, S.", "Choi, W.", "Kim, D.", "Kim, H.", "Lim, J.", "Jang, J."]
 year: 2022

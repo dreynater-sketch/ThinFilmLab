@@ -1,5 +1,6 @@
 ---
 title: "Origin of the enhanced Nb3Sn performance by combined Hf and Ta doping"
+aliases: ["Tarantini 2021"]
 type: source
 authors: ["Tarantini et al."]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Die Rotverschiebung von extragalaktischen Nebeln"
+aliases: ["Zwicky 1933"]
 type: source
 authors: ["Zwicky"]
 year: 1933

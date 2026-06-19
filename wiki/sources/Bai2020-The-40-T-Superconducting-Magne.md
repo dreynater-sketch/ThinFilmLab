@@ -1,5 +1,6 @@
 ---
 title: "The 40 T Superconducting Magnet Project at the National High Magnetic Field Laboratory"
+aliases: ["Bai 2020"]
 type: source
 authors: ["Bai et al."]
 year: 2020

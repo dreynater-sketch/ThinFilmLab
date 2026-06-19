@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn superconducting radiofrequency cavities: fabrication, results, properties, and prospects"
+aliases: ["Posen 2017", "Posen Hall review", "Nb3Sn SRF review 2017"]
 type: source
 authors: ["Posen, S.", "Hall, D.L."]
 year: 2017

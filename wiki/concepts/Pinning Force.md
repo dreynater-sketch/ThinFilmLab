@@ -1,6 +1,7 @@
 ---
 title: "Pinning Force"
 type: concept
+aliases: ["flux pinning force", "Fp", "pinning force density", "vortex pinning"]
 tags: [vortex-pinning, nb3sn, jc, flux-flow, superconductivity, bean-model]
 source_count: 4
 last_updated: 2026-04-09

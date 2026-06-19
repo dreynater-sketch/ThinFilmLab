@@ -1,5 +1,6 @@
 ---
 title: "The cyclotron as seen by …"
+aliases: ["Judd 1967"]
 type: source
 authors: ["Judd and MacKenzie"]
 year: 1967

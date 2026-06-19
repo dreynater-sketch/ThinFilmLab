@@ -1,5 +1,6 @@
 ---
 title: "Gradient optimization for SC CW accelerators"
+aliases: ["Schneider 2003"]
 type: source
 authors: ["Schneider et al."]
 year: 2003

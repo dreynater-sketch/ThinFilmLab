@@ -1,5 +1,6 @@
 ---
 title: "Kondo effect and superconductivity in niobium with iron impurities"
+aliases: ["Zeng 2021"]
 type: source
 authors: ["Zeng et al."]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Signatures of Enhanced Superconducting Properties in Niobium Cavities"
+aliases: ["Bafia 2025"]
 type: source
 authors: ["Bafia et al."]
 year: 2025

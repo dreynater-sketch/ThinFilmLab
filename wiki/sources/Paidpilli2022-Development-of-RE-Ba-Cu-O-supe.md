@@ -1,5 +1,6 @@
 ---
 title: "Development of RE-Ba-Cu-O superconductors in the U.S. for ultra-high field magnets"
+aliases: ["Paidpilli 2022"]
 type: source
 authors: ["Paidpilli and Selvamanickam"]
 year: 2022

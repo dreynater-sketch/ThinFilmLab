@@ -1,5 +1,6 @@
 ---
 title: "High-Quality-Factor Superconducting Cavities in Tesla-Scale Magnetic Fields for Dark-Matter Searches"
+aliases: ["Posen 2023", "Posen cigar cavity", "high-field Nb3Sn dark matter cavity", "Tesla-scale SRF cavity"]
 type: source
 authors: ["Posen, S.", "Checchin, M.", "Melnychuk, O.S.", "Ring, T.", "Gonin, I.", "Khabiboulline, T."]
 year: 2023

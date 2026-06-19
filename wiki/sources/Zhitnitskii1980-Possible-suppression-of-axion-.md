@@ -1,5 +1,6 @@
 ---
 title: "Possible suppression of axion-hadron interactions"
+aliases: ["Zhitnitskii 1980"]
 type: source
 authors: ["Zhitnitskii"]
 year: 1980

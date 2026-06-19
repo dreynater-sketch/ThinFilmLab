@@ -1,5 +1,6 @@
 ---
 title: "Lu et al. (2025) - Physics of Scripta"
+aliases: ["Lu 2025 physics of screening", "Lu screening physics"]
 type: source
 authors: ["Lu"]
 year: 2025

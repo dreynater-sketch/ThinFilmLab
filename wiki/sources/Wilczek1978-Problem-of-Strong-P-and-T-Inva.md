@@ -1,5 +1,6 @@
 ---
 title: "Problem of Strong $P$ and $T$ Invariance in the Presence of Instantons"
+aliases: ["Wilczek 1978"]
 type: source
 authors: ["Wilczek"]
 year: 1978

@@ -1,5 +1,6 @@
 ---
 title: "Procedures for evaluating filament cracking during fatigue testing of Nb3Sn strand"
+aliases: ["Sheth 2012"]
 type: source
 authors: ["Sheth et al."]
 year: 2012

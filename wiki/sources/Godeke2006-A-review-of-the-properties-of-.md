@@ -1,5 +1,6 @@
 ---
 title: "A review of the properties of Nb3Sn and their variation with A15 composition, morphology and strain state"
+aliases: ["Godeke 2006 review", "Nb3Sn properties review", "Godeke A15 review", "Nb3Sn variation with composition"]
 type: source
 authors: ["Godeke, A."]
 year: 2006

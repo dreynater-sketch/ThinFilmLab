@@ -1,5 +1,6 @@
 ---
 title: "Nb<sub>3</sub>Sn Superconducting RF Cavities: R&D Progress at Fermilab and Opportunities"
+aliases: ["Fermilab 2020"]
 type: source
 authors: ["Fermilab"]
 year: 2020

@@ -1,5 +1,6 @@
 ---
 title: "Electromechanical Characterization of Advanced Internal-Tin Nb3Sn Strands for the DTT Magnet System"
+aliases: ["De 2023"]
 type: source
 authors: ["De Marzi et al."]
 year: 2023

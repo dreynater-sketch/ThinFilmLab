@@ -1,5 +1,6 @@
 ---
 title: "ADMX Extended Frequency Range (EFR): Searching for 2-4GHz axions with 18 cavities"
+aliases: ["Knirck 2023"]
 type: source
 authors: ["Knirck and ADMX Collaboration Team"]
 year: 2023

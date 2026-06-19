@@ -1,5 +1,6 @@
 ---
 title: "The radial velocity of magnetic field penetration in type II superconductors"
+aliases: ["Flippen 1965"]
 type: source
 authors: ["Flippen"]
 year: 1965

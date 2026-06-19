@@ -1,5 +1,6 @@
 ---
 title: "Experimental Tests of the 'Invisible' Axion"
+aliases: ["Sikivie 1983"]
 type: source
 authors: ["Sikivie"]
 year: 1983

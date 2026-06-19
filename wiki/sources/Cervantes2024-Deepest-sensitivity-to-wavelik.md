@@ -1,5 +1,6 @@
 ---
 title: "Deepest sensitivity to wavelike dark photon dark matter with superconducting radio frequency cavities"
+aliases: ["Cervantes 2024"]
 type: source
 authors: ["Cervantes et al."]
 year: 2024

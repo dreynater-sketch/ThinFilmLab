@@ -1,5 +1,6 @@
 ---
 title: "Search for dark matter at the LHC using missing transverse energy"
+aliases: ["Malik 2012"]
 type: source
 authors: ["Malik"]
 year: 2012

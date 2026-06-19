@@ -1,5 +1,6 @@
 ---
 title: "Effects of the initial axial strain state on the response to transverse stress of high-performance RRP Nb3Sn wires"
+aliases: ["Ferradas 2021"]
 type: source
 authors: ["Ferradas Troitino et al."]
 year: 2021

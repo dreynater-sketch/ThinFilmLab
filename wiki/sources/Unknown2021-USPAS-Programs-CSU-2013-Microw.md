@@ -1,5 +1,6 @@
 ---
 title: "USPAS | Programs | CSU (2013) | Microwave Measurement with Lab"
+aliases: ["USPAS CSU 2013 microwave"]
 type: source
 authors: ["Unknown"]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Anisotropic flux pinning in a network of planar defects"
+aliases: ["Gurevich 1994"]
 type: source
 authors: ["Gurevich and Cooley"]
 year: 1994

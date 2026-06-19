@@ -1,5 +1,6 @@
 ---
 title: "Development and Understanding of Nb3Sn films for radiofrequency applications through a sample-host 9-cell cavity"
+aliases: ["Spina 2020", "Spina 2021", "9-cell sample-host cavity", "Spina Nb3Sn flux"]
 type: source
 authors: ["Spina, T.", "Tennis, B.M.", "Lee, J.", "Seidman, D.N.", "Posen, S."]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Impact of Superconductors’ Properties on the Measurement Sensitivity of Resonant-Based Axion Detectors"
+aliases: ["Alimenti 2021"]
 type: source
 authors: ["Alimenti et al."]
 year: 2021

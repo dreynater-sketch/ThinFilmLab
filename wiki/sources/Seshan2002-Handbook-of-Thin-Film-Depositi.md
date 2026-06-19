@@ -1,5 +1,6 @@
 ---
 title: "Handbook of Thin Film Deposition Techniques Principles, Methods, Equipment and Applications, Second Editon"
+aliases: ["Seshan 2002"]
 type: source
 authors: ["Seshan"]
 year: 2002

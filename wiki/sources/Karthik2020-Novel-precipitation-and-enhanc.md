@@ -1,5 +1,6 @@
 ---
 title: "Novel precipitation and enhanced tensile properties in selective laser melted Cu-Sn alloy"
+aliases: ["Karthik 2020"]
 type: source
 authors: ["Karthik et al."]
 year: 2020

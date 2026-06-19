@@ -1,5 +1,6 @@
 ---
 title: "A comparative study of compositions and microstructures of two types internal-tin process Nb3Sn wires"
+aliases: ["Zhang 2020"]
 type: source
 authors: ["Zhang et al."]
 year: 2020

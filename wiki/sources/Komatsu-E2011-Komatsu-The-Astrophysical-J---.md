@@ -1,5 +1,6 @@
 ---
 title: "Komatsu: The Astrophysical J - Google Scholar"
+aliases: ["Komatsu 2011 ApJ", "Komatsu astrophysical journal"]
 type: source
 authors: ["Komatsu, E."]
 year: 2011

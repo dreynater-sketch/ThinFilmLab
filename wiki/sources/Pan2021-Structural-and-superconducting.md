@@ -1,5 +1,6 @@
 ---
 title: "Structural and superconducting properties of Nb <sub>3</sub> Sn film for superconducting radio-frequency cavities synthesized via bronze route"
+aliases: ["Pan 2021"]
 type: source
 authors: ["Pan et al."]
 year: 2021

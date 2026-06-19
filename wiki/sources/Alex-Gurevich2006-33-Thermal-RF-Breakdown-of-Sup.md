@@ -1,5 +1,6 @@
 ---
 title: "3.3 Thermal RF Breakdown of Superconducting Cavities."
+aliases: ["Alex 2006"]
 type: source
 authors: ["Alex Gurevich"]
 year: 2006

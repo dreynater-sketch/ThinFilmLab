@@ -1,5 +1,6 @@
 ---
 title: "Electro-mechanical properties of PIT Nb <sub>3</sub> Sn wires under transverse stress: experimental results and FEM analysis"
+aliases: ["Calzolaio 2015"]
 type: source
 authors: ["Calzolaio et al."]
 year: 2015

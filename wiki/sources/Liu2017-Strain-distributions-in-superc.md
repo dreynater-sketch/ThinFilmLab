@@ -1,5 +1,6 @@
 ---
 title: "Strain distributions in superconducting strands with twisted filaments"
+aliases: ["Liu 2017"]
 type: source
 authors: ["Liu et al."]
 year: 2017

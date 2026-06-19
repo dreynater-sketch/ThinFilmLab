@@ -1,5 +1,6 @@
 ---
 title: "Classical Electrodynamics (Third Edition)"
+aliases: ["John 1999"]
 type: source
 authors: ["John David Jackson"]
 year: 1999

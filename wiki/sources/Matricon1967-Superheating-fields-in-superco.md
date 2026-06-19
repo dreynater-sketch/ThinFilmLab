@@ -1,5 +1,6 @@
 ---
 title: "Superheating fields in superconductors"
+aliases: ["Matricon 1967"]
 type: source
 authors: ["Matricon and Saint-James"]
 year: 1967

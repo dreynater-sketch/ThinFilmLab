@@ -1,5 +1,6 @@
 ---
 title: "Annealing study on the properties of Cu-based Nb3Sn films under argon pressures for SRF applications"
+aliases: ["Xiao 2021"]
 type: source
 authors: ["Xiao et al."]
 year: 2021

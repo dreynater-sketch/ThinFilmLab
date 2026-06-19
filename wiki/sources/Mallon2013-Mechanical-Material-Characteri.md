@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Material Characterization and Finite Element Modeling of Unreacted Nb<sub>3</sub>Sn PIT Wires Under Transverse Pressure"
+aliases: ["Mallon 2013"]
 type: source
 authors: ["Mallon et al."]
 year: 2013

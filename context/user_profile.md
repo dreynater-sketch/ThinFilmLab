@@ -1,12 +1,12 @@
 # User Profile — Claude Code Calibration Context
 
-> This file is not research data. It provides Claude Code with calibration context about the researcher so responses can be appropriately tailored. Read this at session startup (see CLAUDE.md checklist).
+> This file is not research data. It provides the agent (Cursor, Claude Code, etc.) with calibration context about the researcher so responses can be appropriately tailored. Read this at session startup (see AGENTS.md checklist).
 
 ---
 
 ## Identity
 
-**Andre Robert Juliao** — PhD Experimental Condensed Matter Physics, Florida State University, defended November 7, 2025. Now operating as lab leader at the Applied Superconductivity Center (ASC) / National High Magnetic Field Laboratory (NHMFL), Florida State University.
+**Andre Robert Juliao** — PhD Experimental Condensed Matter Physics, Florida State University. Defended November 7, 2025; thesis published 2026 (cite as "Juliao 2026" in references). Now operating as lab leader at the Applied Superconductivity Center (ASC) / National High Magnetic Field Laboratory (NHMFL), Florida State University.
 
 ---
 
@@ -25,7 +25,7 @@ Primary: **Nb3Sn thin films on Cu substrates** via the Cu-Sn (hot bronze) route 
 | Paper | Status | Key Result |
 |-------|--------|-----------|
 | Withanage, Juliao, Cooley (SST 2021) | Published | Hot bronze route; Zone-2 columnar grains; −1.24% CTE strain |
-| Juliao 2025 PhD thesis (FSU) | Published | Three recipes on Cu; Q=77,000 at 50 mK; hexagonal cavity; Tc=16–17.7 K |
+| Juliao PhD thesis (FSU; defended 2025, published 2026) | Published | Three recipes on Cu; Q=77,000 at 50 mK; hexagonal cavity; Tc=15.95–17.67 K |
 | Juliao et al. (SST, submitted) | Under review | Seam coating breakthrough — MOI-verified continuous supercurrent across diffusion-bonded bronze seam |
 
 ---

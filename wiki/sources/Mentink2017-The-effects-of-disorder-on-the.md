@@ -1,5 +1,6 @@
 ---
 title: "The effects of disorder on the normal state and superconducting properties of Nb<sub>3</sub> Sn"
+aliases: ["Mentink 2017"]
 type: source
 authors: ["Mentink et al."]
 year: 2017

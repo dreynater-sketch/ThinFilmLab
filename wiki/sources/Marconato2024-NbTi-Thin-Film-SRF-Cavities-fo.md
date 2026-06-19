@@ -1,5 +1,6 @@
 ---
 title: "NbTi Thin-Film SRF Cavities for Dark Matter Search"
+aliases: ["Marconato 2024", "NbTi thin-film cavity", "NbTi dark matter cavity"]
 type: source
 authors: ["Marconato, G.", "Pira, C.", "Alesini, D.", "D'Agostino, D.", "Azzolini, O.", "Braggio, C.", "Caforio, R.", "Chyhyrynets, E.", "D'Elia, A.", "Fracasso, M.", "Gambardella, U.", "Garcia, V.", "Gatti, C.", "Ghigo, G.", "Di Gioacchino, D.", "Gozzelino, L.", "Keppel, G.", "Ligi, C.", "Maccarrone, G.", "Pompeo, N.", "Rettaroli, A.", "Salmaso, A.", "Silva, E.", "Stivanello, F.", "Tocci, S.", "Torsello, D."]
 year: 2024

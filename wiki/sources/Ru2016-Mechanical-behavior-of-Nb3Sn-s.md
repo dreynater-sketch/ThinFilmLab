@@ -1,5 +1,6 @@
 ---
 title: "Mechanical behavior of Nb3Sn strands under transverse electromagnetic loads"
+aliases: ["Ru 2016"]
 type: source
 authors: ["Ru et al."]
 year: 2016

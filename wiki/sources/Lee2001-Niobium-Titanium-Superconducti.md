@@ -1,5 +1,6 @@
 ---
 title: "Niobium-Titanium Superconducting Wires: Nanostructures by Extrusion and Wire Drawing"
+aliases: ["Lee 2001"]
 type: source
 authors: ["Lee and Larbalestier"]
 year: 2001

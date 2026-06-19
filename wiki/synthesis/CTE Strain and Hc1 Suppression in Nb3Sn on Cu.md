@@ -1,5 +1,6 @@
 ---
 title: "CTE Strain and Hc1 Suppression in Nb3Sn on Cu"
+aliases: ["CTE strain Hc1", "Hc1 suppression Nb3Sn on Cu", "thermal expansion strain Nb3Sn", "Hc1 suppression copper substrate"]
 type: synthesis
 tags: [nb3sn, cte-mismatch, strain, hc1, hc2, copper-substrate, axion, gap1, mechanical, godeke, withanage]
 sources_consulted: 5

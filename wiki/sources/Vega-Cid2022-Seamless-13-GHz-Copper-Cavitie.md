@@ -1,5 +1,6 @@
 ---
 title: "Seamless 1.3 GHz Copper Cavities for Nb Coatings: Cold Test Results of Two Different Approaches"
+aliases: ["Vega 2022"]
 type: source
 authors: ["Vega Cid et al."]
 year: 2022

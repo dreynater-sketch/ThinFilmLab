@@ -1,5 +1,6 @@
 ---
 title: "Nb3Sn High Field Magnets for the High Luminosity LHC Upgrade Project"
+aliases: ["Ambrosio 2015", "Nb3Sn HL-LHC magnets", "high-field Nb3Sn magnets"]
 type: source
 authors: ["Ambrosio, G."]
 year: 2015

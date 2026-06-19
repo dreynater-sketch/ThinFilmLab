@@ -1,5 +1,6 @@
 ---
 title: "Advances in Nb <sub>3</sub> Sn superconducting radiofrequency cavities towards first practical accelerator applications"
+aliases: ["Posen 2021"]
 type: source
 authors: ["Posen et al."]
 year: 2021

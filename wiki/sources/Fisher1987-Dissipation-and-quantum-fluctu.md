@@ -1,5 +1,6 @@
 ---
 title: "Dissipation and quantum fluctuations in granular superconductivity"
+aliases: ["Fisher 1987"]
 type: source
 authors: ["Fisher"]
 year: 1987

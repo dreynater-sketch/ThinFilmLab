@@ -1,5 +1,6 @@
 ---
 title: "Extended rotation curves of spiral galaxies: dark haloes and modified dynamics"
+aliases: ["Begeman 1991"]
 type: source
 authors: ["Begeman et al."]
 year: 1991

@@ -1,5 +1,6 @@
 ---
 title: "Metastable reversal of the martensitic phase in Nb3Sn induced by energetic-electron irradiation"
+aliases: ["Snead 1997"]
 type: source
 authors: ["Snead et al."]
 year: 1997

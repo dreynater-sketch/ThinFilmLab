@@ -1,5 +1,6 @@
 ---
 title: "On the Electrodynmaics of Moving Bodies"
+aliases: ["Albert 1905"]
 type: source
 authors: ["Albert Einstein"]
 year: 1905

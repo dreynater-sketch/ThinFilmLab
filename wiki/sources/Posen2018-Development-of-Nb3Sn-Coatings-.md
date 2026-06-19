@@ -1,5 +1,6 @@
 ---
 title: "Development of Nb3Sn Coatings for Superconducting RF Cavities at Fermilab"
+aliases: ["Posen 2018"]
 type: source
 authors: ["Posen et al."]
 year: 2018

@@ -1,5 +1,6 @@
 ---
 title: "Transport Phenomena in Helium II"
+aliases: ["Tisza 1938"]
 type: source
 authors: ["Tisza"]
 year: 1938

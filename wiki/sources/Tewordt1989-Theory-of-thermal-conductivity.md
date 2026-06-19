@@ -1,5 +1,6 @@
 ---
 title: "Theory of thermal conductivity of the lattice for high-<i>Tc</i> superconductors"
+aliases: ["Tewordt 1989"]
 type: source
 authors: ["Tewordt and Wölkhausen"]
 year: 1989

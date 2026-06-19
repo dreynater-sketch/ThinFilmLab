@@ -1,5 +1,6 @@
 ---
 title: "The effect of axial and transverse loading on the transport properties of ITER Nb<sub>3</sub>Sn strands"
+aliases: ["Nijhuis 2013"]
 type: source
 authors: ["Nijhuis et al."]
 year: 2013

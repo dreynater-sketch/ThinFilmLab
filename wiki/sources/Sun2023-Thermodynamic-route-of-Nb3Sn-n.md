@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamic route of Nb3Sn nucleation: Role of oxygen"
+aliases: ["Sun 2023", "Nb3Sn nucleation oxygen", "thermodynamic Nb3Sn nucleation"]
 type: source
 authors: ["Sun, Z.", "Dare, D.K.", "Baraissov, Z.", "Muller, D.A.", "Thompson, M.O.", "Liepe, M.U."]
 year: 2023

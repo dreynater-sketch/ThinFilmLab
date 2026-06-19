@@ -1,5 +1,6 @@
 ---
 title: "Principles of Charged Particle Acceleration"
+aliases: ["Humphries 2013"]
 type: source
 authors: ["Humphries"]
 year: 2013

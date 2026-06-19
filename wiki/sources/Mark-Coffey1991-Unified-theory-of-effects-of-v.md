@@ -1,5 +1,6 @@
 ---
 title: "Unified theory of effects of vortex pinning and flux creep upon the rf surface impedance of type-II superconductors | Phys. Rev. Lett."
+aliases: ["Mark 1991"]
 type: source
 authors: ["Mark Coffey and John Clem"]
 year: 1991

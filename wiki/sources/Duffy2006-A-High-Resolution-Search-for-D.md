@@ -1,5 +1,6 @@
 ---
 title: "A High Resolution Search for Dark-Matter Axions"
+aliases: ["Duffy 2006"]
 type: source
 authors: ["Duffy et al."]
 year: 2006

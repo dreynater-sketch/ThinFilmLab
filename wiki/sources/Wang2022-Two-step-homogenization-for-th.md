@@ -1,5 +1,6 @@
 ---
 title: "Two-step homogenization for the effective thermal conductivities of twisted multi-filamentary superconducting strand"
+aliases: ["Wang 2022 two-step homogenization", "two-step homogenization Nb3Sn"]
 type: source
 authors: ["Wang et al."]
 year: 2022

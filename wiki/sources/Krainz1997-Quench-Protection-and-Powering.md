@@ -1,5 +1,6 @@
 ---
 title: "Quench Protection and Powering in a String of Superconducting Magnets for the Large Hadron Collider"
+aliases: ["Krainz 1997"]
 type: source
 authors: ["Krainz"]
 year: 1997

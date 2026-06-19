@@ -1,5 +1,6 @@
 ---
 title: "The flux-line lattice in superconductors"
+aliases: ["Brandt 1995"]
 type: source
 authors: ["Brandt"]
 year: 1995

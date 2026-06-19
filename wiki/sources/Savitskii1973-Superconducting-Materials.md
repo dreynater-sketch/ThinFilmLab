@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Materials"
+aliases: ["Savitskii 1973"]
 type: source
 authors: ["Savitskii et al."]
 year: 1973

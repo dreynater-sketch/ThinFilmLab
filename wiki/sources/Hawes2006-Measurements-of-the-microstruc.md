@@ -1,5 +1,6 @@
 ---
 title: "Measurements of the microstructural, microchemical and transition temperature gradients of A15 layers in a high-performance Nb3Sn powder-in-tube superconducting strand"
+aliases: ["Hawes 2006"]
 type: source
 authors: ["Hawes et al."]
 year: 2006

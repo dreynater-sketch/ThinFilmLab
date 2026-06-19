@@ -1,5 +1,6 @@
 ---
 title: "Lu et al. (2026) - Superconductor Science and Technology"
+aliases: ["Lu 2026 superconductor screening", "Lu 2026 screening review"]
 type: source
 authors: ["Lu"]
 year: 2026

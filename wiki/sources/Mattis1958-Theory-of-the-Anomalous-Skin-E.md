@@ -1,5 +1,6 @@
 ---
 title: "Theory of the Anomalous Skin Effect in Normal and Superconducting Metals"
+aliases: ["Mattis 1958"]
 type: source
 authors: ["Mattis and Bardeen"]
 year: 1958

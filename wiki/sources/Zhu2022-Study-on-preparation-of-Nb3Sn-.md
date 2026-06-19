@@ -1,5 +1,6 @@
 ---
 title: "Study on preparation of Nb3Sn films by bronze route"
+aliases: ["Zhu 2022"]
 type: source
 authors: ["Zhu et al."]
 year: 2022

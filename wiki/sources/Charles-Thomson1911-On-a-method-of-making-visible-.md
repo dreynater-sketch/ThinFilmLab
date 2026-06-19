@@ -1,5 +1,6 @@
 ---
 title: "On a method of making visible the paths of ionising particles through a gas | Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"
+aliases: ["Charles 1911"]
 type: source
 authors: ["Charles Thomson Rees Wilson"]
 year: 1911

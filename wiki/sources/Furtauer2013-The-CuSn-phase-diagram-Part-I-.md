@@ -1,5 +1,6 @@
 ---
 title: "The Cu–Sn phase diagram, Part I: New experimental results"
+aliases: ["Fürtauer 2013"]
 type: source
 authors: ["Fürtauer et al."]
 year: 2013

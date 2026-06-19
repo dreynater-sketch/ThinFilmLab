@@ -1,5 +1,6 @@
 ---
 title: "Flux-Line Arrangement in Superconductors as Revealed by Direct Observation"
+aliases: ["Träuble 1968"]
 type: source
 authors: ["Träuble and Essmann"]
 year: 1968

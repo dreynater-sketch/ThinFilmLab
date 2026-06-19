@@ -1,5 +1,6 @@
 ---
 title: "A15-type superconductors"
+aliases: ["Muller 1980"]
 type: source
 authors: ["Muller"]
 year: 1980

@@ -1,5 +1,6 @@
 ---
 title: "On the Problem of the Molecular Theory of Superconductivity"
+aliases: ["London 1948"]
 type: source
 authors: ["London"]
 year: 1948

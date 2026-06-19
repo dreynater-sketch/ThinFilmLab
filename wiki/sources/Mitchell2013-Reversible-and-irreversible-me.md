@@ -1,5 +1,6 @@
 ---
 title: "Reversible and irreversible mechanical effects in real cable-in-conduit conductors"
+aliases: ["Mitchell 2013"]
 type: source
 authors: ["Mitchell et al."]
 year: 2013

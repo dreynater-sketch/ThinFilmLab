@@ -1,5 +1,6 @@
 ---
 title: "Nb-on-Cu Cavities for 700-1500 MHZ SRF Accelerators"
+aliases: ["Krishnan 2018"]
 type: source
 authors: ["Krishnan and Velas"]
 year: 2018

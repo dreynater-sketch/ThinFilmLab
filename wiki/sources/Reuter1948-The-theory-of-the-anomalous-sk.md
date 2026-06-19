@@ -1,5 +1,6 @@
 ---
 title: "The theory of the anomalous skin effect in metals"
+aliases: ["Reuter 1948"]
 type: source
 authors: ["Reuter and Sondheimer"]
 year: 1948

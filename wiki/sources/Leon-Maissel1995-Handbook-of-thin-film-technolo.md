@@ -1,5 +1,6 @@
 ---
 title: "Handbook of thin film technology"
+aliases: ["Leon 1995"]
 type: source
 authors: ["Leon Maissel and Reinhard Glang"]
 year: 1995

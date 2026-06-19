@@ -1,5 +1,6 @@
 ---
 title: "A simple solution to the strong CP problem with a harmless axion"
+aliases: ["Dine 1981"]
 type: source
 authors: ["Dine et al."]
 year: 1981

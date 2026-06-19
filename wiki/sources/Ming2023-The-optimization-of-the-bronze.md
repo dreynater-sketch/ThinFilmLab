@@ -1,5 +1,6 @@
 ---
 title: "The optimization of the bronze-method Nb3Sn coatings on Cu substrates"
+aliases: ["Ming 2023"]
 type: source
 authors: ["Ming et al."]
 year: 2023

@@ -1,5 +1,6 @@
 ---
 title: "Direct evidence of microstructure dependence of magnetic flux trapping in niobium"
+aliases: ["Balachandran 2021 microstructure", "direct evidence microstructure Nb3Sn"]
 type: source
 authors: ["Balachandran et al."]
 year: 2021

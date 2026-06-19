@@ -1,5 +1,6 @@
 ---
 title: "Synthesis of Nb and Alternative Superconducting Film to Nb for SRF Cavity as Single Layer"
+aliases: ["Valizadeh 2022"]
 type: source
 authors: ["Valizadeh et al."]
 year: 2022

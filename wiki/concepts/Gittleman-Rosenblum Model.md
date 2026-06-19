@@ -1,6 +1,7 @@
 ---
 title: "Gittleman-Rosenblum Model"
 type: concept
+aliases: ["GR model", "Gittleman-Rosenblum", "GR framework", "vortex pinning frequency model"]
 tags: [vortex-pinning, rf-superconductivity, surface-resistance, nb3sn, srf]
 source_count: 3
 last_updated: 2026-04-09

@@ -1,5 +1,6 @@
 ---
 title: "Development of sputtered Nb3Sn films on copper substrates for superconducting radiofrequency applications"
+aliases: ["Ilyina 2019", "sputtered Nb3Sn on Cu", "CERN DCMS Nb3Sn", "Ilyina Nb3Sn copper"]
 type: source
 authors: ["Ilyina, E.A.", "Rosaz, G.", "Descarrega, J.B.", "Vollenberg, W.", "Lunt, A.J.G.", "Leaux, F.", "Calatroni, S.", "Venturini-Delsolaro, W.", "Taborelli, M."]
 year: 2019

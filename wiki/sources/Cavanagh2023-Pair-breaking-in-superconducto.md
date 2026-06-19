@@ -1,5 +1,6 @@
 ---
 title: "Pair breaking in superconductors with strong spin-orbit coupling"
+aliases: ["Cavanagh 2023"]
 type: source
 authors: ["Cavanagh et al."]
 year: 2023

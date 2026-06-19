@@ -1,5 +1,6 @@
 ---
 title: "Portable linear accelerators for X-ray and electron-beam applications in civil engineering"
+aliases: ["Owen 1998"]
 type: source
 authors: ["Owen"]
 year: 1998

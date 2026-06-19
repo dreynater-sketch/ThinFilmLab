@@ -1,5 +1,6 @@
 ---
 title: "II-4: Stress/strain effects on critical current"
+aliases: ["Ekin 1995"]
 type: source
 authors: ["Ekin"]
 year: 1995

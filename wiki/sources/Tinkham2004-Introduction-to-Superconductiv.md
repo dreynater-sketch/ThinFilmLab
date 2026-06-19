@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Superconductivity"
+aliases: ["Tinkham 2004"]
 type: source
 authors: ["Tinkham"]
 year: 2004

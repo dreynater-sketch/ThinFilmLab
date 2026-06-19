@@ -1,5 +1,6 @@
 ---
 title: "ANALYSIS OF HIGH PRESSURE RINSING CHACTERISTICS FOR SRF CAVITIES"
+aliases: ["Jung 2015"]
 type: source
 authors: ["Jung et al."]
 year: 2015

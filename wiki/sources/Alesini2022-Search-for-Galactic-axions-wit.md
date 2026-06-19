@@ -1,5 +1,6 @@
 ---
 title: "Search for Galactic axions with a high- Q dielectric cavity"
+aliases: ["Alesini 2022"]
 type: source
 authors: ["Alesini et al."]
 year: 2022

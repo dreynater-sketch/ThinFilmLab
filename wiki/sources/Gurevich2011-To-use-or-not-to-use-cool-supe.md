@@ -1,5 +1,6 @@
 ---
 title: "To use or not to use cool superconductors?"
+aliases: ["Gurevich 2011"]
 type: source
 authors: ["Gurevich"]
 year: 2011

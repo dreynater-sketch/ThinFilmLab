@@ -1,5 +1,6 @@
 ---
 title: "Relationship between the n-value and critical current in Nb<sub>3</sub>Sn superconducting wires exhibiting intrinsic and extrinsic behaviour"
+aliases: ["Taylor 2005"]
 type: source
 authors: ["Taylor and Hampshire"]
 year: 2005

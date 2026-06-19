@@ -1,5 +1,6 @@
 ---
 title: "Biaxially Textured YBa2Cu3O7 Microwave Cavity in a High Magnetic Field for a Dark-Matter Axion Search"
+aliases: ["Ahn 2022"]
 type: source
 authors: ["Ahn et al."]
 year: 2022

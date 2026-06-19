@@ -1,5 +1,6 @@
 ---
 title: "Elastic Constants of the Fluxoid Lattice Near the Upper Critical Field"
+aliases: ["Labusch 1969"]
 type: source
 authors: ["Labusch"]
 year: 1969

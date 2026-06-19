@@ -1,5 +1,6 @@
 ---
 title: "Influence of Ti and Ta doping on the irreversible strain limit of ternary Nb<sub>3</sub>Sn superconducting wires made by the restacked-rod process"
+aliases: ["Cheggour 2010"]
 type: source
 authors: ["Cheggour et al."]
 year: 2010

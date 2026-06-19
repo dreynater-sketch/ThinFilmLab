@@ -1,5 +1,6 @@
 ---
 title: "Small scale problems of the $\Lambda$CDM model: a short review"
+aliases: ["Popolo 2017"]
 type: source
 authors: ["Popolo and Delliou"]
 year: 2017

@@ -1,5 +1,6 @@
 ---
 title: "The effect of strain upon the scaling law for flux pinning in bronze process Nb3Sn"
+aliases: ["Kroeger 1980"]
 type: source
 authors: ["Kroeger et al."]
 year: 1980

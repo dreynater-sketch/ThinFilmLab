@@ -1,5 +1,6 @@
 ---
 title: "Pinning of Flux Vortices in Type II Superconductors"
+aliases: ["Campbell 1968"]
 type: source
 authors: ["Campbell et al."]
 year: 1968

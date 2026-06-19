@@ -1,5 +1,6 @@
 ---
 title: "Strain scaling law for flux pinning in practical superconductors. Part 1: Basic relationship and application to Nb3Sn conductors"
+aliases: ["Ekin 1980"]
 type: source
 authors: ["Ekin"]
 year: 1980

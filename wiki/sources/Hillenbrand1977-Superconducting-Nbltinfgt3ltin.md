@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Nb&lt;inf&gt;3&lt;/inf&gt;Sn cavities with high microwave qualities"
+aliases: ["Hillenbrand 1977"]
 type: source
 authors: ["Hillenbrand et al."]
 year: 1977

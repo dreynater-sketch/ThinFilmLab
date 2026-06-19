@@ -1,5 +1,6 @@
 ---
 title: "Rapid Nb3Sn film growth by sputtering Nb on hot bronze"
+aliases: ["Withanage 2021", "Nb on hot bronze", "rapid Nb3Sn hot bronze", "Withanage hot bronze"]
 type: source
 authors: ["Withanage, S.S.", "Juliao, B.", "Cooley, L.D."]
 year: 2021

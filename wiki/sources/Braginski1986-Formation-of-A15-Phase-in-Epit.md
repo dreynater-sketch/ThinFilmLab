@@ -1,5 +1,6 @@
 ---
 title: "Formation of A15 Phase in Epitaxial and Polycrystalline Nb-Sn Diffusion Couples"
+aliases: ["Braginski 1986"]
 type: source
 authors: ["Braginski et al."]
 year: 1986

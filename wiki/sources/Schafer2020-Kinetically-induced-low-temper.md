@@ -1,5 +1,6 @@
 ---
 title: "Kinetically induced low-temperature synthesis of Nb3Sn thin films"
+aliases: ["Schäfer 2020", "Schafer 2020", "low-temperature Nb3Sn synthesis", "kinetic Nb3Sn synthesis"]
 type: source
 authors: ["Schäfer, N.", "Karabas, N.", "Palakkal, J.P.", "Petzold, S.", "Major, M.", "Pietralla, N.", "Alff, L."]
 year: 2020

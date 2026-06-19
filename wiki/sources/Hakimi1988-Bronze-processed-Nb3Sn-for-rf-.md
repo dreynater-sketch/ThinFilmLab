@@ -1,5 +1,6 @@
 ---
 title: "Bronze-processed Nb3Sn for r.f. applications"
+aliases: ["Hakimi 1988"]
 type: source
 authors: ["Hakimi"]
 year: 1988

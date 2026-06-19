@@ -1,5 +1,6 @@
 ---
 title: "Unveiling the nucleation and growth of Zr oxide precipitates of internally oxidized Nb3Sn superconductors"
+aliases: ["Lee 2023"]
 type: source
 authors: ["Lee et al."]
 year: 2023

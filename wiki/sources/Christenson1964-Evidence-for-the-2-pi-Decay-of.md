@@ -1,5 +1,6 @@
 ---
 title: "Evidence for the 2 pi Decay of the K 2 0 Meson"
+aliases: ["Christenson 1964"]
 type: source
 authors: ["Christenson et al."]
 year: 1964

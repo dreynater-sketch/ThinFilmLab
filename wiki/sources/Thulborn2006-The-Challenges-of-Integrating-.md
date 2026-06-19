@@ -1,5 +1,6 @@
 ---
 title: "The Challenges of Integrating A 9.4T MR Scanner for Human Brain Imaging"
+aliases: ["Thulborn 2006"]
 type: source
 authors: ["Thulborn"]
 year: 2006

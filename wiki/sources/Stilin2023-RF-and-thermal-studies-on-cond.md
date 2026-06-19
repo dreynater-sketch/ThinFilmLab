@@ -1,5 +1,6 @@
 ---
 title: "RF and thermal studies on conduction cooled Nb3Sn SRF cavity"
+aliases: ["Stilin 2023"]
 type: source
 authors: ["Stilin et al."]
 year: 2023

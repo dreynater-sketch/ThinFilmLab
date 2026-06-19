@@ -1,5 +1,6 @@
 ---
 title: "Surface impedance measurements on Nb$_{3}$Sn at high magnetic fields"
+aliases: ["Alimenti 2019"]
 type: source
 authors: ["Alimenti et al."]
 year: 2019

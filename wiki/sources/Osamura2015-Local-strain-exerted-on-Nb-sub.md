@@ -1,5 +1,6 @@
 ---
 title: "Local strain exerted on Nb <sub>3</sub> Sn filaments in an ITER strand"
+aliases: ["Osamura 2015"]
 type: source
 authors: ["Osamura et al."]
 year: 2015

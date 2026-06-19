@@ -1,5 +1,6 @@
 ---
 title: "An improved model for the strain dependence of the superconducting properties of Nb<sub>3</sub>Sn"
+aliases: ["Arbelaez 2009"]
 type: source
 authors: ["Arbelaez et al."]
 year: 2009

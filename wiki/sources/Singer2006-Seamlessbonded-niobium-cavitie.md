@@ -1,5 +1,6 @@
 ---
 title: "Seamless/bonded niobium cavities"
+aliases: ["Singer 2006"]
 type: source
 authors: ["Singer"]
 year: 2006

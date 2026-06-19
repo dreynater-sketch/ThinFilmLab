@@ -1,5 +1,6 @@
 ---
 title: "Bronze-Route Nb3Sn Superconducting Wires with Improved Jc and Reduced Bridging"
+aliases: ["Capone 1990"]
 type: source
 authors: ["Capone and DeMoranville"]
 year: 1990

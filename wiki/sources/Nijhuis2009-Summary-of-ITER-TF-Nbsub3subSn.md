@@ -1,5 +1,6 @@
 ---
 title: "Summary of ITER TF Nb<sub>3</sub>Sn Strand Testing Under Axial Strain, Spatial Periodic Bending and Contact Stress"
+aliases: ["Nijhuis 2009"]
 type: source
 authors: ["Nijhuis et al."]
 year: 2009

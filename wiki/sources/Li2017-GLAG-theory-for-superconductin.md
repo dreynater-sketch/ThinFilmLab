@@ -1,5 +1,6 @@
 ---
 title: "GLAG theory for superconducting property variations with A15 composition in Nb<sub>3</sub>Sn wires"
+aliases: ["Li 2017"]
 type: source
 authors: ["Li and Gao"]
 year: 2017

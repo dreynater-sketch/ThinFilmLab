@@ -1,5 +1,6 @@
 ---
 title: "Valdez et al. (2026)"
+aliases: ["Valdez 2026"]
 type: source
 authors: ["Valdez"]
 year: 2026

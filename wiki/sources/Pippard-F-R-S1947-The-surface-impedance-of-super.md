@@ -1,5 +1,6 @@
 ---
 title: "The surface impedance of superconductors and normal metals at high frequencies II. The anomalous skin effect in normal metals"
+aliases: ["Pippard 1947"]
 type: source
 authors: ["Pippard, F. R. S. and Bragg"]
 year: 1947

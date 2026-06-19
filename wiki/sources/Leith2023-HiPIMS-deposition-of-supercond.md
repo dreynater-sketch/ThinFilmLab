@@ -1,5 +1,6 @@
 ---
 title: "HiPIMS deposition of superconducting Nb thin films onto Cu substrates"
+aliases: ["Leith 2023"]
 type: source
 authors: ["Leith et al."]
 year: 2023

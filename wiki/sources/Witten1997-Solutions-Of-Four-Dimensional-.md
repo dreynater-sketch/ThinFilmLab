@@ -1,5 +1,6 @@
 ---
 title: "Solutions Of Four-Dimensional Field Theories Via M Theory"
+aliases: ["Witten 1997"]
 type: source
 authors: ["Witten"]
 year: 1997

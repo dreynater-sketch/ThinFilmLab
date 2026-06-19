@@ -1,5 +1,6 @@
 ---
 title: "Time scales of the flux creep in superconductors"
+aliases: ["Gurevich 1993"]
 type: source
 authors: ["Gurevich and Küpfer"]
 year: 1993

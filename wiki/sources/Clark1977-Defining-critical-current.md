@@ -1,5 +1,6 @@
 ---
 title: "Defining critical current"
+aliases: ["Clark 1977"]
 type: source
 authors: ["Clark and Ekin"]
 year: 1977

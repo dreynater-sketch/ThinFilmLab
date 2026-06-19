@@ -1,5 +1,6 @@
 ---
 title: "The Cu–Sn System: A Comprehensive Review of the Crystal Structures of its Stable and Metastable Phases"
+aliases: ["Leineweber 2023"]
 type: source
 authors: ["Leineweber"]
 year: 2023

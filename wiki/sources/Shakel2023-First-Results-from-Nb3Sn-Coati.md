@@ -1,5 +1,6 @@
 ---
 title: "First Results from Nb3Sn Coatings of 2.6 GHz Nb SRF Cavities Using DC Cylindrical Magnetron Sputtering System"
+aliases: ["Shakel 2023"]
 type: source
 authors: ["Shakel et al."]
 year: 2023

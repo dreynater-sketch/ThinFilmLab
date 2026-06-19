@@ -1,5 +1,6 @@
 ---
 title: "Large-scale 3D random polycrystals for the finite element method: Generation, meshing and remeshing"
+aliases: ["Quey 2011"]
 type: source
 authors: ["Quey et al."]
 year: 2011

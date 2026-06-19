@@ -1,5 +1,6 @@
 ---
 title: "CP Violation Results from the NA48 experiments"
+aliases: ["Anzivino 2007"]
 type: source
 authors: ["Anzivino"]
 year: 2007

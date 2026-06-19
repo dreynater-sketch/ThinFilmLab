@@ -1,5 +1,6 @@
 ---
 title: "The Labusch Parameter of a Driven Flux Line Lattice in YBa$_2$Cu$_3$O$_7$ Superconducting Films"
+aliases: ["Pan 2000"]
 type: source
 authors: ["Pan and Esquinazi"]
 year: 2000

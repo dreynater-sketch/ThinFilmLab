@@ -1,5 +1,6 @@
 ---
 title: "Dispersion Strengthened Nb<sub>3</sub>Sn Wire"
+aliases: ["Chen 2007"]
 type: source
 authors: ["Chen et al."]
 year: 2007

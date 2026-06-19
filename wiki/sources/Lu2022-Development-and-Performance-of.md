@@ -1,5 +1,6 @@
 ---
 title: "Development and Performance of the First Nb3Sn Thin-Film Cavity via Bronze Process"
+aliases: ["Lu 2022", "first bronze Nb3Sn cavity", "bronze-process Nb3Sn cavity"]
 type: source
 authors: ["Lu, X.", "He, F.", "Guo, Y.", "Tan, T.", "Pan, W.", "Li, J.", "Meng, Q.", "Chen, M.", "Zhao, K.", "Shi, Y.", "Huang, S.", "Quan, S.", "Lin, L."]
 year: 2022

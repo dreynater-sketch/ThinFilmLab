@@ -1,5 +1,6 @@
 ---
 title: "The fast formation of Cu-Sn intermetallic compound in Cu/Sn/Cu system by induction heating process"
+aliases: ["Yin 2018"]
 type: source
 authors: ["Yin et al."]
 year: 2018

@@ -1,5 +1,6 @@
 ---
 title: "Dynamics of the Standard Model"
+aliases: ["Donoghue 2014"]
 type: source
 authors: ["Donoghue et al."]
 year: 2014

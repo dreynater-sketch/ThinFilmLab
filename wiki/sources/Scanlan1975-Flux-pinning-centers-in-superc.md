@@ -1,5 +1,6 @@
 ---
 title: "Flux pinning centers in superconducting Nb3Sn"
+aliases: ["Scanlan 1975"]
 type: source
 authors: ["Scanlan et al."]
 year: 1975

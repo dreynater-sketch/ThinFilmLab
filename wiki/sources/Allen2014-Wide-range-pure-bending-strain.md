@@ -1,5 +1,6 @@
 ---
 title: "Wide range pure bending strains of Nb<sub>3</sub>Sn wires"
+aliases: ["Allen 2014"]
 type: source
 authors: ["Allen et al."]
 year: 2014

@@ -1,5 +1,6 @@
 ---
 title: "The radial velocity dispersion profile of the Galactic halo: Constraining the density profile of the dark halo of the Milky Way"
+aliases: ["Battaglia 2005"]
 type: source
 authors: ["Battaglia et al."]
 year: 2005

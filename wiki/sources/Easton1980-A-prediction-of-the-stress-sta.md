@@ -1,5 +1,6 @@
 ---
 title: "A prediction of the stress state in Nb<sub>3</sub>Sn superconducting composites"
+aliases: ["Easton 1980"]
 type: source
 authors: ["Easton et al."]
 year: 1980

@@ -5,3 +5,5 @@ Level: Not Started
 Notes: Diagnose common deposition problems.
 tags: [sop, deposition]
 ---
+
+See also: [[Troubleshooting — base pressure & ion pump]] for vacuum/base-pressure issues before tuning process.

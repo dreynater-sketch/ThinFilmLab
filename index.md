@@ -2,12 +2,13 @@
 
 Master catalog of all pages in this knowledge base. Updated on every ingest. Read this before answering any query.
 
-**Total source pages:** 469
+**Total source pages:** 470
 **Entity pages:** 9
 **Synthesis pages:** 4
 **Concept pages:** 2
 **Lab pages:** ~65 (SOPs, training, experiments, tasks, notes)
-**Last updated:** 2026-04-10
+**Project pages:** 10 (FMF Nb3Sn Wires: hub + 8 wires + question ledger)
+**Last updated:** 2026-06-11
 
 ---
 
@@ -19,6 +20,8 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 |------|-------------|---------|
 | [[Nb3Sn]] | A15 superconductor; primary research material | 31 |
 | [[Nb3Al]] | A15 niobium-aluminum; comparison material | 2 |
+| [[Ta alpha phase]] | α-Ta bcc barrier phase vs β-Ta; HiPIMS/anneal crystallinity; bronze-route diffusion barrier | 1 |
+| [[Nausite]] | (Nb₀.₇₅Cu₀.₂₅)Sn₂ Cu-Nb-Sn ternary; forms by Nb dissolution → disconnected/large-grain A15 | 2 |
 
 ### Methods
 
@@ -32,6 +35,7 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 | Page | Description | Sources |
 |------|-------------|---------|
 | [[SQUID-VSM Magnetometry]] | PPMS VSM M(H) loops → Jc via Gyorgy Bean model → Fp(B,T); Experiment 0 protocol | 4 |
+| [[X-Ray Diffraction]] | Rigaku SmartLab + χ-φ; geometry, slit selection, mounting (incl. small samples), θ-2θ / GIXRD / XRR / rocking / pole figure / RSM, analysis chain | 0 |
 
 ### Concepts
 
@@ -52,6 +56,8 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 | [[Axion Detector Research Roadmap]] | FSU experimental plan; full competitive landscape (9 groups); 5-gap analysis; Nature paper strategy | 10 |
 | [[Vortex Dissipation and Pinning in High-Field Nb3Sn - GR Framework]] | GR model applied to Nb3Sn; VTD=free-flow, DCMS=pinned; FSU Zone-2 unmeasured; Experiments 0 & 1 protocol | 6 |
 | [[CTE Strain and Hc1 Suppression in Nb3Sn on Cu]] | CTE mismatch → biaxial strain → Hc1 reduction; 11.4 mT Hentry from Lu 2026; Q(B) catastrophe explanation | 5 |
+| [[Intragrain Sn Distribution - Bronze Route vs Sn-Vapor in Nb3Sn]] | Sn-rich grain cores vs Sn-poor boundaries; bronze vs vapor route; residual-resistance plateau | — |
+| [[Nb3Sn Thermodynamics and Kinetics - Phase Formation, Grain Boundaries, and CuSn Segregation]] | Equilibrium vs kinetics; Cu/Sn GB segregation; Nausite→Nb6Sn5 pathway; width-vs-ξ harm rule | 9 |
 
 ---
 
@@ -68,6 +74,21 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 | `lab/Reading List/` | 3 Nb3Sn sputtering papers (Lu 2025, co-sputtering, substrate temp effects) |
 | `lab/Electropolishing/` | Cu EP protocol, Gamry SOP |
 | `lab/Reference/` | Lab Reference, Thin Film Lab Overview, Nb₃Sn Literature Reading Guide |
+
+---
+
+## Project Pages
+
+Side projects outside the thin-film core. One folder per project under `projects/`; the hub page carries the folder's name.
+
+| Page | Description |
+|------|-------------|
+| [[FMF Nb3Sn Wires]] | **Hub** — ASC group FMF wire series: registry, cross-wire Tc/H_irr/Jc, EDS lessons, open questions, data checklist. Source deck in `raw/notes/` (git-ignored) |
+| [[FMF-50-A]] / [[FMF-50-B]] | Monofilament feedstock (high-Sn ~46–58 / low-Sn ~23–26 at.%) |
+| [[FMF-51]] / [[FMF-52]] / [[FMF-53]] | Restacks: 37 fil @ 50 at.% / 55 fil @ 23 at.% / 37 fil @ 41 at.% Sn |
+| [[FMF-53 Restack]] | 30×37 double restack (~1110 fil); periphery breakage, Sn/Cu leak |
+| [[FMF-54]] / [[FMF-55]] | 54-fil @ 32 at.% (stock unknown) / uniformity-study wire @ ~40 at.% |
+| [[Questions for Manish — FMF wire compilation]] | Question ledger: naming/architecture hypotheses, data clarifications, data requests; answers fold back into wire pages |
 
 ---
 
@@ -193,7 +214,7 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 | [[Lee2008-Microstructural-factors-import]] | Microstructural factors important for the development of hig... | Lee and Larbalestier | 2008 |
 | [[Vallone2023-A-Review-of-the-Mechanical-Pro]] | A Review of the Mechanical Properties of Materials Used in N... | Vallone et al. | 2023 |
 
-### Metallurgy (4)
+### Metallurgy (5)
 
 | Page | Title | Authors | Year |
 |------|-------|---------|------|
@@ -201,6 +222,7 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 | [[Shim1996-Thermodynamic-Assessment-of-th]] | Thermodynamic Assessment of the Cu-Sn System | Shim et al. | 1996 |
 | [[Kelley2020-Ab-initio-theory-of-the-impact]] | Ab initio theory of the impact of grain boundaries and subst... | Kelley et al. | 2020 |
 | [[Leineweber2023-The-CuSn-System-A-Comprehensiv]] | The Cu–Sn System: A Comprehensive Review of the Crystal Stru... | Leineweber | 2023 |
+| [[Wheatley2023-Atom-Probe-Tomography-of-Nb3]] | Atom Probe Tomography analysis of Nb3Sn superconducting wire... | Wheatley | 2023 |
 
 ### My Work (12)
 

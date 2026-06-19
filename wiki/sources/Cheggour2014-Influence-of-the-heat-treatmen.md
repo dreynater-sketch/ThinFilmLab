@@ -1,5 +1,6 @@
 ---
 title: "Influence of the heat-treatment conditions, microchemistry, and microstructure on the irreversible strain limit of a selection of Ti-doped internal-tin Nb <sub>3</sub> Sn ITER wires"
+aliases: ["Cheggour 2014"]
 type: source
 authors: ["Cheggour et al."]
 year: 2014

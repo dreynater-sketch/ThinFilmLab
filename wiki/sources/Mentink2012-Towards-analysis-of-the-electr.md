@@ -1,5 +1,6 @@
 ---
 title: "Towards analysis of the electron density of states of Nb3Sn as a function of strain"
+aliases: ["Mentink 2012 electronic DOS", "electronic structure analysis Mentink"]
 type: source
 authors: ["Mentink et al."]
 year: 2012

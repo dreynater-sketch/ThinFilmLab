@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Properties and Strain Effects in Superconductors"
+aliases: ["Ekin 1981"]
 type: source
 authors: ["Ekin"]
 year: 1981

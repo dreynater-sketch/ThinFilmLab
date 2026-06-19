@@ -1,5 +1,6 @@
 ---
 title: "Challenges and opportunities to assure future manufacturing of magnet conductors for the accelerator sector"
+aliases: ["Cooley 2022"]
 type: source
 authors: ["Cooley et al."]
 year: 2022

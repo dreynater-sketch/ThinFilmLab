@@ -1,5 +1,6 @@
 ---
 title: "Gauge theory of elementary particle physics: problems and solutions"
+aliases: ["Cheng 2000"]
 type: source
 authors: ["Cheng and Li"]
 year: 2000

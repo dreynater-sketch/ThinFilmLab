@@ -1,5 +1,6 @@
 ---
 title: "Supersymmetry Searches with ATLAS and CMS"
+aliases: ["Lowette 2012"]
 type: source
 authors: ["Lowette"]
 year: 2012

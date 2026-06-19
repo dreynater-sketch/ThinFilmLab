@@ -1,5 +1,6 @@
 ---
 title: "Strain Effects in Superconducting Compounds"
+aliases: ["Ekin 1984"]
 type: source
 authors: ["Ekin"]
 year: 1984

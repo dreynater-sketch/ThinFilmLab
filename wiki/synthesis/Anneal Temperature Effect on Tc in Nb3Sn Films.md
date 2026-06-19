@@ -1,5 +1,6 @@
 ---
 title: "Anneal Temperature Effect on Tc in Nb3Sn Films"
+aliases: ["anneal temperature Tc", "annealing effect on Tc Nb3Sn", "Tc vs anneal temperature"]
 type: synthesis
 tags: [nb3sn, thin-film, anneal, tc, srf, copper-substrate, cte-mismatch, crystallization, composition, phase-diagram]
 sources_consulted: 10

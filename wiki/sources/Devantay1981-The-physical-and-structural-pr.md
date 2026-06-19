@@ -1,5 +1,6 @@
 ---
 title: "The physical and structural properties of superconducting A15-type Nb-Sn alloys"
+aliases: ["Devantay 1981", "A15 Nb-Sn properties", "Nb3Sn lattice parameter Tc", "Devantay A15 alloys"]
 type: source
 authors: ["Devantay, H.", "Jorda, J.L.", "Decroux, M.", "Muller, J.", "Flükiger, R."]
 year: 1981

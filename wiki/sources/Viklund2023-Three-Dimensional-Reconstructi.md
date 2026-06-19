@@ -1,5 +1,6 @@
 ---
 title: "Three-Dimensional Reconstruction of Nb3Sn Films by Focused Ion Beam Cross Sectional Microscopy"
+aliases: ["Viklund 2023", "FIB tomography Nb3Sn", "3D Nb3Sn reconstruction"]
 type: source
 authors: ["Viklund, E.", "Lee, J.", "Seidman, D.N.", "Posen, S."]
 year: 2023

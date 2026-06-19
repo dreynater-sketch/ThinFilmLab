@@ -1,5 +1,6 @@
 ---
 title: "Energy gaps of the A - 15 superconductors Nb 3 Sn, V 3 Si, and Nb 3 Ge measured by tunneling"
+aliases: ["Moore 1979"]
 type: source
 authors: ["Moore et al."]
 year: 1979

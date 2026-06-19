@@ -1,5 +1,6 @@
 ---
 title: "Superconductivity of $\ensuremath{\alpha}$- and $\ensuremath{\beta}$-Mercury"
+aliases: ["Schirber 1961"]
 type: source
 authors: ["Schirber and Swenson"]
 year: 1961

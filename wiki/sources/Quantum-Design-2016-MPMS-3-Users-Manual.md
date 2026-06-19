@@ -1,5 +1,6 @@
 ---
 title: "MPMS 3 User's Manual"
+aliases: ["Quantum Design 2016"]
 type: source
 authors: ["Quantum Design, Inc."]
 year: 2016

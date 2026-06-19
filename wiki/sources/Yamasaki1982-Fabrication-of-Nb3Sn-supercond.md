@@ -1,5 +1,6 @@
 ---
 title: "Fabrication of Nb3Sn superconductors by the solid-liquid diffusion method using Sn rich CuSn alloy"
+aliases: ["Yamasaki 1982"]
 type: source
 authors: ["Yamasaki and Kimura"]
 year: 1982

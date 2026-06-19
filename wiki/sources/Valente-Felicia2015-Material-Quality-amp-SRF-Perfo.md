@@ -1,5 +1,6 @@
 ---
 title: "Material Quality &amp; SRF Performance of Nb Films Grown on Cu via ECR Plasma Energetic Condensation"
+aliases: ["Valente-Feliciano 2015"]
 type: source
 authors: ["Valente-Feliciano et al."]
 year: 2015

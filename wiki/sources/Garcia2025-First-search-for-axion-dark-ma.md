@@ -1,5 +1,6 @@
 ---
 title: "First search for axion dark matter with a Madmax prototype"
+aliases: ["Garcia 2025"]
 type: source
 authors: ["Garcia et al."]
 year: 2025

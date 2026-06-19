@@ -1,5 +1,6 @@
 ---
 title: "High quality Nb3Sn films on copper substrates by DC magnetron sputtering"
+aliases: ["Fonnesu 2026 DCMS Cu SRF", "Fonnesu DCMS Cu cavity"]
 type: source
 authors: ["Fonnesu, Davide", "Keckert, Sebastian", "Kugeler, Oliver", "Knobloch, Jens", "Sertore, Daniele", "Visentin, Bernard"]
 year: 2026

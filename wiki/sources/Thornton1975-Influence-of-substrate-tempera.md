@@ -1,5 +1,6 @@
 ---
 title: "Influence of substrate temperature and deposition rate on structure of thick sputtered Cu coatings"
+aliases: ["Thornton 1975"]
 type: source
 authors: ["Thornton"]
 year: 1975

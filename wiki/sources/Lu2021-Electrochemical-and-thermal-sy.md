@@ -1,5 +1,6 @@
 ---
 title: "Electrochemical and thermal synthesis of Nb3Sn coatings on Nb substrates"
+aliases: ["Lu 2021"]
 type: source
 authors: ["Lu et al."]
 year: 2021

@@ -1,5 +1,6 @@
 ---
 title: "Comparison of Direct Inter-Filament Resistance Measurement on Nb<sub>3</sub>Sn Strands Between University of Twente and ENEA"
+aliases: ["Zhou 2013"]
 type: source
 authors: ["Zhou et al."]
 year: 2013

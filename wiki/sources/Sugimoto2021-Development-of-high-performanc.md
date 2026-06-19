@@ -1,5 +1,6 @@
 ---
 title: "Development of high-performance Cu-Nb/Nb<sub>3</sub>Sn wires for various high field magnets"
+aliases: ["Sugimoto 2021"]
 type: source
 authors: ["Sugimoto et al."]
 year: 2021

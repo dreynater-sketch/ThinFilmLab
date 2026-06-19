@@ -1,5 +1,6 @@
 ---
 title: "Constitution of Binary Alloys"
+aliases: ["Hansen 1958"]
 type: source
 authors: ["Hansen et al."]
 year: 1958

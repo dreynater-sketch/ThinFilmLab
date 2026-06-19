@@ -1,5 +1,6 @@
 ---
 title: "Neutron diffraction measurement of internal strain in the first Japanese ITER CS conductor sample"
+aliases: ["Hemmi 2013"]
 type: source
 authors: ["Hemmi et al."]
 year: 2013

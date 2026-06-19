@@ -1,5 +1,6 @@
 ---
 title: "The role of oxygen and zirconium in the formation and growth of Nb3sn grains"
+aliases: ["Rumaner 1994"]
 type: source
 authors: ["Rumaner et al."]
 year: 1994

@@ -1,5 +1,6 @@
 ---
 title: "Demagnetizing Factors of the General Ellipsoid"
+aliases: ["Osborn 1945"]
 type: source
 authors: ["Osborn"]
 year: 1945

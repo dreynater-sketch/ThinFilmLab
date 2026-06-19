@@ -1,5 +1,6 @@
 ---
 title: "Superconducting                         Materials for Microwave Kinetic Inductance Detectors"
+aliases: ["Mazin 2021"]
 type: source
 authors: ["Mazin"]
 year: 2021

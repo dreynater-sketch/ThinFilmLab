@@ -1,5 +1,6 @@
 ---
 title: "Consistent representations of and conversions between 3D rotations"
+aliases: ["Rowenhorst 2015"]
 type: source
 authors: ["Rowenhorst et al."]
 year: 2015

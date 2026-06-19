@@ -1,5 +1,6 @@
 ---
 title: "Broadband solenoidal haloscope for terahertz axion detection"
+aliases: ["Liu 2022"]
 type: source
 authors: ["Liu et al."]
 year: 2022

@@ -1,5 +1,6 @@
 ---
 title: "Thermal contact resistance at the Nb/Cu interface as a limiting factor for sputtered thin film RF superconducting cavities"
+aliases: ["Palmieri 2015"]
 type: source
 authors: ["Palmieri and Vaglio"]
 year: 2015

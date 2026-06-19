@@ -1,5 +1,6 @@
 ---
 title: "The critical current of Nb/sub 3/Sn wires for ITER as a function of the axial tension and compression"
+aliases: ["ten 1996"]
 type: source
 authors: ["ten Haken et al."]
 year: 1996

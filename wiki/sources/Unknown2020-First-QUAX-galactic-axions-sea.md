@@ -1,5 +1,6 @@
 ---
 title: "First QUAX galactic axions search with a SC resonant cavity"
+aliases: ["Unknown 2020"]
 type: source
 authors: ["Unknown"]
 year: 2020

@@ -1,5 +1,6 @@
 ---
 title: "Microwave Losses in a DC Magnetic Field in Superconducting Cavities for Axion Studies"
+aliases: ["Di 2019"]
 type: source
 authors: ["Di Gioacchino et al."]
 year: 2019

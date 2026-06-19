@@ -1,5 +1,6 @@
 ---
 title: "Effect of independent alloying of zirconium with bronze and niobium on superconducting properties of Nb3Sn in a Cu(Sn)/Nb system"
+aliases: ["Srivastava 2023"]
 type: source
 authors: ["Srivastava and Santra"]
 year: 2023

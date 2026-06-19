@@ -1,5 +1,6 @@
 ---
 title: "Recipe Optimization and SRF Test of Cu-compatible Nb3Sn Films by DC Magnetron Sputtering from a Stoichiometric Target"
+aliases: ["Fonnesu 2025", "DCMS stoichiometric Nb3Sn", "Cu-compatible Nb3Sn film SRF", "single-target Nb3Sn sputtering"]
 type: source
 authors: ["Fonnesu, D.", "Ford, D.", "Chyhyrynets, E.", "Keckert, S.", "Knobloch, J.", "Kugeler, O.", "Lazzari, M.", "Marconato, G.", "Salmaso, A.", "Zubtsovskii, A.", "Pira, C."]
 year: 2025

@@ -1,5 +1,6 @@
 ---
 title: "Copper Polishing Studies (Pira 2021)"
+aliases: ["Pira 2021"]
 type: source
 authors: ["Pira"]
 year: 2021

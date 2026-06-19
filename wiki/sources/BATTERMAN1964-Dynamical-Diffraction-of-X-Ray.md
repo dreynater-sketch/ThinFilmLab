@@ -1,5 +1,6 @@
 ---
 title: "Dynamical Diffraction of X Rays by Perfect Crystals"
+aliases: ["BATTERMAN 1964"]
 type: source
 authors: ["BATTERMAN and COLE"]
 year: 1964

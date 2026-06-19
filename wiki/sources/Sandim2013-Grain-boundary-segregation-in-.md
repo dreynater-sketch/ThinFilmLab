@@ -1,5 +1,6 @@
 ---
 title: "Grain boundary segregation in a bronze-route Nb3Sn superconducting wire studied by atom probe tomography"
+aliases: ["Sandim 2013"]
 type: source
 authors: ["Sandim et al."]
 year: 2013

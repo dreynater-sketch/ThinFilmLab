@@ -1,5 +1,6 @@
 ---
 title: "Evidence of Kramer extrapolation inaccuracy for predicting high field Nb<sub>3</sub>Sn properties"
+aliases: ["Segal 2020"]
 type: source
 authors: ["Segal et al."]
 year: 2020

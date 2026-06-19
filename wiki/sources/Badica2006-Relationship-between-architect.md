@@ -1,5 +1,6 @@
 ---
 title: "Relationship between architecture, filament breakage and critical current decay in Nb$\less$sub$\greater$3$\less$/sub$\greater$Sn composite wires repeatedly in-plane bent at room temperature"
+aliases: ["Badica 2006"]
 type: source
 authors: ["Badica et al."]
 year: 2006

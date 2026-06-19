@@ -1,5 +1,6 @@
 ---
 title: "A model for the compositions of non-stoichiometric intermediate phases formed by diffusion reactions and its application to Nb3Sn superconductors"
+aliases: ["Xu 2016"]
 type: source
 authors: ["Xu and Sumption"]
 year: 2016

@@ -1,5 +1,6 @@
 ---
 title: "Metallographic and Bending Strain Property Analysis of Reinforced Nb3Sn Strand Candidates for Japanese DEMO"
+aliases: ["Banno 2023 bending strain", "metallographic bending strain Banno"]
 type: source
 authors: ["Banno et al."]
 year: 2023

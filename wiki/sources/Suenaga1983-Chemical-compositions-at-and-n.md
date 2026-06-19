@@ -1,5 +1,6 @@
 ---
 title: "Chemical compositions at and near the grain boundaries in bronze-processed superconducting Nb3Sn"
+aliases: ["Suenaga 1983"]
 type: source
 authors: ["Suenaga and Jansen"]
 year: 1983

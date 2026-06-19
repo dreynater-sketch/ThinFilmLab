@@ -1,5 +1,6 @@
 ---
 title: "Galactic axions search with a superconducting resonant cavity"
+aliases: ["Alesini 2019", "QUAX haloscope", "superconducting cavity axion search", "Alesini axion cavity"]
 type: source
 authors: ["Alesini, D.", "Braggio, C.", "Carugno, G.", "Crescini, N.", "D'Agostino, D.", "Di Gioacchino, D.", "Di Vora, R.", "Falferi, P.", "Gallo, S.", "Gambardella, U.", "Gatti, C.", "Iannone, G.", "Lamanna, G.", "Ligi, C.", "Lombardi, A.", "Mezzena, R.", "Ortolan, A.", "Pengo, R.", "Pompeo, N.", "Rettaroli, A.", "Ruoso, G.", "Silva, E.", "Speake, C.C.", "Taffarello, L.", "Tocci, S."]
 year: 2019

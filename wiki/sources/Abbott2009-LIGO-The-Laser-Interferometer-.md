@@ -1,5 +1,6 @@
 ---
 title: "LIGO: The Laser Interferometer Gravitational-Wave Observatory"
+aliases: ["Abbott 2009"]
 type: source
 authors: ["Abbott et al."]
 year: 2009

@@ -1,5 +1,6 @@
 ---
 title: "Vacuum Technology"
+aliases: ["Roth 2012"]
 type: source
 authors: ["Roth"]
 year: 2012

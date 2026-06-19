@@ -1,5 +1,6 @@
 ---
 title: "High power superconducting electron linear accelerators for industrial applications: Technology development and experimental results at Fermilab"
+aliases: ["Thangaraj 2021"]
 type: source
 authors: ["Thangaraj"]
 year: 2021

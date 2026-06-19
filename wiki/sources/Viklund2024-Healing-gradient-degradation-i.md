@@ -1,5 +1,6 @@
 ---
 title: "Healing gradient degradation in Nb3Sn SRF cavities using a recoating method"
+aliases: ["Viklund 2024", "Nb3Sn recoating healing", "gradient degradation recoating"]
 type: source
 authors: ["Viklund, E.", "Seidman, D.N.", "Posen, S.", "Tennis, B.M.", "Eremeev, G."]
 year: 2024

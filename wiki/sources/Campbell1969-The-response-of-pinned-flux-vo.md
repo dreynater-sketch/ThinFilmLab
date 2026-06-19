@@ -1,5 +1,6 @@
 ---
 title: "The response of pinned flux vortices to low-frequency fields"
+aliases: ["Campbell 1969"]
 type: source
 authors: ["Campbell"]
 year: 1969

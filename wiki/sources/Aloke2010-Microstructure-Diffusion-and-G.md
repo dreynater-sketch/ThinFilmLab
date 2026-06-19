@@ -1,5 +1,6 @@
 ---
 title: "Microstructure, Diffusion and Growth Mechanism of Nb3Sn Superconductor by Bronze Technique"
+aliases: ["Aloke 2010"]
 type: source
 authors: ["Aloke et al."]
 year: 2010

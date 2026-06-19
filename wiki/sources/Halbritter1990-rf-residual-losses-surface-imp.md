@@ -1,5 +1,6 @@
 ---
 title: "rf residual losses, surface impedance, and granularity in superconducting cuprates"
+aliases: ["Halbritter 1990"]
 type: source
 authors: ["Halbritter"]
 year: 1990

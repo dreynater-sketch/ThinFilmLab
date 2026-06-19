@@ -1,5 +1,6 @@
 ---
 title: "On the preparation of Nb3Sn-layers on monocrystalline Nb-substrates"
+aliases: ["Hillenbrand 1980", "Nb3Sn on monocrystalline Nb", "vapor diffusion Nb3Sn 1980"]
 type: source
 authors: ["Hillenbrand, B.", "Martens, H.", "Pfister, H.", "Schnitzke, K.", "Uzel, Y."]
 year: 1980

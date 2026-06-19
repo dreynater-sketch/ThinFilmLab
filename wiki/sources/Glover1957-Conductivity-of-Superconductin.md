@@ -1,5 +1,6 @@
 ---
 title: "Conductivity of Superconducting Films for Photon Energies between 0.3 and $40k{T}_{c}$"
+aliases: ["Glover 1957"]
 type: source
 authors: ["Glover and Tinkham"]
 year: 1957

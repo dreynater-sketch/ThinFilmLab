@@ -1,5 +1,6 @@
 ---
 title: "Stoichiometric Studies of Nb3Sn"
+aliases: ["Fonnesu 2026 stoichiometric", "stoichiometric Nb3Sn studies Fonnesu"]
 type: source
 authors: ["Fonnesu"]
 year: 2026

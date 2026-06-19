@@ -1,5 +1,6 @@
 ---
 title: "Fabrication of superconducting Nb3Sn film by Co-sputtering"
+aliases: ["Sayeed 2023", "co-sputtered Nb3Sn", "Nb3Sn co-sputtering"]
 type: source
 authors: ["Sayeed, M.N.", "Pudasaini, U.", "Eremeev, G.V.", "Elsayed-Ali, H.E."]
 year: 2023

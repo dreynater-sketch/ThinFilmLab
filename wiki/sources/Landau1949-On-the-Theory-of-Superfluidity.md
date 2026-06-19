@@ -1,5 +1,6 @@
 ---
 title: "On the Theory of Superfluidity"
+aliases: ["Landau 1949"]
 type: source
 authors: ["Landau"]
 year: 1949

@@ -1,5 +1,6 @@
 ---
 title: "Coarse ${\rm Nb}_{3}{\rm Sn}$ Grain Formation and Phase Evolution During the Reaction of a High Sn Content Internal Tin Strand"
+aliases: ["Scheuerlein 2011"]
 type: source
 authors: ["Scheuerlein et al."]
 year: 2011

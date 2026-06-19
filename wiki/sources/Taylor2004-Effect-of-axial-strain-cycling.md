@@ -1,5 +1,6 @@
 ---
 title: "Effect of axial strain cycling on the critical current density and n-value of ITER niobium–tin wires"
+aliases: ["Taylor 2004"]
 type: source
 authors: ["Taylor and Hampshire"]
 year: 2004

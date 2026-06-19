@@ -1,5 +1,6 @@
 ---
 title: "The impact of Cu/Sn precursor tin content on the properties and growth mechanism of Nb3Sn thin films via bronze methods"
+aliases: ["Lu 2025 CuSn precursor", "CuSn precursor thickness Lu"]
 type: source
 authors: ["Lu et al."]
 year: 2025

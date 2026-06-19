@@ -1,5 +1,6 @@
 ---
 title: "Magneto-Optical                         Characterization Techniques"
+aliases: ["Polyanskii 2021"]
 type: source
 authors: ["Polyanskii and Larbalestier"]
 year: 2021

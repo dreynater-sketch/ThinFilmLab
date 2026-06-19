@@ -1,5 +1,6 @@
 ---
 title: "Superconducting Resonator Development for the Axion Dark Matter eXperiment"
+aliases: ["Braine 2024"]
 type: source
 authors: ["Braine"]
 year: 2024

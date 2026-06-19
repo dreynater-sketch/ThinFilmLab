@@ -1,5 +1,6 @@
 ---
 title: "50 years of success for SRF accelerators—a review"
+aliases: ["Padamsee 2017"]
 type: source
 authors: ["Padamsee"]
 year: 2017

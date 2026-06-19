@@ -1,5 +1,6 @@
 ---
 title: "USPAS | Programs | UNM (2014) | Fundamentals of Accelerator Physics with Lab"
+aliases: ["USPAS UNM 2014 fundamentals"]
 type: source
 authors: ["Unknown"]
 year: 2021

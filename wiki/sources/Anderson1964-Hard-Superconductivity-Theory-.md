@@ -1,5 +1,6 @@
 ---
 title: "Hard Superconductivity: Theory of the Motion of Abrikosov Flux Lines"
+aliases: ["Anderson 1964"]
 type: source
 authors: ["Anderson and Kim"]
 year: 1964
