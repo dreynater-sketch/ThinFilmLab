@@ -2,13 +2,13 @@
 
 Master catalog of all pages in this knowledge base. Updated on every ingest. Read this before answering any query.
 
-**Total source pages:** 470
-**Entity pages:** 9
+**Total source pages:** 472
+**Entity pages:** 10
 **Synthesis pages:** 4
 **Concept pages:** 2
 **Lab pages:** ~65 (SOPs, training, experiments, tasks, notes)
 **Project pages:** 10 (FMF Nb3Sn Wires: hub + 8 wires + question ledger)
-**Last updated:** 2026-06-11
+**Last updated:** 2026-09-15
 
 ---
 
@@ -29,6 +29,7 @@ Master catalog of all pages in this knowledge base. Updated on every ingest. Rea
 |------|-------------|---------|
 | [[Hot Bronze Route]] | FSU's Cu-Sn hot bronze deposition; Zone-2 columnar microstructure on Cu at 650–750°C | 5 |
 | [[Multilayer Sputtering]] | Ta/CuSn/Nb precursor stack for Nb3Sn on Cu; FSU process architecture | 4 |
+| [[Choke Cavity]] | Daresbury 7.8 GHz coupon-testing resonator; band-stop chokes isolate sample from cavity for RF-DC compensation Rs measurement | 1 |
 
 ### Characterization
 
@@ -532,7 +533,7 @@ Side projects outside the thin-film core. One folder per project under `projects
 | [[Thangaraj2021-High-power-superconducting-ele]] | High power superconducting electron linear accelerators for ... | Thangaraj | 2021 |
 | [[Romanenko2023-Progress-in-the-High-Coherence]] | Progress in the High Coherence 3D SRF Superconducting Quantu... | Romanenko | 2023 |
 
-### SRF Fundamentals (55)
+### SRF Fundamentals (56)
 
 | Page | Title | Authors | Year |
 |------|-------|---------|------|
@@ -692,6 +693,7 @@ Side projects outside the thin-film core. One folder per project under `projects
 | [[Posen2021-Advances-in-Nb-sub3sub-Sn-supe]] | Advances in Nb <sub>3</sub> Sn superconducting radiofrequenc... | Posen et al. | 2021 |
 | [[Fonnesu2026-Stoichiometric-Studies-of-Nb3S]] | Stoichiometric Studies of Nb3Sn | Fonnesu | 2026 |
 | [[Turner2026-An-Investigation-of-the-Magnet]] | An Investigation of the Magnetic Field of Full Flux Penetrat... | Turner | 2026 |
+| [[Seal2025-Choke-Cavity-Facility]] | Development Of A High Throughput Facility For The RF Charact... | Seal | 2025 |
 | [[Unknownxxxx-no-title]] | (no title) | Unknown | ???? |
 | [[Unknownxxxx-no-title]] | (no title) | Unknown | ???? |
 | [[Unknownxxxx-no-title]] | (no title) | Unknown | ???? |
